@@ -15,6 +15,12 @@ COUNTRIES_QUERY = [{
   :type => "/location/country"
 }]
 
+COUNTRY_PROPERTIES = {
+  "languages_spoken" => {:name => "Languages spoken", :value_key => "name"},
+  "form_of_government" => {:name => "Form of governmennt", :value_key => "name"},
+  "currency_used" => {:name => "Currency used", :value_key => "name"}
+}
+
 ARTISTS_QUERY = [{
   :album => [{
     :id => nil,
@@ -29,34 +35,43 @@ ARTISTS_QUERY = [{
 }]
 
 get '/' do
-  "this service provides some collections"
+  "this service provides some collections (/countries, /minimal_artists)"
 end
 
 # fetch countries from freebase
 get '/countries' do
   # content_type :json  
-  result = {:items => [], :facet_categories => {} }
+  result = {:items => [], :properties => {} }
   countries = Ken.session.mqlread(COUNTRIES_QUERY, :cursor => true)
-
+  
+  # properties
+  COUNTRY_PROPERTIES.each do |pkey, pdef|
+    result[:properties][pkey] = pdef
+  end
+  
+  # items
   countries.each do |country|
     item = {
       :name => country["name"],
-      :facets => []
+      :attributes => []
     }
     
-    # language facet
-    facet = {:values => []}
-    country["languages_spoken"].each do |l|
-      facet[:values] << {:id => l["id"], :name => l["name"]}
+    COUNTRY_PROPERTIES.each do |pkey, pdef|
+      attribute = {:values => []}
+      country[pkey].each do |val|
+        attribute[:values] << {:id => val["id"], :value => val[pdef[:value_key]]}
+      end
+      
+      item[:attributes] << attribute
     end
-    item[:facets] << facet    
+    
     result[:items] << item
     
   end
-  result.to_json
+  result.inspect
 end
 
-# fetch countries from freebase
+# fetch minimal techno artists from freebase
 get '/minimal_techno_artists' do
   artists = Ken.session.mqlread(ARTISTS_QUERY)
   # TODO: translate ;-)
