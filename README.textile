@@ -1,0 +1,99 @@
+h1. Collectionize
+
+Collectionize is just a little aggregator service that translates interesting web services to a uniform collection format.
+Those collections that are represented in a readable JSON format can than be handled by "Envision":http://github.com/michael/envision,
+a browser dedicated to data analysis and visualization tasks.
+
+There's also a Javascript Library that can be used to process such collections and perform transformations like grouping and sorting on them.
+It's pretty much like Google's "DataTable":http://code.google.com/apis/visualization/documentation/reference.html#DataTable,
+which is part of the Google Visualization API.
+
+Check it out at "http://github.com/michael/collection":http://github.com/michael/collection.
+
+h2. Currently available Collections
+
+* Countries fetched from Freebase.com (_/countries_)
+* Last.fm Playlists (_/playlists_)
+
+
+h2. Format
+
+Collections have the following format:
+
+<pre>
+<code>
+{
+  "properties": "properties": {
+    "name": {
+      "name": "Country Name",
+      "type": "string",
+      "property_key": "name",
+      "value_key": "name",
+      "unique": true
+    },
+    "official_language": {
+      "name": "Official language",
+      "type": "string",
+      "property_key": "official_language",
+      "value_key": "name",
+      "unique": true
+    },
+    "form_of_government": {
+      "name": "Form of governmennt",
+      "type": "string",
+      "property_key": "form_of_government",
+      "value_key": "name",
+      "unique": false
+    },
+    "currency_used": {
+      "name": "Currency used",
+      "type": "string",
+      "property_key": "currency_used",
+      "value_key": "name",
+      "unique": true
+    },
+    "population": {
+      "name": "Population",
+      "type": "number",
+      "property_key": "/location/statistical_region/population",
+      "value_key": "number",
+      "unique": true
+    },
+    "gdp_nominal": {
+      "name": "GDP nominal",
+      "type": "number",
+      "property_key": "/location/statistical_region/gdp_nominal",
+      "value_key": "amount",
+      "unique": true
+    },
+    "area": {
+      "name": "Area",
+      "type": "number",
+      "property_key": "/location/location/area",
+      "unique": true
+    },
+    "date_founded": {
+      "name": "Date founded",
+      "property_key": "/location/dated_location/date_founded",
+      "type": "date",
+      "unqiue": true
+    }
+  },
+  "items": [
+    {
+      "name": "Argentina",
+      "official_language": "Spanish Language",
+      "form_of_government": [
+        "Federal republic",
+        "Presidential system"
+      ],
+      "currency_used": "Argentinian Peso",
+      "population": 39745613,
+      "gdp_nominal": 338700000000.0,
+      "area": 2780403.0,
+      "date_founded": "1816-07-09"
+    }
+  ],
+}
+</code>
+</pre>
