@@ -1,0 +1,224 @@
+Johnny Cash
+Willie Nelson
+Dolly Parton
+Hank Williams
+Faith Hill
+Dixie Chicks
+Garth Brooks
+Kenny Rogers
+Tim McGraw
+Hank Snow
+Brooks and Dunn
+Lee Hazlewood
+Kenny Chesney
+Jim Reeves
+Roger Miller
+Kris Kristofferson
+Bob Dylan
+Joni Mitchell
+Leonard Cohen
+Joan Baez
+Townes van Zandt
+Pete Seeger
+Suzanne Vega
+Tracy Chapman
+Tim Buckley
+Steeleye Span
+Woodie Guthrie
+Donovan
+Cat Stevens
+John Denver
+Don McLean
+Crosby Stills & Nash
+Miles Davis
+Dave Brubeck
+Billie Holiday
+Duke Ellington
+Django Reinhardt
+Glenn Miller
+Ella Fitzgerald
+Louis Armstrong
+Nat King Cole
+Herbie Hancock
+Nina Simone
+John Coltrane
+Charlie Parker
+Count Basie
+Thelonious Monk
+Cannonball Adderley
+John Lee Hooker
+Muddy Waters
+Taj Mahal
+John Mayall
+Big Bill Broonzy
+BB King
+Howlin' Wolf
+Willie Dixon
+Blind Lemon Jefferson
+Blind Willie McTell
+Mississippi John Hurt
+T-Bone Walker
+Etta James
+Lightnin' Hopkins
+Otis Rush
+Albert King
+James Brown
+Marvin Gaye
+Otis Redding
+Solomon Burke
+Sam Cooke
+Aretha Franklin
+Al Green
+The Temptations
+The Drifters
+Fats Domino
+The Supremes
+Isaac Hayes
+Alicia Keys
+Erykah Badu
+India Arie
+Jill Scott
+Iron Maiden
+Megadeth
+Slayer
+Sepultura
+Black Sabbath
+Anthrax
+Alice Cooper
+Deep Purple
+Def Leppard
+AC/DC
+Judas Priest
+Kiss
+Metallica
+Pantera
+Queensryche
+Skid Row
+Nirvana
+Beck
+Smashing Pumpkins
+Radiohead
+Belle and Sebastian
+Alice in Chains
+Echo and the Bunnymen
+Sonic Youth
+Weezer
+Pearl Jam
+Foo Fighters
+Hole
+Bush
+The Smiths
+Depeche Mode
+Jane's Addiction
+Patti Smith
+Sex Pistols
+Sid Vicious
+Ramones
+Bad Religion
+The Clash
+NoFX
+Dead Kennedys
+Buzzcocks
+Green Day
+Blink 182
+Sum 41
+The Misfits
+Rancid
+Screeching Weasel
+Pennywise
+Eminem
+Dr. Dre
+Public Enemy
+Missy Elliot
+Cypress Hill
+50 Cent
+Run DMC
+Grandmaster Flash
+2Pac
+Snoop Dogg
+Jay-Z
+Busta Rhymes
+LL Cool J
+DMX
+Ice Cube
+Mystikal
+Aphex Twin
+Daft Punk
+Kraftwerk
+Chemical Brothers
+Fatboy Slim
+Basement Jaxx
+Carl Cox
+Moloko
+Paul Oakenfold
+Prodigy
+Armand van Helden
+Moby
+Massive Attack
+Mouse on Mars
+Jimi Tenor
+Underworld
+Bob Marley
+Jimmy Cliff
+Peter Tosh
+Ziggy Marley
+Sean Paul
+Alpha Blondy
+Shaggy
+Maxi Priest
+Shabba Ranks
+UB40
+Inner Circle
+Desmond Dekker
+Capleton
+Bounty Killer
+Eddy Grant
+Black Uhuru
+The Rolling Stones
+The Animals
+The Faces
+The Kinks
+The Who
+Elvis Presley
+Chuck Berry
+Little Richard
+Jerry Lee Lewis
+Buddy Holly
+Bo Diddley
+Bill Haley
+Chubby Checker
+The Yardbirds
+Carl Perkins
+Gene Vincent
+Madonna
+Britney Spears
+N'Sync
+Justin Timberlake
+ABBA
+Michael Jackson
+Janet Jackson
+Prince
+Spice Girls
+Christina Aguilera
+Robbie Williams
+Nelly Furtado
+Avril Lavigne
+Jennifer Lopez
+O-Town
+Shakira
+Wolfgang Amadeus Mozart
+Ludwig van Beethoven
+Johann Sebastian Bach
+Joseph Haydn
+Johannes Brahms
+Frederic Chopin
+Antonin Dvorak
+Gustav Mahler
+Franz Schubert
+Antonio Vivaldi
+Richard Wagner
+Herbert von Karajan
+Yehudi Menuhin
+Georg Friedrich Haendel
+Tchaikovsky
+Giuseppe Verdi

@@ -1,0 +1,27 @@
+{
+  "items": [
+
+  ],
+  "properties": {
+    "name": {
+      "name": "Playlist Name",
+      "type": "string",
+      "unique": true
+    },
+    "artists": {
+      "name": "Artists",
+      "type": "string",
+      "unique": false
+    },
+    "songs": {
+      "name": "Songs",
+      "type": "string",
+      "unique": false
+    },
+    "song_count": {
+      "name": "Song count",
+      "type": "number",
+      "unique": false
+    }
+  }
+}
