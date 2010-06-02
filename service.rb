@@ -28,7 +28,6 @@ COUNTRY_PROPERTIES = {
   "date_founded" => {:name => "Date founded", :property_key => "/location/dated_location/date_founded", :type => "date", :unqiue => true}
 }
 
-
 get '/' do
   'This service provides some collections:<br/>
   <ul>
@@ -38,8 +37,8 @@ get '/' do
   </ul>'
 end
 
-get '/countries' do
-  result = {:items => [], :properties => {} }
+get '/update_countries' do
+  result = {:items => {}, :properties => {} }
   countries = Ken.session.mqlread(COUNTRIES_QUERY, :cursor => true)
   
   # properties
@@ -47,6 +46,7 @@ get '/countries' do
     result[:properties][pkey] = pdef
   end
   
+  puts "[1] retrieved #{countries.length.to_s} countries."
   # items
   countries.each do |country|
     item = {}
@@ -68,10 +68,18 @@ get '/countries' do
       end
       
     end
-    result[:items] << item
+    result[:items][country["id"]] = item
   end
   
-  JSON.pretty_generate(result)
+  f = File.open("cache/countries.json",  "w") do |f|
+    f.write(JSON.pretty_generate(result))
+  end
+  
+  IO.read("cache/countries.json")
+end
+
+get '/countries' do
+  IO.read("cache/countries.json")
 end
 
 get '/update_playlists' do

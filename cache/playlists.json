@@ -1,7 +1,6128 @@
 {
-  "items": [
-
-  ],
+  "items": {
+    "19086": {
+      "name": "MarkSinnis's playlist",
+      "artists": [
+        "Johnny Cash",
+        "Johnny Cash",
+        "Bob Dylan",
+        "Johnny Cash"
+      ],
+      "songs": [
+        "Johnny Cash - It Takes One To Know Me",
+        "Johnny Cash - Saginaw, Michigan",
+        "Bob Dylan - Bob Dylan - Don't Think Twice, It's Alright",
+        "Johnny Cash - Thirteen"
+      ],
+      "song_count": 4
+    },
+    "6760998": {
+      "name": "",
+      "artists": [
+        "Willie Nelson"
+      ],
+      "songs": [
+        "Willie Nelson - Always On My Mind"
+      ],
+      "song_count": 1
+    },
+    "4806406": {
+      "name": "country favorites",
+      "artists": [
+        "Tim McGraw",
+        "Willie Nelson",
+        "Kenny Chesney",
+        "Tim McGraw",
+        "Garth Brooks",
+        "Garth Brooks",
+        "Garth Brooks",
+        "Garth Brooks",
+        "Garth Brooks",
+        "Garth Brooks",
+        "Garth Brooks",
+        "Garth Brooks",
+        "Garth Brooks",
+        "Garth Brooks",
+        "Garth Brooks",
+        "Garth Brooks",
+        "Garth Brooks",
+        "Dixie Chicks",
+        "Kenny Chesney"
+      ],
+      "songs": [
+        "Tim McGraw - Please Remember Me",
+        "Willie Nelson - Always On My Mind",
+        "Kenny Chesney - Thank God For Kids",
+        "Tim McGraw - If You're Reading This",
+        "Garth Brooks - That Summer",
+        "Garth Brooks - Learning to Live Again",
+        "Garth Brooks - Every Now and Then",
+        "Garth Brooks - We Shall Be Free",
+        "Garth Brooks - Somewhere Other Than the Night",
+        "Garth Brooks - It Don't Matter to the Sun",
+        "Garth Brooks - Driftin' Away",
+        "Garth Brooks - Lost in You",
+        "Garth Brooks - When You Come Back to Me Again",
+        "Garth Brooks - The Storm",
+        "Garth Brooks - You Can't Help Who You Love",
+        "Garth Brooks - For a Minute There",
+        "Garth Brooks - Fishin' in the Dark",
+        "Dixie Chicks - Not Ready To Make Nice",
+        "Kenny Chesney - Please Come to Boston (live)"
+      ],
+      "song_count": 19
+    },
+    "5877683": {
+      "name": "",
+      "artists": [
+        "Jay-Z",
+        "Snoop Dogg"
+      ],
+      "songs": [
+        "Jay-Z - Blue Magic ft. Pharrell",
+        "Snoop Dogg - A Bitch I Knew"
+      ],
+      "song_count": 2
+    },
+    "6746097": {
+      "name": "good country",
+      "artists": [
+        "Hank Snow"
+      ],
+      "songs": [
+        "Hank Snow - I'm Moving On"
+      ],
+      "song_count": 1
+    },
+    "2789009": {
+      "name": "",
+      "artists": [
+        "Little Richard",
+        "Elvis Presley",
+        "The Kinks",
+        "Bill Haley",
+        "Jerry Lee Lewis",
+        "Little Richard"
+      ],
+      "songs": [
+        "Little Richard - Rip It Up",
+        "Elvis Presley - Suspicious Minds",
+        "The Kinks - Come Dancing",
+        "Bill Haley - Razzle Dazzle",
+        "Jerry Lee Lewis - Whole Lot Of Shakin' Going on",
+        "Little Richard - All Around The World"
+      ],
+      "song_count": 6
+    },
+    "1155945": {
+      "name": "Amy_Dutronc\u2019s playlist",
+      "artists": [
+        "The Rolling Stones"
+      ],
+      "songs": [
+        "The Rolling Stones - She's A Rainbow"
+      ],
+      "song_count": 1
+    },
+    "6635669": {
+      "name": "",
+      "artists": [
+        "Bo Diddley",
+        "Bo Diddley",
+        "Bo Diddley",
+        "Bo Diddley",
+        "Bo Diddley",
+        "Bo Diddley",
+        "Bo Diddley",
+        "Bo Diddley",
+        "Don McLean",
+        "Don McLean",
+        "Don McLean",
+        "Don McLean",
+        "UB40",
+        "UB40",
+        "Sam Cooke"
+      ],
+      "songs": [
+        "Bo Diddley - I'm A Man",
+        "Bo Diddley - Bo Diddley",
+        "Bo Diddley - Who Do You Love",
+        "Bo Diddley - Pretty Thing",
+        "Bo Diddley - Bring It To Jerome",
+        "Bo Diddley - Before You Accuse Me",
+        "Bo Diddley - Say Man",
+        "Bo Diddley - Mona",
+        "Don McLean - Vincent",
+        "Don McLean - Winterwood",
+        "Don McLean - Castles In The Air",
+        "Don McLean - Crying",
+        "UB40 - Can't Help Falling In Love",
+        "UB40 - Red, Red Wine",
+        "Sam Cooke - I'll Come Running Back To You"
+      ],
+      "song_count": 15
+    },
+    "6393012": {
+      "name": "",
+      "artists": [
+        "Johnny Cash",
+        "Johnny Cash"
+      ],
+      "songs": [
+        "Johnny Cash - Man In Black",
+        "Johnny Cash - Cry Cry Cry"
+      ],
+      "song_count": 2
+    },
+    "2843331": {
+      "name": "",
+      "artists": [
+        "Dave Brubeck"
+      ],
+      "songs": [
+        "Dave Brubeck - Take Five"
+      ],
+      "song_count": 1
+    },
+    "4839512": {
+      "name": "",
+      "artists": [
+        "Joan Baez",
+        "Joan Baez",
+        "Joan Baez",
+        "Joan Baez",
+        "Joan Baez"
+      ],
+      "songs": [
+        "Joan Baez - The Brand New Tennessee Waltz",
+        "Joan Baez - Farewell, Angelina",
+        "Joan Baez - Children And All That Jazz",
+        "Joan Baez - Prison Trilogy (Billy Rose)",
+        "Joan Baez - Ranger's Command"
+      ],
+      "song_count": 5
+    },
+    "1010147": {
+      "name": "saphirai\u2019s playlist",
+      "artists": [
+        "Bob Dylan",
+        "Bob Dylan",
+        "Bob Dylan",
+        "Bob Dylan",
+        "Bob Dylan",
+        "Bob Dylan",
+        "Bob Dylan",
+        "Bob Dylan",
+        "Bob Dylan",
+        "Bob Dylan",
+        "Bob Dylan",
+        "Bob Dylan",
+        "Bob Dylan",
+        "Bob Dylan",
+        "Bob Dylan",
+        "Nina Simone",
+        "Nina Simone",
+        "Nina Simone",
+        "Nina Simone",
+        "Nina Simone",
+        "Nina Simone",
+        "Nina Simone",
+        "Nina Simone",
+        "Nina Simone",
+        "Tim Buckley",
+        "Tim Buckley",
+        "Tim Buckley",
+        "Tim Buckley"
+      ],
+      "songs": [
+        "Bob Dylan - Just Like a Woman",
+        "Bob Dylan - Tangled Up In Blue",
+        "Bob Dylan - I Want You",
+        "Bob Dylan - Hurricane",
+        "Bob Dylan - Lay Lady Lay",
+        "Bob Dylan - Don't Think Twice, It's All Right",
+        "Bob Dylan - It's All Over Now, Baby Blue",
+        "Bob Dylan - It Ain't Me Babe",
+        "Bob Dylan - She Belongs To Me",
+        "Bob Dylan - If Not For You",
+        "Bob Dylan - I Shall Be Released",
+        "Bob Dylan - Idiot Wind",
+        "Bob Dylan - One of Us Must Know (Sooner or Later)",
+        "Bob Dylan - Leopard-Skin Pill-Box Hat",
+        "Bob Dylan - Forever Young",
+        "Nina Simone - Feeling Good",
+        "Nina Simone - I Put A Spell On You",
+        "Nina Simone - Here Comes The Sun",
+        "Nina Simone - To Love Somebody",
+        "Nina Simone - Wild Is The Wind",
+        "Nina Simone - Ne Me Quitte Pas",
+        "Nina Simone - I Wish I Knew How It Would Feel To Be Free",
+        "Nina Simone - Strange Fruit",
+        "Nina Simone - Little Girl Blue",
+        "Tim Buckley - Song to the Siren",
+        "Tim Buckley - She Is",
+        "Tim Buckley - Sweet Surrender",
+        "Tim Buckley - Valentine Melody"
+      ],
+      "song_count": 28
+    },
+    "4052571": {
+      "name": "bille",
+      "artists": [
+        "Billie Holiday",
+        "Billie Holiday",
+        "Billie Holiday",
+        "Billie Holiday",
+        "Billie Holiday",
+        "Billie Holiday",
+        "Billie Holiday",
+        "Billie Holiday"
+      ],
+      "songs": [
+        "Billie Holiday - Blue Moon",
+        "Billie Holiday - Strange Fruit",
+        "Billie Holiday - Night and Day",
+        "Billie Holiday - Georgia On My Mind",
+        "Billie Holiday - Speak Low",
+        "Billie Holiday - Embraceable You",
+        "Billie Holiday - On The Sunny Side Of The Street",
+        "Billie Holiday - Strange Fruit (Tricky remix)"
+      ],
+      "song_count": 8
+    },
+    "6378586": {
+      "name": "randoness that makes me happy",
+      "artists": [
+        "Suzanne Vega"
+      ],
+      "songs": [
+        "Suzanne Vega - Night Vision"
+      ],
+      "song_count": 1
+    },
+    "6430213": {
+      "name": "",
+      "artists": [
+        "Al Green"
+      ],
+      "songs": [
+        "Al Green - Tired Of Being Alone"
+      ],
+      "song_count": 1
+    },
+    "16348": {
+      "name": "StVal's playlist",
+      "artists": [
+        "Tim Buckley",
+        "Elvis Presley",
+        "Tim Buckley",
+        "Bob Dylan",
+        "Tim Buckley",
+        "Tim Buckley",
+        "Tim Buckley",
+        "Tim Buckley",
+        "Tim Buckley",
+        "Tim Buckley",
+        "Bob Dylan",
+        "Bob Dylan",
+        "Bob Dylan",
+        "Bob Dylan",
+        "Bob Dylan",
+        "Iron Maiden",
+        "Iron Maiden",
+        "Iron Maiden",
+        "Iron Maiden",
+        "Iron Maiden",
+        "Iron Maiden",
+        "Iron Maiden",
+        "Iron Maiden",
+        "Iron Maiden",
+        "Elvis Presley",
+        "Elvis Presley",
+        "Elvis Presley",
+        "Elvis Presley",
+        "Elvis Presley",
+        "Elvis Presley",
+        "Elvis Presley",
+        "Elvis Presley",
+        "Elvis Presley",
+        "Elvis Presley",
+        "Elvis Presley",
+        "Elvis Presley",
+        "Elvis Presley",
+        "Elvis Presley",
+        "Elvis Presley",
+        "Elvis Presley",
+        "Elvis Presley",
+        "Elvis Presley",
+        "Elvis Presley",
+        "Elvis Presley",
+        "Elvis Presley",
+        "Elvis Presley",
+        "Elvis Presley",
+        "Elvis Presley",
+        "Elvis Presley",
+        "Elvis Presley",
+        "Elvis Presley",
+        "Elvis Presley",
+        "Elvis Presley",
+        "Tim Buckley"
+      ],
+      "songs": [
+        "Tim Buckley - Song to the Siren",
+        "Elvis Presley - Moody Blue",
+        "Tim Buckley - Dolphins",
+        "Bob Dylan - Nettie Moore",
+        "Tim Buckley - Morning Glory",
+        "Tim Buckley - It Happens Every Time",
+        "Tim Buckley - No Man Can Find The War",
+        "Tim Buckley - Sweet Surrender",
+        "Tim Buckley - Phantasmagoria in Two",
+        "Tim Buckley - Sing A Song For You",
+        "Bob Dylan - Hurricane",
+        "Bob Dylan - Thunder On The Mountain",
+        "Bob Dylan - Rollin' and Tumblin'",
+        "Bob Dylan - Beyond The Horizon",
+        "Bob Dylan - Ain't Talkin'",
+        "Iron Maiden - The Wicker Man",
+        "Iron Maiden - Brave New World",
+        "Iron Maiden - The Clairvoyant",
+        "Iron Maiden - Rainmaker",
+        "Iron Maiden - Different World",
+        "Iron Maiden - Dance of Death",
+        "Iron Maiden - The Pilgrim",
+        "Iron Maiden - The Reincarnation Of Benjamin Breeg",
+        "Iron Maiden - Brighter Than A Thousand Suns",
+        "Elvis Presley - (You're The) Devil In Disguise",
+        "Elvis Presley - A Big Hunk O' Love",
+        "Elvis Presley - If I Can Dream",
+        "Elvis Presley - Memories",
+        "Elvis Presley - Unchained Melody",
+        "Elvis Presley - From a Jack to a King",
+        "Elvis Presley - Any Day Now",
+        "Elvis Presley - Inherit the Wind",
+        "Elvis Presley - My Little Friend",
+        "Elvis Presley - A Thing Called Love",
+        "Elvis Presley - Pocketful Of Rainbows",
+        "Elvis Presley - G.I. Blues",
+        "Elvis Presley - Solitare",
+        "Elvis Presley - Hurt",
+        "Elvis Presley - If You Love Me (Let Me Know)",
+        "Elvis Presley - Patch It Up",
+        "Elvis Presley - Help Me",
+        "Elvis Presley - Fairytale",
+        "Elvis Presley - Promised Land",
+        "Elvis Presley - Mr. Songman",
+        "Elvis Presley - Spanish Eyes",
+        "Elvis Presley - See See Rider",
+        "Elvis Presley - I Got A Woman",
+        "Elvis Presley - Love Me",
+        "Elvis Presley - Harem Holiday",
+        "Elvis Presley - So Close, Yet So Far (From Paradise)",
+        "Elvis Presley - Edge Of Reality",
+        "Elvis Presley - Almost in Love",
+        "Elvis Presley - Charro!",
+        "Tim Buckley - Love From Room 109 at The Islander (On Pacific Coast Highway)"
+      ],
+      "song_count": 54
+    },
+    "5563571": {
+      "name": "Blood Sweat und so",
+      "artists": [
+        "Johnny Cash",
+        "Johnny Cash",
+        "Johnny Cash",
+        "Johnny Cash",
+        "Johnny Cash"
+      ],
+      "songs": [
+        "Johnny Cash - The Legend of John Henry's Hammer",
+        "Johnny Cash - Another Man Done Gone",
+        "Johnny Cash - Busted",
+        "Johnny Cash - Casey Jones",
+        "Johnny Cash - Waiting For A Train"
+      ],
+      "song_count": 5
+    },
+    "5560992": {
+      "name": "Gismonti",
+      "artists": [
+        "Johann Sebastian Bach",
+        "Johann Sebastian Bach",
+        "Johann Sebastian Bach",
+        "Johann Sebastian Bach",
+        "Johann Sebastian Bach",
+        "Johann Sebastian Bach",
+        "Johann Sebastian Bach",
+        "Johann Sebastian Bach",
+        "Johann Sebastian Bach",
+        "Johann Sebastian Bach",
+        "Johann Sebastian Bach",
+        "Johann Sebastian Bach",
+        "Johann Sebastian Bach",
+        "Johann Sebastian Bach",
+        "Johann Sebastian Bach",
+        "Johann Sebastian Bach",
+        "Johann Sebastian Bach",
+        "Johann Sebastian Bach",
+        "Johann Sebastian Bach"
+      ],
+      "songs": [
+        "Johann Sebastian Bach - Sankanda + Lasset Uns Den Nicht Zerteilen",
+        "Johann Sebastian Bach - Mayingo + Fugue sur Mayingo",
+        "Johann Sebastian Bach - Bomb + Ruht Wohl, Ihr Heiligen Gebeine (Passion selon St-Jean, mouvement 67)",
+        "Johann Sebastian Bach - Pepa Nzac Gnon Ma + Prlude de la partita pour violon N3",
+        "Johann Sebastian Bach - Mamoudo Na Sakka Baya Boudouma Ngombi + Prlude N14, BWV 883",
+        "Johann Sebastian Bach - Agnus Dei (Messe en si, BWV 232, arrgt P. Akendengu)",
+        "Johann Sebastian Bach - Ikoukou",
+        "Johann Sebastian Bach - Inongo + Invention  trois voix No. 3 en r majeur, BWV 789",
+        "Johann Sebastian Bach - Okoukou + Cantata 147",
+        "Johann Sebastian Bach - Was mir behagt, ist nur die Muntre Jagd",
+        "Johann Sebastian Bach - Okoukou + Cantata 1",
+        "Johann Sebastian Bach - Herr, Unser Herrscher (Passion selon St-Jean, chorus N1, arrgt. H. de Courson)",
+        "Johann Sebastian Bach - Bomb + Ruht Wohl, Ihr Heiligen Gebeine (Passion selon St-Jean, mouvement 6",
+        "Johann Sebastian Bach - Mabo Maboe + Gigue de la 4me suite en mi bemol majeur pour violoncel",
+        "Johann Sebastian Bach - Pepa Nzac Gnon Ma + Prlude de la partita pour violon N",
+        "Johann Sebastian Bach - Mamoudo Na Sakka Baya Boudouma Ngombi + Prlude N14, BWV 8",
+        "Johann Sebastian Bach - Agnus Dei (Messe en si, BWV 232, arrgt P. Akendengu",
+        "Johann Sebastian Bach - Inongo + Invention  trois voix No. 3 en r majeur, BWV",
+        "Johann Sebastian Bach - Cantata BWV 147 N10 Jesus Bleibet Meine Freude"
+      ],
+      "song_count": 19
+    },
+    "6196486": {
+      "name": "Crazy Fun Mix",
+      "artists": [
+        "Beck"
+      ],
+      "songs": [
+        "Beck - Loser"
+      ],
+      "song_count": 1
+    },
+    "6195830": {
+      "name": "Blues",
+      "artists": [
+        "Mississippi John Hurt",
+        "Blind Willie McTell"
+      ],
+      "songs": [
+        "Mississippi John Hurt - Spike Driver Blues",
+        "Blind Willie McTell - Mama, Let Me Scoop for You"
+      ],
+      "song_count": 2
+    },
+    "4827443": {
+      "name": "",
+      "artists": [
+        "Al Green",
+        "Michael Jackson",
+        "Leonard Cohen",
+        "The Who"
+      ],
+      "songs": [
+        "Al Green - Let's Stay Together",
+        "Michael Jackson - Don't Stop 'til You Get Enough",
+        "Leonard Cohen - Suzanne",
+        "The Who - Squeeze Box"
+      ],
+      "song_count": 4
+    },
+    "2099304": {
+      "name": "YoureNoFun\u2019s playlist",
+      "artists": [
+        "Radiohead",
+        "Bob Dylan",
+        "Belle and Sebastian",
+        "Depeche Mode",
+        "Radiohead"
+      ],
+      "songs": [
+        "Radiohead - Planet Telex",
+        "Bob Dylan - Like A Rolling Stone",
+        "Belle and Sebastian - Piazza, New York Catcher",
+        "Depeche Mode - Precious",
+        "Radiohead - Just"
+      ],
+      "song_count": 5
+    },
+    "851527": {
+      "name": "will_the_drill\u2019s playlist",
+      "artists": [
+        "Michael Jackson"
+      ],
+      "songs": [
+        "Michael Jackson - Billie Jean"
+      ],
+      "song_count": 1
+    },
+    "6647102": {
+      "name": "bangla_level1",
+      "artists": [
+        "Don McLean",
+        "Don McLean",
+        "Don McLean",
+        "Don McLean",
+        "Don McLean",
+        "Green Day",
+        "Green Day",
+        "Green Day",
+        "Metallica",
+        "Metallica",
+        "Bob Dylan"
+      ],
+      "songs": [
+        "Don McLean - American Pie",
+        "Don McLean - Vincent",
+        "Don McLean - Castles In The Air",
+        "Don McLean - Crying",
+        "Don McLean - Everyday",
+        "Green Day - Boulevard Of Broken Dreams",
+        "Green Day - Good Riddance (Time of Your Life)",
+        "Green Day - 21 Guns",
+        "Metallica - Nothing Else Matters",
+        "Metallica - Enter Sandman",
+        "Bob Dylan - Blowin' In The Wind"
+      ],
+      "song_count": 11
+    },
+    "1231207": {
+      "name": "",
+      "artists": [
+        "Elvis Presley",
+        "Louis Armstrong"
+      ],
+      "songs": [
+        "Elvis Presley - Mexico (alt. take 2)",
+        "Louis Armstrong - I'm Putting All My Eggs In One Basket"
+      ],
+      "song_count": 2
+    },
+    "4242852": {
+      "name": "",
+      "artists": [
+        "Christina Aguilera"
+      ],
+      "songs": [
+        "Christina Aguilera - Nasty Naughty Boy"
+      ],
+      "song_count": 1
+    },
+    "5710932": {
+      "name": "Sunrise and wind in face.",
+      "artists": [
+        "Billie Holiday",
+        "Radiohead"
+      ],
+      "songs": [
+        "Billie Holiday - You're My Thrill",
+        "Radiohead - Life in a Glass House"
+      ],
+      "song_count": 2
+    },
+    "3193880": {
+      "name": "Lunch.",
+      "artists": [
+        "Radiohead",
+        "Radiohead",
+        "Radiohead"
+      ],
+      "songs": [
+        "Radiohead - Jigsaw Falling Into Place",
+        "Radiohead - High And Dry",
+        "Radiohead - You And Whose Army?"
+      ],
+      "song_count": 3
+    },
+    "6236845": {
+      "name": "",
+      "artists": [
+        "Duke Ellington",
+        "Erykah Badu",
+        "Duke Ellington",
+        "Duke Ellington"
+      ],
+      "songs": [
+        "Duke Ellington - In A Sentimental Mood",
+        "Erykah Badu - Rimshot (Intro)",
+        "Duke Ellington - New Concerto For Cootie",
+        "Duke Ellington - When I'm Feeling Kinda Blue"
+      ],
+      "song_count": 4
+    },
+    "747634": {
+      "name": "koalafishmutant\u2019s playlist",
+      "artists": [
+        "Daft Punk"
+      ],
+      "songs": [
+        "Daft Punk - Technologic"
+      ],
+      "song_count": 1
+    },
+    "5206766": {
+      "name": "",
+      "artists": [
+        "Daft Punk",
+        "Duke Ellington"
+      ],
+      "songs": [
+        "Daft Punk - Crescendolls",
+        "Duke Ellington - The Syphomaniac (How You Sound) Pt. II"
+      ],
+      "song_count": 2
+    },
+    "2745743": {
+      "name": "doomeddisciple\u2019s playlist",
+      "artists": [
+        "Black Sabbath",
+        "Black Sabbath",
+        "Black Sabbath",
+        "Black Sabbath",
+        "AC/DC",
+        "AC/DC",
+        "AC/DC",
+        "AC/DC",
+        "Public Enemy",
+        "Judas Priest",
+        "Django Reinhardt",
+        "Iron Maiden",
+        "AC/DC",
+        "Django Reinhardt",
+        "Judas Priest",
+        "Black Sabbath",
+        "Iron Maiden",
+        "Iron Maiden",
+        "Slayer",
+        "Black Sabbath",
+        "Joan Baez",
+        "Django Reinhardt"
+      ],
+      "songs": [
+        "Black Sabbath - Paranoid",
+        "Black Sabbath - Iron Man",
+        "Black Sabbath - War Pigs",
+        "Black Sabbath - Planet Caravan",
+        "AC/DC - Highway to Hell",
+        "AC/DC - Back in Black",
+        "AC/DC - You Shook Me All Night Long",
+        "AC/DC - Hells Bells",
+        "Public Enemy - Welcome To The Terrordome",
+        "Judas Priest - Better By You, Better Than Me",
+        "Django Reinhardt - Rose Room",
+        "Iron Maiden - The Number of the Beast",
+        "AC/DC - Sin City",
+        "Django Reinhardt - Chicago",
+        "Judas Priest - Night Comes Down",
+        "Black Sabbath - Hole In The Sky",
+        "Iron Maiden - Sun and Steel",
+        "Iron Maiden - Invaders",
+        "Slayer - Cleanse the Soul",
+        "Black Sabbath - Symptom Of The Universe",
+        "Joan Baez - Babe, I'm Gonna Leave You",
+        "Django Reinhardt - Georgia On My Mind"
+      ],
+      "song_count": 22
+    },
+    "2267099": {
+      "name": "",
+      "artists": [
+        "The Clash",
+        "Sex Pistols",
+        "Sex Pistols",
+        "Sex Pistols",
+        "Sex Pistols",
+        "Cypress Hill",
+        "Cypress Hill",
+        "Cypress Hill",
+        "Beck",
+        "Nirvana",
+        "Nirvana",
+        "Sex Pistols",
+        "Nirvana",
+        "Radiohead",
+        "Elvis Presley",
+        "Nirvana",
+        "Daft Punk",
+        "Daft Punk",
+        "Radiohead",
+        "Nirvana",
+        "The Clash",
+        "Django Reinhardt"
+      ],
+      "songs": [
+        "The Clash - London Calling",
+        "Sex Pistols - God Save The Queen",
+        "Sex Pistols - Anarchy In The UK",
+        "Sex Pistols - Pretty Vacant",
+        "Sex Pistols - Holidays In The Sun",
+        "Cypress Hill - Insane In The Brain",
+        "Cypress Hill - How I Could Just Kill A Man",
+        "Cypress Hill - I Wanna Get High",
+        "Beck - E-Pro",
+        "Nirvana - Blew",
+        "Nirvana - Polly",
+        "Sex Pistols - EMI",
+        "Nirvana - You Know You're Right",
+        "Radiohead - In Limbo",
+        "Elvis Presley - A Little Less Conversation",
+        "Nirvana - Plateau",
+        "Daft Punk - Harder, Better, Faster, Stronger",
+        "Daft Punk - Something About Us",
+        "Radiohead - Idioteque",
+        "Nirvana - Where Did You Sleep Last Night",
+        "The Clash - Koka Kola",
+        "Django Reinhardt - Sweet Sue, Just You"
+      ],
+      "song_count": 22
+    },
+    "3529189": {
+      "name": "",
+      "artists": [
+        "Pearl Jam",
+        "Metallica",
+        "Pearl Jam",
+        "Bush",
+        "Tracy Chapman",
+        "Rancid"
+      ],
+      "songs": [
+        "Pearl Jam - World Wide Suicide",
+        "Metallica - Nothing Else Matters",
+        "Pearl Jam - Even Flow",
+        "Bush - Everything Zen",
+        "Tracy Chapman - The Promise",
+        "Rancid - Ruby Soho"
+      ],
+      "song_count": 6
+    },
+    "3529548": {
+      "name": "ke j'aime bien",
+      "artists": [
+        "Aphex Twin"
+      ],
+      "songs": [
+        "Aphex Twin - Windowlicker"
+      ],
+      "song_count": 1
+    },
+    "4317178": {
+      "name": "",
+      "artists": [
+        "Willie Nelson"
+      ],
+      "songs": [
+        "Willie Nelson - My Heroes Have Always Been Cowboys"
+      ],
+      "song_count": 1
+    },
+    "1134131": {
+      "name": "Playlist de raulgalode ",
+      "artists": [
+        "Aretha Franklin"
+      ],
+      "songs": [
+        "Aretha Franklin - Respect"
+      ],
+      "song_count": 1
+    },
+    "1719980": {
+      "name": "Lista odtwarzania psz1612",
+      "artists": [
+        "Radiohead"
+      ],
+      "songs": [
+        "Radiohead - 15 Step"
+      ],
+      "song_count": 1
+    },
+    "530245": {
+      "name": "",
+      "artists": [
+        "Weezer",
+        "Foo Fighters"
+      ],
+      "songs": [
+        "Weezer - Say It Ain't So",
+        "Foo Fighters - My Hero"
+      ],
+      "song_count": 2
+    },
+    "4933387": {
+      "name": "",
+      "artists": [
+        "Django Reinhardt",
+        "Miles Davis",
+        "Miles Davis",
+        "John Coltrane",
+        "Miles Davis",
+        "Miles Davis",
+        "Miles Davis",
+        "Nina Simone",
+        "Miles Davis",
+        "Thelonious Monk",
+        "Herbie Hancock",
+        "Miles Davis",
+        "Aretha Franklin",
+        "Nina Simone",
+        "Herbie Hancock",
+        "Wolfgang Amadeus Mozart",
+        "Wolfgang Amadeus Mozart",
+        "Ludwig van Beethoven",
+        "Miles Davis",
+        "Herbie Hancock"
+      ],
+      "songs": [
+        "Django Reinhardt - St. Louis Blues",
+        "Miles Davis - Freddie Freeloader",
+        "Miles Davis - So What",
+        "John Coltrane - Blue Train",
+        "Miles Davis - Pharaoh's Dance",
+        "Miles Davis - 'Round Midnight",
+        "Miles Davis - Saeta",
+        "Nina Simone - Work Song",
+        "Miles Davis - All Blues",
+        "Thelonious Monk - 'Round Midnight",
+        "Herbie Hancock - Vein Melter",
+        "Miles Davis - Black Satin",
+        "Aretha Franklin - Spanish Harlem",
+        "Nina Simone - I Loves You Porgy",
+        "Herbie Hancock - Dolphin Dance",
+        "Wolfgang Amadeus Mozart - Dies Irae",
+        "Wolfgang Amadeus Mozart - Lacrimosa",
+        "Ludwig van Beethoven - Allegro",
+        "Miles Davis - Someday My Prince Will Come",
+        "Herbie Hancock - Watermelon Man"
+      ],
+      "song_count": 20
+    },
+    "6723194": {
+      "name": "",
+      "artists": [
+        "The Rolling Stones"
+      ],
+      "songs": [
+        "The Rolling Stones - Anybody Seen My Baby?"
+      ],
+      "song_count": 1
+    },
+    "3424596": {
+      "name": "",
+      "artists": [
+        "Radiohead",
+        "Deep Purple",
+        "Foo Fighters",
+        "The Rolling Stones",
+        "John Lee Hooker",
+        "Michael Jackson",
+        "AC/DC",
+        "Deep Purple",
+        "Elvis Presley",
+        "Dr. Dre",
+        "The Rolling Stones",
+        "Justin Timberlake",
+        "Nelly Furtado",
+        "John Lee Hooker",
+        "Depeche Mode",
+        "Alice in Chains",
+        "John Lee Hooker",
+        "Alice in Chains",
+        "Alice in Chains",
+        "Metallica"
+      ],
+      "songs": [
+        "Radiohead - I Might Be Wrong",
+        "Deep Purple - Highway Star",
+        "Foo Fighters - End Over End",
+        "The Rolling Stones - 19th Nervous Breakdown",
+        "John Lee Hooker - Boom Boom",
+        "Michael Jackson - Beat It",
+        "AC/DC - Hells Bells",
+        "Deep Purple - Smoke On The Water",
+        "Elvis Presley - Heartbreak Hotel",
+        "Dr. Dre - Still D.R.E.",
+        "The Rolling Stones - Sister Morphine",
+        "Justin Timberlake - Losing My Way",
+        "Nelly Furtado - Say It Right",
+        "John Lee Hooker - Boogie Chillun",
+        "Depeche Mode - Enjoy The Silence",
+        "Alice in Chains - Nutshell",
+        "John Lee Hooker - It Serves Me Right To Suffer",
+        "Alice in Chains - Would?",
+        "Alice in Chains - Rooster",
+        "Metallica - Nothing Else Matters"
+      ],
+      "song_count": 20
+    },
+    "2800554": {
+      "name": "",
+      "artists": [
+        "Nirvana",
+        "Nirvana",
+        "Nirvana",
+        "Nirvana",
+        "Nirvana",
+        "Nirvana",
+        "The Animals",
+        "The Animals",
+        "The Animals",
+        "Radiohead",
+        "Radiohead",
+        "Foo Fighters"
+      ],
+      "songs": [
+        "Nirvana - Come As You Are",
+        "Nirvana - Smells Like Teen Spirit",
+        "Nirvana - In Bloom",
+        "Nirvana - Lithium",
+        "Nirvana - Smells Like Teens Spirit",
+        "Nirvana - Breed",
+        "The Animals - House Of The Rising Sun",
+        "The Animals - We Gotta Get Out of This Place",
+        "The Animals - It's My Life",
+        "Radiohead - Bodysnatchers",
+        "Radiohead - Just",
+        "Foo Fighters - Best Of You"
+      ],
+      "song_count": 12
+    },
+    "3210938": {
+      "name": "Favourites",
+      "artists": [
+        "Sonic Youth",
+        "Sonic Youth",
+        "Radiohead"
+      ],
+      "songs": [
+        "Sonic Youth - Rats",
+        "Sonic Youth - Purr",
+        "Radiohead - Climbing Up The Walls"
+      ],
+      "song_count": 3
+    },
+    "7090816": {
+      "name": "Fav Oldies",
+      "artists": [
+        "Jerry Lee Lewis",
+        "Carl Perkins",
+        "Gene Vincent"
+      ],
+      "songs": [
+        "Jerry Lee Lewis - Good Golly Miss Molly",
+        "Carl Perkins - Everybody'S Trying To Be My Baby",
+        "Gene Vincent - Be Bop A Lula"
+      ],
+      "song_count": 3
+    },
+    "6634348": {
+      "name": "Def Leppard",
+      "artists": [
+        "Def Leppard",
+        "Def Leppard"
+      ],
+      "songs": [
+        "Def Leppard - Pour Some Sugar on Me",
+        "Def Leppard - Love Bites"
+      ],
+      "song_count": 2
+    },
+    "5769435": {
+      "name": "",
+      "artists": [
+        "Miles Davis",
+        "Miles Davis",
+        "Miles Davis",
+        "Miles Davis",
+        "Miles Davis",
+        "Miles Davis",
+        "Miles Davis",
+        "Miles Davis",
+        "Miles Davis",
+        "Miles Davis",
+        "James Brown",
+        "Miles Davis",
+        "Miles Davis"
+      ],
+      "songs": [
+        "Miles Davis - Airegin",
+        "Miles Davis - So What",
+        "Miles Davis - Aos Pes Da Cruz",
+        "Miles Davis - One Phone Call - Street Scenes",
+        "Miles Davis - Mr. Pastorius",
+        "Miles Davis - Round About Midnight",
+        "Miles Davis - Walkin'",
+        "Miles Davis - On Green Dolphin Street",
+        "Miles Davis - Medley - Jean Pierre - You're Under Arrest - Then There Were None",
+        "Miles Davis - Maids Of Cadiz",
+        "James Brown - The Boss",
+        "Miles Davis - Wayne Shorter - Footprints",
+        "Miles Davis - Yesternow"
+      ],
+      "song_count": 13
+    },
+    "6793008": {
+      "name": "Losers, Outcasts, and the Lonely",
+      "artists": [
+        "Leonard Cohen",
+        "Roger Miller",
+        "The Clash",
+        "Dolly Parton",
+        "Howlin' Wolf",
+        "Bob Dylan",
+        "Howlin' Wolf",
+        "Howlin' Wolf",
+        "Howlin' Wolf",
+        "Howlin' Wolf",
+        "Leonard Cohen",
+        "Hank Williams",
+        "Howlin' Wolf",
+        "Howlin' Wolf",
+        "Howlin' Wolf",
+        "Howlin' Wolf",
+        "Howlin' Wolf",
+        "Howlin' Wolf",
+        "Howlin' Wolf",
+        "Howlin' Wolf",
+        "Howlin' Wolf",
+        "Willie Dixon",
+        "Howlin' Wolf",
+        "The Clash",
+        "The Clash",
+        "The Clash",
+        "The Clash",
+        "The Clash",
+        "The Clash",
+        "The Clash",
+        "The Clash",
+        "Mississippi John Hurt",
+        "Muddy Waters",
+        "Blind Lemon Jefferson",
+        "Lightnin' Hopkins"
+      ],
+      "songs": [
+        "Leonard Cohen - Everybody Knows",
+        "Roger Miller - King Of The Road",
+        "The Clash - Straight to Hell (Unedited version)",
+        "Dolly Parton - Jolene",
+        "Howlin' Wolf - I'm The Wolf",
+        "Bob Dylan - Tombstone Blues",
+        "Howlin' Wolf - Forty Four",
+        "Howlin' Wolf - Mama Died And Left Me (1991 The Chess Box Version)",
+        "Howlin' Wolf - Mr. Highway Man",
+        "Howlin' Wolf - Who Will Be Next",
+        "Leonard Cohen - Hallelujah",
+        "Hank Williams - Six More Miles (To The Graveyard)",
+        "Howlin' Wolf - Back Door Man",
+        "Howlin' Wolf - Three Hundred Pounds Of Joy",
+        "Howlin' Wolf - Killing Floor",
+        "Howlin' Wolf - Sitting On Top Of The World",
+        "Howlin' Wolf - Evil (Is Going On)",
+        "Howlin' Wolf - Smokestack Lightnin'",
+        "Howlin' Wolf - I Ain't Superstitious (1961 Single Version)",
+        "Howlin' Wolf - Spoonful",
+        "Howlin' Wolf - Down In The Bottom",
+        "Willie Dixon - I'm your Hoochie Coochie Man",
+        "Howlin' Wolf - Tell Me",
+        "The Clash - White Riot",
+        "The Clash - London Calling",
+        "The Clash - Death or Glory",
+        "The Clash - I Fought The Law",
+        "The Clash - The Guns of Brixton",
+        "The Clash - Revolution Rock",
+        "The Clash - Bankrobber",
+        "The Clash - Brand New Cadillac",
+        "Mississippi John Hurt - Frankie",
+        "Muddy Waters - She Moves Me",
+        "Blind Lemon Jefferson - One Dime Blues",
+        "Lightnin' Hopkins - Mojo Hand"
+      ],
+      "song_count": 35
+    },
+    "6776298": {
+      "name": "Wolf Blues",
+      "artists": [
+        "Howlin' Wolf",
+        "Howlin' Wolf",
+        "Howlin' Wolf",
+        "Howlin' Wolf",
+        "Howlin' Wolf",
+        "Howlin' Wolf",
+        "Howlin' Wolf",
+        "Howlin' Wolf",
+        "Howlin' Wolf"
+      ],
+      "songs": [
+        "Howlin' Wolf - Mr. Highway Man",
+        "Howlin' Wolf - The Wolf Is At Your Door",
+        "Howlin' Wolf - Howlin' Wolf Boogie",
+        "Howlin' Wolf - Change My Way",
+        "Howlin' Wolf - Highway 49 (Album Version)",
+        "Howlin' Wolf - How Many More Years",
+        "Howlin' Wolf - Tail Dragger",
+        "Howlin' Wolf - I Love My Baby",
+        "Howlin' Wolf - Who Will Be Next"
+      ],
+      "song_count": 9
+    },
+    "6559379": {
+      "name": "1960s Garage Rock, Mod Rock, Psychedelic Rock, Folk Rock, Punk Rock",
+      "artists": [
+        "The Rolling Stones",
+        "The Animals",
+        "Otis Redding",
+        "The Kinks",
+        "The Animals",
+        "The Animals",
+        "Buzzcocks",
+        "Buzzcocks",
+        "The Animals",
+        "Little Richard",
+        "Jerry Lee Lewis",
+        "Chuck Berry",
+        "Gene Vincent",
+        "The Rolling Stones",
+        "The Rolling Stones",
+        "The Who",
+        "The Who",
+        "The Yardbirds",
+        "The Yardbirds",
+        "The Yardbirds",
+        "The Yardbirds",
+        "The Yardbirds",
+        "Elvis Presley",
+        "The Yardbirds",
+        "Fats Domino",
+        "Buddy Holly",
+        "The Kinks",
+        "Little Richard",
+        "Jerry Lee Lewis",
+        "Muddy Waters",
+        "Gene Vincent",
+        "Gene Vincent",
+        "Gene Vincent"
+      ],
+      "songs": [
+        "The Rolling Stones - She Said Yeah",
+        "The Animals - Baby Let Me Take You Home",
+        "Otis Redding - These Arms Of Mine",
+        "The Kinks - You Really Got Me",
+        "The Animals - We Gotta Get Out of This Place",
+        "The Animals - House Of The Rising Sun",
+        "Buzzcocks - Ever Fallen In Love (With Someone You Shouldn't've)?",
+        "Buzzcocks - Orgasm Addict",
+        "The Animals - Roadrunner",
+        "Little Richard - Lucille",
+        "Jerry Lee Lewis - Good Golly Miss Molly",
+        "Chuck Berry - Maybelline",
+        "Gene Vincent - Maybelline",
+        "The Rolling Stones - Walking The Dog",
+        "The Rolling Stones - Route 66",
+        "The Who - Substitute",
+        "The Who - My Generation",
+        "The Yardbirds - Good Morning Little Schoolgirl",
+        "The Yardbirds - Boom Boom",
+        "The Yardbirds - I Ain't Got You",
+        "The Yardbirds - For Your Love",
+        "The Yardbirds - I'm A Man",
+        "Elvis Presley - Shake, Rattle And Roll",
+        "The Yardbirds - A Certain Girl",
+        "Fats Domino - Blueberry Hill",
+        "Buddy Holly - Not Fade Away",
+        "The Kinks - Sunny Afternoon",
+        "Little Richard - Whole Lotta Shakin' Goin' On",
+        "Jerry Lee Lewis - Great Balls of Fire",
+        "Muddy Waters - Look What You've Done",
+        "Gene Vincent - Be Bop A Lula",
+        "Gene Vincent - Double Talkin' Baby",
+        "Gene Vincent - Long Tall Sally"
+      ],
+      "song_count": 33
+    },
+    "4883519": {
+      "name": "Garage, Hardcore, Punk Rock, and Grindcore",
+      "artists": [
+        "Dead Kennedys",
+        "Dead Kennedys",
+        "Screeching Weasel",
+        "Ramones",
+        "Dead Kennedys",
+        "Screeching Weasel",
+        "Ramones",
+        "Dead Kennedys",
+        "Sex Pistols",
+        "The Clash",
+        "Buzzcocks",
+        "Sex Pistols",
+        "The Clash",
+        "Buzzcocks"
+      ],
+      "songs": [
+        "Dead Kennedys - Dog Bite",
+        "Dead Kennedys - Stealing People's Mail",
+        "Screeching Weasel - Kamala's Too Nice",
+        "Ramones - I Can't Give You Anything",
+        "Dead Kennedys - Your Emotions",
+        "Screeching Weasel - Now I Wanna Sniff Some Glue",
+        "Ramones - Beat on the Brat",
+        "Dead Kennedys - We've Got a Bigger Problem Now",
+        "Sex Pistols - Problems",
+        "The Clash - The Card Cheat",
+        "Buzzcocks - Promises",
+        "Sex Pistols - Anarchy In The UK",
+        "The Clash - London Calling",
+        "Buzzcocks - You Tear Me Up"
+      ],
+      "song_count": 14
+    },
+    "510762": {
+      "name": "A whole mess of things...",
+      "artists": [
+        "The Clash",
+        "Sepultura",
+        "Megadeth",
+        "Megadeth",
+        "Pennywise",
+        "Radiohead",
+        "Radiohead",
+        "Ice Cube",
+        "2Pac",
+        "Moloko",
+        "Eminem",
+        "Massive Attack",
+        "Bob Dylan",
+        "The Kinks",
+        "The Kinks"
+      ],
+      "songs": [
+        "The Clash - The Guns of Brixton",
+        "Sepultura - Piranha",
+        "Megadeth - Symphony Of Destruction",
+        "Megadeth - A Tout Le Monde",
+        "Pennywise - Astro Zombies",
+        "Radiohead - 15 Step",
+        "Radiohead - Jigsaw Falling Into Place",
+        "Ice Cube - 17 - Nigga Of The Century",
+        "2Pac - Last Wordz",
+        "Moloko - Over And Over",
+        "Eminem - Role Model",
+        "Massive Attack - Be Thankful For What You've Got (Perfecto Mix)",
+        "Bob Dylan - One Too Many Mornings",
+        "The Kinks - Where Have All The Good Times Gone",
+        "The Kinks - Sunny Afternoon"
+      ],
+      "song_count": 15
+    },
+    "4857411": {
+      "name": "60s Surf-Mod-Psych-Garage-Rock-Soul-Pop",
+      "artists": [
+        "The Kinks",
+        "The Kinks",
+        "Little Richard",
+        "Buddy Holly",
+        "Fats Domino",
+        "Fats Domino",
+        "Jerry Lee Lewis",
+        "Elvis Presley",
+        "The Yardbirds",
+        "Jerry Lee Lewis",
+        "Elvis Presley",
+        "The Yardbirds",
+        "The Yardbirds",
+        "The Yardbirds",
+        "The Yardbirds",
+        "The Yardbirds",
+        "The Yardbirds",
+        "The Yardbirds",
+        "The Yardbirds",
+        "The Yardbirds",
+        "The Kinks",
+        "The Kinks",
+        "The Kinks",
+        "The Who",
+        "The Who",
+        "The Who",
+        "The Who",
+        "The Who",
+        "The Rolling Stones",
+        "The Rolling Stones",
+        "Chuck Berry",
+        "The Rolling Stones",
+        "Chuck Berry",
+        "Carl Perkins",
+        "Gene Vincent",
+        "Elvis Presley",
+        "Chuck Berry",
+        "Little Richard",
+        "Jerry Lee Lewis",
+        "Little Richard",
+        "Little Richard",
+        "The Animals",
+        "The Animals",
+        "Bo Diddley"
+      ],
+      "songs": [
+        "The Kinks - Where Have All The Good Times Gone",
+        "The Kinks - Sunny Afternoon",
+        "Little Richard - Heeby-Jeebies",
+        "Buddy Holly - Not Fade Away",
+        "Fats Domino - Be My Guest",
+        "Fats Domino - Blueberry Hill",
+        "Jerry Lee Lewis - You Win Again",
+        "Elvis Presley - It's Now Or Never",
+        "The Yardbirds - A Certain Girl",
+        "Jerry Lee Lewis - Hand Me Down My Walking Cane",
+        "Elvis Presley - Shake, Rattle And Roll",
+        "The Yardbirds - For Your Love",
+        "The Yardbirds - I'm A Man",
+        "The Yardbirds - I Ain't Got You",
+        "The Yardbirds - Boom Boom",
+        "The Yardbirds - Good Morning Little Schoolgirl",
+        "The Yardbirds - Shapes Of Things",
+        "The Yardbirds - Stroll On",
+        "The Yardbirds - I Wish You Would",
+        "The Yardbirds - Evil Hearted You",
+        "The Kinks - You Really Got Me",
+        "The Kinks - A Well Respected Man",
+        "The Kinks - Strangers",
+        "The Who - My Generation",
+        "The Who - Baba O'Riley",
+        "The Who - Substitute",
+        "The Who - Happy Jack",
+        "The Who - I Can't Explain",
+        "The Rolling Stones - Not Fade Away",
+        "The Rolling Stones - Route 66",
+        "Chuck Berry - Route 66",
+        "The Rolling Stones - Walking The Dog",
+        "Chuck Berry - Maybelline",
+        "Carl Perkins - Maybelline",
+        "Gene Vincent - Maybelline",
+        "Elvis Presley - Maybelline",
+        "Chuck Berry - Sweet Little 16",
+        "Little Richard - Good Golly Miss Molly",
+        "Jerry Lee Lewis - Good Golly Miss Molly",
+        "Little Richard - Good Golly, Miss Molly",
+        "Little Richard - Lucille",
+        "The Animals - Roadrunner",
+        "The Animals - Pretty Thing",
+        "Bo Diddley - Pretty Thing"
+      ],
+      "song_count": 44
+    },
+    "5104135": {
+      "name": "Crunk Rap & Hip Hop",
+      "artists": [
+        "Jay-Z",
+        "Busta Rhymes",
+        "Snoop Dogg",
+        "Busta Rhymes",
+        "Busta Rhymes",
+        "Mystikal",
+        "Jay-Z",
+        "Eminem",
+        "DMX",
+        "Jay-Z",
+        "Snoop Dogg",
+        "LL Cool J",
+        "Snoop Dogg",
+        "Dr. Dre",
+        "DMX",
+        "Ice Cube",
+        "Busta Rhymes",
+        "Mystikal",
+        "LL Cool J",
+        "Busta Rhymes",
+        "50 Cent"
+      ],
+      "songs": [
+        "Jay-Z - Interlude",
+        "Busta Rhymes - Dangerous",
+        "Snoop Dogg - Leave Me Alone",
+        "Busta Rhymes - Party Is Goin' on Over Here",
+        "Busta Rhymes - Woo Ha!! Got You All In Check",
+        "Mystikal - 13 Years",
+        "Jay-Z - Big Pimpin'",
+        "Eminem - The Way I Am",
+        "DMX - Slippin'",
+        "Jay-Z - 99 Problems",
+        "Snoop Dogg - Murder Was The Case",
+        "LL Cool J - Mama Said Knock You Out",
+        "Snoop Dogg - Sensual Seduction",
+        "Dr. Dre - Still D.R.E.",
+        "DMX - Lord Give Me a Sign",
+        "Ice Cube - Smoke Some Weed",
+        "Busta Rhymes - Just Give It to Me Raw",
+        "Mystikal - Shake Ya Ass",
+        "LL Cool J - Headsprung",
+        "Busta Rhymes - Get Out!!",
+        "50 Cent - Candy Shop"
+      ],
+      "song_count": 21
+    },
+    "3332390": {
+      "name": "Work 20080908",
+      "artists": [
+        "Moloko",
+        "Massive Attack",
+        "Aphex Twin",
+        "Nirvana",
+        "Sonic Youth",
+        "Moloko",
+        "Massive Attack",
+        "The Clash",
+        "The Clash",
+        "The Kinks",
+        "Johnny Cash",
+        "The Kinks",
+        "The Kinks",
+        "The Kinks",
+        "Radiohead",
+        "Radiohead",
+        "Massive Attack",
+        "Massive Attack",
+        "Underworld",
+        "Underworld",
+        "Underworld",
+        "Massive Attack",
+        "Massive Attack",
+        "Massive Attack"
+      ],
+      "songs": [
+        "Moloko - Fun For Me",
+        "Massive Attack - Teardrop (LP version)",
+        "Aphex Twin - The Waxen Pith",
+        "Nirvana - Drain You",
+        "Sonic Youth - Scooter + Jinx",
+        "Moloko - Over And Over",
+        "Massive Attack - Be Thankful For What You've Got (Perfecto Mix)",
+        "The Clash - Death or Glory",
+        "The Clash - Koka Kola",
+        "The Kinks - Set Me Free",
+        "Johnny Cash - 25 Minutes to Go",
+        "The Kinks - Tired Of Waiting For You",
+        "The Kinks - Where Have All The Good Times Gone",
+        "The Kinks - Sunny Afternoon",
+        "Radiohead - Packt Like Sardines in a Crushd Tin Box",
+        "Radiohead - Everything In Its Right Place",
+        "Massive Attack - Angel (Mad Professor Remix)",
+        "Massive Attack - Weather Storm",
+        "Underworld - Born Slippy",
+        "Underworld - Cowgirl",
+        "Underworld - Dirty Epic",
+        "Massive Attack - Daydreaming",
+        "Massive Attack - Unfinished Sympathy",
+        "Massive Attack - Safe From Harm"
+      ],
+      "song_count": 24
+    },
+    "6357697": {
+      "name": "",
+      "artists": [
+        "Thelonious Monk",
+        "Miles Davis",
+        "John Coltrane",
+        "John Coltrane",
+        "Glenn Miller",
+        "Charlie Parker",
+        "Thelonious Monk",
+        "Thelonious Monk",
+        "Thelonious Monk",
+        "Django Reinhardt",
+        "Django Reinhardt",
+        "Miles Davis",
+        "Count Basie",
+        "Duke Ellington",
+        "Thelonious Monk",
+        "Duke Ellington",
+        "Django Reinhardt",
+        "Duke Ellington",
+        "Glenn Miller",
+        "Count Basie",
+        "John Coltrane",
+        "Glenn Miller",
+        "Duke Ellington"
+      ],
+      "songs": [
+        "Thelonious Monk - 'Round About Midnight",
+        "Miles Davis - 'Round About Midnight",
+        "John Coltrane - Lush Life",
+        "John Coltrane - Once In a While",
+        "Glenn Miller - It's A Blue World",
+        "Charlie Parker - If I Should Lose You",
+        "Thelonious Monk - I'm Getting Sentimental Over You",
+        "Thelonious Monk - I Should Care",
+        "Thelonious Monk - I Surrender, Dear",
+        "Django Reinhardt - I Surrender Dear",
+        "Django Reinhardt - I Surrender, Dear",
+        "Miles Davis - Blue In Green",
+        "Count Basie - Blue And Sentimental",
+        "Duke Ellington - Blood Count",
+        "Thelonious Monk - Sophisticated Lady",
+        "Duke Ellington - Sophisticated Lady",
+        "Django Reinhardt - Sophisticated Lady",
+        "Duke Ellington - Solitude",
+        "Glenn Miller - The Nearness Of You",
+        "Count Basie - Polka Dots And Moonbeams",
+        "John Coltrane - Polka Dots And Moonbeams",
+        "Glenn Miller - Polka Dots And Moonbeams",
+        "Duke Ellington - Prelude To A Kiss"
+      ],
+      "song_count": 23
+    },
+    "3243418": {
+      "name": "mostly trip hop, downtempo, chillout, indie-folk, indie-rock, indie-tronic",
+      "artists": [
+        "Massive Attack",
+        "Moloko",
+        "Moloko",
+        "Moloko",
+        "Moloko",
+        "Moloko",
+        "Moloko",
+        "Moloko",
+        "Moloko",
+        "Moloko",
+        "Moloko",
+        "Moloko",
+        "Moloko",
+        "Moloko",
+        "Moloko",
+        "Moloko",
+        "Moloko",
+        "Moloko",
+        "Moloko",
+        "Moloko",
+        "Moloko",
+        "Moloko",
+        "Moloko",
+        "Moloko",
+        "Moloko",
+        "Moloko",
+        "Moloko",
+        "Moloko",
+        "Moloko",
+        "Moloko",
+        "Moloko",
+        "Moloko",
+        "Moloko"
+      ],
+      "songs": [
+        "Massive Attack - Karmacoma (Portishead Experience)",
+        "Moloko - The Time Is Now",
+        "Moloko - Sing It Back",
+        "Moloko - Forever More",
+        "Moloko - Indigo",
+        "Moloko - Fun For Me",
+        "Moloko - Statues",
+        "Moloko - Mother",
+        "Moloko - Pure Pleasure Seeker",
+        "Moloko - Familiar Feeling",
+        "Moloko - Familiar Feelings",
+        "Moloko - Come On",
+        "Moloko - 100%",
+        "Moloko - Cannot Contain This",
+        "Moloko - I Want You",
+        "Moloko - Day for Night",
+        "Moloko - The Only Ones",
+        "Moloko - The Flipside",
+        "Moloko - Absent Minded Friends",
+        "Moloko - Remain the Same",
+        "Moloko - Somebody Somewhere",
+        "Moloko - Being Is Bewildering",
+        "Moloko - It's Your Problem",
+        "Moloko - Blink",
+        "Moloko - Blow By Blow",
+        "Moloko - Over And Over",
+        "Moloko - Just You and Me Dancing",
+        "Moloko - Downsized",
+        "Moloko - Knee Deepen",
+        "Moloko - Tatty Narja",
+        "Moloko - Sorry",
+        "Moloko - Sing It Back (Boris Musical mix)",
+        "Moloko - Be Like You"
+      ],
+      "song_count": 33
+    },
+    "4136798": {
+      "name": "throwback your 80s",
+      "artists": [
+        "Daft Punk"
+      ],
+      "songs": [
+        "Daft Punk - One More Time"
+      ],
+      "song_count": 1
+    },
+    "3453068": {
+      "name": "everything is a copy of a copy of a copy",
+      "artists": [
+        "2Pac",
+        "2Pac",
+        "Eminem",
+        "2Pac",
+        "Moloko"
+      ],
+      "songs": [
+        "2Pac - Military Minds (Feat Bukshot, Cocoa Brovas)",
+        "2Pac - The Realist Killaz (feat. 50 Cent)",
+        "Eminem - nigga (feat notorious big 50 c",
+        "2Pac - Better Dayz (feat. Mr. Biggs)",
+        "Moloko - Absent Minded Friends"
+      ],
+      "song_count": 5
+    },
+    "4412829": {
+      "name": "Sleepytime",
+      "artists": [
+        "Miles Davis",
+        "Aphex Twin",
+        "Moby"
+      ],
+      "songs": [
+        "Miles Davis - Blue In Green",
+        "Aphex Twin - Mookid",
+        "Moby - Morning Dove [LP Version]"
+      ],
+      "song_count": 3
+    },
+    "4234642": {
+      "name": "shoegazer, noise, mellow, wall of sound, electro-funk, indie-tronic, indie-folk, electro",
+      "artists": [
+        "Moloko",
+        "Daft Punk"
+      ],
+      "songs": [
+        "Moloko - Forever More",
+        "Daft Punk - Voyager"
+      ],
+      "song_count": 2
+    },
+    "4633413": {
+      "name": "Control",
+      "artists": [
+        "Buzzcocks",
+        "Buzzcocks",
+        "Buzzcocks",
+        "Buzzcocks",
+        "Buzzcocks",
+        "Buzzcocks",
+        "Buzzcocks",
+        "Buzzcocks",
+        "Buzzcocks",
+        "Sex Pistols",
+        "Sex Pistols",
+        "Sex Pistols",
+        "Sex Pistols",
+        "Sex Pistols",
+        "Sex Pistols",
+        "Sex Pistols",
+        "Sex Pistols",
+        "Sex Pistols",
+        "Sex Pistols",
+        "Sex Pistols",
+        "Sex Pistols",
+        "Sex Pistols",
+        "The Rolling Stones",
+        "The Who",
+        "The Who",
+        "The Who",
+        "Buzzcocks"
+      ],
+      "songs": [
+        "Buzzcocks - Lipstick",
+        "Buzzcocks - Everybody's Happy Nowadays",
+        "Buzzcocks - Something's Gone Wrong Again",
+        "Buzzcocks - Harmony In My Head",
+        "Buzzcocks - Autonomy",
+        "Buzzcocks - What Do I Get?",
+        "Buzzcocks - Oh Shit!",
+        "Buzzcocks - Boredom",
+        "Buzzcocks - You Tear Me Up",
+        "Sex Pistols - God Save The Queen",
+        "Sex Pistols - Anarchy In The UK",
+        "Sex Pistols - Pretty Vacant",
+        "Sex Pistols - Holidays In The Sun",
+        "Sex Pistols - No Feelings",
+        "Sex Pistols - Bodies",
+        "Sex Pistols - Problems",
+        "Sex Pistols - Liar",
+        "Sex Pistols - Seventeen",
+        "Sex Pistols - New York",
+        "Sex Pistols - Submission",
+        "Sex Pistols - Did You No Wrong",
+        "Sex Pistols - Substitute",
+        "The Rolling Stones - Paint It Black",
+        "The Who - Anyway, Anyhow, Anywhere",
+        "The Who - The Kids Are Alright",
+        "The Who - The Seeker",
+        "Buzzcocks - Orgasm Addict"
+      ],
+      "song_count": 27
+    },
+    "4413810": {
+      "name": "It's Business Time",
+      "artists": [
+        "LL Cool J"
+      ],
+      "songs": [
+        "LL Cool J - Doin It"
+      ],
+      "song_count": 1
+    },
+    "5003875": {
+      "name": "Country Used to be Good: My roots and soul music",
+      "artists": [
+        "Blind Willie McTell",
+        "Mississippi John Hurt",
+        "Hank Snow",
+        "Jim Reeves",
+        "Johnny Cash",
+        "Johnny Cash",
+        "Hank Snow",
+        "Jim Reeves",
+        "Johnny Cash",
+        "Pete Seeger",
+        "Willie Nelson",
+        "Johnny Cash",
+        "Hank Williams",
+        "Johnny Cash",
+        "John Denver",
+        "Johnny Cash",
+        "Mississippi John Hurt",
+        "Hank Williams",
+        "John Denver",
+        "Hank Williams",
+        "Hank Snow",
+        "Willie Nelson"
+      ],
+      "songs": [
+        "Blind Willie McTell - Searching The desert For The Blues",
+        "Mississippi John Hurt - Looking This Way",
+        "Hank Snow - Blue For Hawaii",
+        "Jim Reeves - When Two Worlds Collide",
+        "Johnny Cash - Folsom Prison Blues (Live)",
+        "Johnny Cash - I Walk The Line",
+        "Hank Snow - I Don't Hurt Anymore",
+        "Jim Reeves - Waiting For A Train",
+        "Johnny Cash - In the Jailhouse Now",
+        "Pete Seeger - I've Been Working On The Railroad",
+        "Willie Nelson - On The Road Again (Live)",
+        "Johnny Cash - Drive On (Alternate Lyrics)",
+        "Hank Williams - Baby We're Really In Love",
+        "Johnny Cash - The Long Black Veil (Live)",
+        "John Denver - San Antonio Rose",
+        "Johnny Cash - 25 Minutes to Go",
+        "Mississippi John Hurt - Waiting for You (I Forgive You Before I Go)",
+        "Hank Williams - I Just Don't Like This Kind Of Living",
+        "John Denver - Grandma's Feather Bed",
+        "Hank Williams - Howlin' At The Moon",
+        "Hank Snow - Mississippi River Blues",
+        "Willie Nelson - Time Of The Preacher Theme"
+      ],
+      "song_count": 22
+    },
+    "4413871": {
+      "name": "My Favorite Songs of All-Time",
+      "artists": [
+        "Nirvana",
+        "Pantera",
+        "Nirvana",
+        "Dead Kennedys",
+        "The Clash",
+        "Depeche Mode",
+        "The Kinks",
+        "Snoop Dogg",
+        "Eminem",
+        "Pantera",
+        "Michael Jackson",
+        "The Clash",
+        "Slayer",
+        "Slayer",
+        "Massive Attack",
+        "Nirvana",
+        "Black Sabbath",
+        "Public Enemy",
+        "Public Enemy",
+        "LL Cool J",
+        "LL Cool J",
+        "LL Cool J",
+        "LL Cool J",
+        "Public Enemy",
+        "Slayer",
+        "Public Enemy",
+        "Public Enemy",
+        "LL Cool J"
+      ],
+      "songs": [
+        "Nirvana - Something In The Way",
+        "Pantera - Domination",
+        "Nirvana - Drain You",
+        "Dead Kennedys - Nazi punks fuck off",
+        "The Clash - Death or Glory",
+        "Depeche Mode - Enjoy The Silence",
+        "The Kinks - Where Have All The Good Times Gone",
+        "Snoop Dogg - Gin And Juice",
+        "Eminem - Lose Yourself",
+        "Pantera - Becoming",
+        "Michael Jackson - Beat It",
+        "The Clash - The Guns of Brixton",
+        "Slayer - Piece by Piece",
+        "Slayer - Angel of Death",
+        "Massive Attack - Teardrop",
+        "Nirvana - Blew",
+        "Black Sabbath - Black Sabbath",
+        "Public Enemy - Cold Lampin' With Flavor",
+        "Public Enemy - Brothers Gonna Work It Out",
+        "LL Cool J - I Can't Live Without My Radio",
+        "LL Cool J - Rock The Bells",
+        "LL Cool J - I Need Love",
+        "LL Cool J - I'm Bad",
+        "Public Enemy - Welcome To The Terrordome",
+        "Slayer - South of Heaven",
+        "Public Enemy - Fight The Power",
+        "Public Enemy - Don't Believe The Hype",
+        "LL Cool J - Doin It"
+      ],
+      "song_count": 28
+    },
+    "4951425": {
+      "name": "Gravel and Guts",
+      "artists": [
+        "Sex Pistols",
+        "Buzzcocks",
+        "Alice Cooper",
+        "Sex Pistols",
+        "The Who",
+        "Sex Pistols",
+        "The Rolling Stones",
+        "Buzzcocks",
+        "Dead Kennedys",
+        "Screeching Weasel",
+        "Dead Kennedys",
+        "Dead Kennedys",
+        "The Clash",
+        "The Clash",
+        "Little Richard",
+        "Elvis Presley",
+        "Jerry Lee Lewis",
+        "Muddy Waters",
+        "Johnny Cash",
+        "Little Richard",
+        "Little Richard",
+        "The Yardbirds",
+        "Gene Vincent",
+        "Gene Vincent",
+        "Gene Vincent",
+        "Gene Vincent",
+        "Gene Vincent",
+        "Gene Vincent",
+        "Gene Vincent",
+        "Gene Vincent",
+        "Gene Vincent",
+        "Gene Vincent",
+        "Gene Vincent",
+        "The Kinks",
+        "The Animals",
+        "The Animals",
+        "Sex Pistols",
+        "Ramones"
+      ],
+      "songs": [
+        "Sex Pistols - Did You No Wrong",
+        "Buzzcocks - Orgasm Addict",
+        "Alice Cooper - No More Mr. Nice Guy",
+        "Sex Pistols - Seventeen",
+        "The Who - My Generation",
+        "Sex Pistols - Anarchy In The UK",
+        "The Rolling Stones - Rocks Off",
+        "Buzzcocks - Sixteen Again",
+        "Dead Kennedys - We've Got a Bigger Problem Now",
+        "Screeching Weasel - Kamala's Too Nice",
+        "Dead Kennedys - Stealing People's Mail",
+        "Dead Kennedys - Dog Bite",
+        "The Clash - The Guns of Brixton",
+        "The Clash - Death or Glory",
+        "Little Richard - Whole Lotta Shakin' Goin' On",
+        "Elvis Presley - Jailhouse Rock (takes 3-5)",
+        "Jerry Lee Lewis - Great Balls of Fire",
+        "Muddy Waters - Look What You've Done",
+        "Johnny Cash - I've Been Everywhere",
+        "Little Richard - Lucille",
+        "Little Richard - Lucille (Live)",
+        "The Yardbirds - For Your Love",
+        "Gene Vincent - Be Bop A Lula",
+        "Gene Vincent - Be-Bop-A-Lula",
+        "Gene Vincent - Race With The Devil",
+        "Gene Vincent - Bluejean Bop",
+        "Gene Vincent - Jump Back, Honey, Jump Back",
+        "Gene Vincent - Pistol Packin' Mama",
+        "Gene Vincent - Double Talkin' Baby",
+        "Gene Vincent - Peg O' My Heart",
+        "Gene Vincent - Pink Thunderbird",
+        "Gene Vincent - Cruisin'",
+        "Gene Vincent - Long Tall Sally",
+        "The Kinks - You Really Got Me",
+        "The Animals - House Of The Rising Sun",
+        "The Animals - We Gotta Get Out of This Place",
+        "Sex Pistols - No Feelings",
+        "Ramones - I Don't Care (demo)"
+      ],
+      "song_count": 38
+    },
+    "4858350": {
+      "name": "All Covers",
+      "artists": [
+        "Johnny Cash",
+        "Johnny Cash",
+        "Nirvana"
+      ],
+      "songs": [
+        "Johnny Cash - Hurt",
+        "Johnny Cash - Personal Jesus",
+        "Nirvana - The Man Who Sold The World"
+      ],
+      "song_count": 3
+    },
+    "4182676": {
+      "name": "music by docrivs and other artists he likes",
+      "artists": [
+        "Bob Dylan",
+        "Bob Dylan",
+        "Bob Dylan",
+        "Bob Dylan",
+        "Bob Dylan",
+        "The Clash",
+        "The Clash"
+      ],
+      "songs": [
+        "Bob Dylan - Masters If War (Live)",
+        "Bob Dylan - All Along The Watchtower",
+        "Bob Dylan - Bob Dylan's 115th Dream",
+        "Bob Dylan - A Hard Rain's A-Gonna Fall",
+        "Bob Dylan - The Times They Are A-Changin'",
+        "The Clash - Police & Thieves",
+        "The Clash - Complete Control (Live) [13 Jun 81, NYC]"
+      ],
+      "song_count": 7
+    },
+    "960910": {
+      "name": "Dazed and Confused",
+      "artists": [
+        "Black Sabbath",
+        "Black Sabbath"
+      ],
+      "songs": [
+        "Black Sabbath - The Warning",
+        "Black Sabbath - A National Acrobat"
+      ],
+      "song_count": 2
+    },
+    "2366933": {
+      "name": "",
+      "artists": [
+        "Johnny Cash",
+        "Dixie Chicks",
+        "Hank Snow",
+        "Johnny Cash",
+        "Donovan",
+        "Tim Buckley"
+      ],
+      "songs": [
+        "Johnny Cash - Shepherd Of My Heart",
+        "Dixie Chicks - Everybody Knows",
+        "Hank Snow - Lonesome Blue Yodel",
+        "Johnny Cash - Wanted Man",
+        "Donovan - Moon In Capricorn",
+        "Tim Buckley - Hong Kong Bar (LP Version)"
+      ],
+      "song_count": 6
+    },
+    "3926551": {
+      "name": "\u0447\u0438\u043a \u0447\u0438\u043a",
+      "artists": [
+        "Bob Marley"
+      ],
+      "songs": [
+        "Bob Marley - Jamming"
+      ],
+      "song_count": 1
+    },
+    "6433718": {
+      "name": "Versions of Sweet Home Chicago",
+      "artists": [
+        "Taj Mahal"
+      ],
+      "songs": [
+        "Taj Mahal - Sweet Home Chicago"
+      ],
+      "song_count": 1
+    },
+    "6160338": {
+      "name": "Blues about mail + postman + letters",
+      "artists": [
+        "Muddy Waters",
+        "Elvis Presley"
+      ],
+      "songs": [
+        "Muddy Waters - Sad Letter Blues",
+        "Elvis Presley - Love Letters"
+      ],
+      "song_count": 2
+    },
+    "6137296": {
+      "name": "Versions of roll and tumble",
+      "artists": [
+        "John Lee Hooker",
+        "Muddy Waters",
+        "Muddy Waters",
+        "John Lee Hooker",
+        "Howlin' Wolf",
+        "The Yardbirds"
+      ],
+      "songs": [
+        "John Lee Hooker - Roll and Tumble",
+        "Muddy Waters - Rollin' And Tumblin'",
+        "Muddy Waters - Rollin' and Tumblin' (Part 1)",
+        "John Lee Hooker - Rollin' Blues",
+        "Howlin' Wolf - Down In The Bottom",
+        "The Yardbirds - Drinking Muddy Water"
+      ],
+      "song_count": 6
+    },
+    "6695822": {
+      "name": "",
+      "artists": [
+        "Johnny Cash"
+      ],
+      "songs": [
+        "Johnny Cash - Rusty Cage"
+      ],
+      "song_count": 1
+    },
+    "5645506": {
+      "name": "songs to end the night",
+      "artists": [
+        "Nina Simone",
+        "Nina Simone",
+        "Prince"
+      ],
+      "songs": [
+        "Nina Simone - Feeling Good",
+        "Nina Simone - Mr. Bojangles",
+        "Prince - Diamonds And Pearls"
+      ],
+      "song_count": 3
+    },
+    "5646997": {
+      "name": "a long hot summer",
+      "artists": [
+        "Nina Simone",
+        "Bo Diddley",
+        "Kenny Rogers",
+        "Prince",
+        "The Rolling Stones",
+        "Johnny Cash",
+        "Nina Simone",
+        "Belle and Sebastian"
+      ],
+      "songs": [
+        "Nina Simone - Feeling Good",
+        "Bo Diddley - Dancing Girl",
+        "Kenny Rogers - Just Dropped In To See What Condition My Condition Was In",
+        "Prince - I Wanna Be Your Lover",
+        "The Rolling Stones - Under My Thumb",
+        "Johnny Cash - Personal Jesus",
+        "Nina Simone - I Want A Little Sugar In My Bowl",
+        "Belle and Sebastian - The Boy With The Arab Strap"
+      ],
+      "song_count": 8
+    },
+    "6596656": {
+      "name": "Heroes of the Blues",
+      "artists": [
+        "Blind Lemon Jefferson",
+        "Blind Lemon Jefferson",
+        "Mississippi John Hurt"
+      ],
+      "songs": [
+        "Blind Lemon Jefferson - Prison Cell Blues",
+        "Blind Lemon Jefferson - Rabbit Foot Blues",
+        "Mississippi John Hurt - Frankie"
+      ],
+      "song_count": 3
+    },
+    "152652": {
+      "name": "artofsin's playlist",
+      "artists": [
+        "Deep Purple",
+        "Metallica",
+        "Deep Purple"
+      ],
+      "songs": [
+        "Deep Purple - Anya",
+        "Metallica - The Call of Ktulu",
+        "Deep Purple - Help"
+      ],
+      "song_count": 3
+    },
+    "720675": {
+      "name": "",
+      "artists": [
+        "Lightnin' Hopkins"
+      ],
+      "songs": [
+        "Lightnin' Hopkins - Mighty Crazy"
+      ],
+      "song_count": 1
+    },
+    "4520020": {
+      "name": "*^%#$^%&^*",
+      "artists": [
+        "Johnny Cash",
+        "Johnny Cash",
+        "Johnny Cash"
+      ],
+      "songs": [
+        "Johnny Cash - Folsom Prison Blues",
+        "Johnny Cash - Jackson",
+        "Johnny Cash - Get Rhythm"
+      ],
+      "song_count": 3
+    },
+    "6261431": {
+      "name": "Playlist 01",
+      "artists": [
+        "AC/DC",
+        "Deep Purple"
+      ],
+      "songs": [
+        "AC/DC - Jailbreak",
+        "Deep Purple - Anyone\u00b4s Daughter"
+      ],
+      "song_count": 2
+    },
+    "2470943": {
+      "name": "",
+      "artists": [
+        "Michael Jackson",
+        "Michael Jackson",
+        "Metallica",
+        "Metallica",
+        "Metallica",
+        "Metallica",
+        "Metallica",
+        "Metallica"
+      ],
+      "songs": [
+        "Michael Jackson - Smooth Criminal",
+        "Michael Jackson - Black or White",
+        "Metallica - Disposable Heroes",
+        "Metallica - All Within My Hands",
+        "Metallica - Master of Puppets",
+        "Metallica - Don't Tread On Me",
+        "Metallica - Fade To Black",
+        "Metallica - All Nightmare Long"
+      ],
+      "song_count": 8
+    },
+    "6183603": {
+      "name": "",
+      "artists": [
+        "Snoop Dogg",
+        "Marvin Gaye",
+        "Al Green"
+      ],
+      "songs": [
+        "Snoop Dogg - Special (Featuring Brandy & Pharrell)",
+        "Marvin Gaye - When did you stop loving me",
+        "Al Green - Belle"
+      ],
+      "song_count": 3
+    },
+    "1107069": {
+      "name": "Lista de fabionaj ",
+      "artists": [
+        "The Smiths",
+        "Radiohead",
+        "Nirvana",
+        "The Smiths",
+        "The Kinks",
+        "The Clash",
+        "The Rolling Stones",
+        "Radiohead",
+        "Belle and Sebastian",
+        "Foo Fighters"
+      ],
+      "songs": [
+        "The Smiths - How Soon Is Now?",
+        "Radiohead - Idioteque",
+        "Nirvana - Heart Shaped Box",
+        "The Smiths - What Difference Does It Make?",
+        "The Kinks - Picture Book",
+        "The Clash - Brand New Cadillac",
+        "The Rolling Stones - Factory Girl",
+        "Radiohead - High And Dry",
+        "Belle and Sebastian - Electronic Renaissance",
+        "Foo Fighters - A320"
+      ],
+      "song_count": 10
+    },
+    "6136963": {
+      "name": "Chill",
+      "artists": [
+        "Massive Attack",
+        "Otis Redding",
+        "Otis Redding",
+        "Otis Redding",
+        "Otis Redding",
+        "Otis Redding"
+      ],
+      "songs": [
+        "Massive Attack - Live with Me (Album Version)",
+        "Otis Redding - For Your Precious Love",
+        "Otis Redding - My Lover's Prayer",
+        "Otis Redding - Cigarettes And Coffee",
+        "Otis Redding - Try A Little Tenderness",
+        "Otis Redding - My Girl"
+      ],
+      "song_count": 6
+    },
+    "2275308": {
+      "name": "Danielia\u2019s playlist",
+      "artists": [
+        "Depeche Mode",
+        "Depeche Mode",
+        "Depeche Mode",
+        "Nina Simone",
+        "Billie Holiday",
+        "Robbie Williams"
+      ],
+      "songs": [
+        "Depeche Mode - Higher Love",
+        "Depeche Mode - Little 15",
+        "Depeche Mode - Behind The Wheel",
+        "Nina Simone - My Baby Just Cares For Me",
+        "Billie Holiday - Body And Soul",
+        "Robbie Williams - Track 06"
+      ],
+      "song_count": 6
+    },
+    "815605": {
+      "name": "moonpipe\u2019s playlist",
+      "artists": [
+        "Buzzcocks",
+        "Patti Smith",
+        "Sonic Youth",
+        "The Yardbirds",
+        "The Who",
+        "The Kinks",
+        "The Animals",
+        "Patti Smith",
+        "The Rolling Stones",
+        "The Clash",
+        "Buzzcocks",
+        "The Clash",
+        "Screeching Weasel"
+      ],
+      "songs": [
+        "Buzzcocks - What Do I Get?",
+        "Patti Smith - Dancing Barefoot",
+        "Sonic Youth - Kill Your Idols",
+        "The Yardbirds - For Your Love",
+        "The Who - Drowned",
+        "The Kinks - This Time Tomorrow",
+        "The Animals - We Gotta Get Out of This Place",
+        "Patti Smith - Gloria",
+        "The Rolling Stones - Dead Flowers",
+        "The Clash - Lost in the Supermarket",
+        "Buzzcocks - Harmony In My Head",
+        "The Clash - London Calling",
+        "Screeching Weasel - She's Giving Me the Creeps"
+      ],
+      "song_count": 13
+    },
+    "333229": {
+      "name": "MaManfie's playlist",
+      "artists": [
+        "Sam Cooke",
+        "Etta James",
+        "Sum 41",
+        "Sam Cooke",
+        "Al Green",
+        "Christina Aguilera",
+        "Christina Aguilera",
+        "Basement Jaxx",
+        "Nina Simone",
+        "Radiohead"
+      ],
+      "songs": [
+        "Sam Cooke - A Change Is Gonna Come",
+        "Etta James - At Last",
+        "Sum 41 - Were All To Blame",
+        "Sam Cooke - Summertime (Part 1)",
+        "Al Green - Let's Stay Together",
+        "Christina Aguilera - Beautiful",
+        "Christina Aguilera - Save Me From Myself",
+        "Basement Jaxx - Do Your Thing",
+        "Nina Simone - I Put A Spell On You",
+        "Radiohead - Creep"
+      ],
+      "song_count": 10
+    },
+    "6235405": {
+      "name": "Rock & Pop",
+      "artists": [
+        "Robbie Williams"
+      ],
+      "songs": [
+        "Robbie Williams - Come Undone"
+      ],
+      "song_count": 1
+    },
+    "4187175": {
+      "name": "",
+      "artists": [
+        "Etta James"
+      ],
+      "songs": [
+        "Etta James - Next Door To The Blues"
+      ],
+      "song_count": 1
+    },
+    "5554819": {
+      "name": "",
+      "artists": [
+        "Snoop Dogg",
+        "Dr. Dre"
+      ],
+      "songs": [
+        "Snoop Dogg - (O.J.) Wake Up",
+        "Dr. Dre - Fuck You"
+      ],
+      "song_count": 2
+    },
+    "3630470": {
+      "name": "",
+      "artists": [
+        "Moby"
+      ],
+      "songs": [
+        "Moby - Dream About Me"
+      ],
+      "song_count": 1
+    },
+    "2792256": {
+      "name": "mathiaslovlie\u2019s playlist",
+      "artists": [
+        "Pearl Jam",
+        "Alice in Chains"
+      ],
+      "songs": [
+        "Pearl Jam - Go",
+        "Alice in Chains - Nutshell"
+      ],
+      "song_count": 2
+    },
+    "1599193": {
+      "name": "\u041f\u043b\u0435\u0439\u043b\u0438\u0441\u0442 HoOoPs ",
+      "artists": [
+        "Belle and Sebastian",
+        "Belle and Sebastian"
+      ],
+      "songs": [
+        "Belle and Sebastian - Mayfly",
+        "Belle and Sebastian - Judy and The Dream Of Horses"
+      ],
+      "song_count": 2
+    },
+    "2136585": {
+      "name": "Tomhet918\u2019s playlist",
+      "artists": [
+        "Black Sabbath",
+        "Black Sabbath",
+        "Black Sabbath",
+        "Black Sabbath",
+        "Black Sabbath",
+        "Black Sabbath",
+        "Black Sabbath",
+        "Black Sabbath",
+        "Black Sabbath",
+        "Black Sabbath",
+        "Black Sabbath",
+        "Black Sabbath",
+        "Black Sabbath",
+        "Black Sabbath",
+        "Black Sabbath",
+        "Black Sabbath",
+        "Black Sabbath",
+        "Black Sabbath",
+        "Black Sabbath"
+      ],
+      "songs": [
+        "Black Sabbath - Hand Of Doom",
+        "Black Sabbath - War Pigs",
+        "Black Sabbath - Paranoid",
+        "Black Sabbath - Planet Caravan",
+        "Black Sabbath - Iron Man",
+        "Black Sabbath - Black Sabbath",
+        "Black Sabbath - Wasp/ Behind the Wall of Sleep/ Bassically/ N.I.B.",
+        "Black Sabbath - Children Of The Grave",
+        "Black Sabbath - Lord Of This World",
+        "Black Sabbath - Into The Void",
+        "Black Sabbath - Sabbath Bloody Sabbath",
+        "Black Sabbath - Killing Yourself To Live",
+        "Black Sabbath - Spiral Architect",
+        "Black Sabbath - Changes",
+        "Black Sabbath - Under the Sun/Every Day Comes and Goes",
+        "Black Sabbath - Hole In The Sky",
+        "Black Sabbath - Megalomania",
+        "Black Sabbath - Never Say Die",
+        "Black Sabbath - A Hard Road"
+      ],
+      "song_count": 19
+    },
+    "3420814": {
+      "name": "feel",
+      "artists": [
+        "Alicia Keys",
+        "Alicia Keys",
+        "Jay-Z",
+        "Michael Jackson",
+        "Michael Jackson"
+      ],
+      "songs": [
+        "Alicia Keys - The Thing About Love",
+        "Alicia Keys - Goodbye (Solo Piano & Vocal Version)",
+        "Jay-Z - Guns and Roses feat Lenny Krav",
+        "Michael Jackson - Billie Jean",
+        "Michael Jackson - Who Is It"
+      ],
+      "song_count": 5
+    },
+    "6663731": {
+      "name": "",
+      "artists": [
+        "Cypress Hill"
+      ],
+      "songs": [
+        "Cypress Hill - Throw Your Hands in the Air"
+      ],
+      "song_count": 1
+    },
+    "1905480": {
+      "name": "Lista odtwarzania paulinkaaa152",
+      "artists": [
+        "Green Day",
+        "Sum 41",
+        "Sum 41",
+        "Black Sabbath"
+      ],
+      "songs": [
+        "Green Day - Wake Me Up When September Ends",
+        "Sum 41 - Pieces",
+        "Sum 41 - better off on my own",
+        "Black Sabbath - Changes"
+      ],
+      "song_count": 4
+    },
+    "6169571": {
+      "name": "Christmas and New Year Mood",
+      "artists": [
+        "Nat King Cole",
+        "Nat King Cole",
+        "Christina Aguilera",
+        "Christina Aguilera"
+      ],
+      "songs": [
+        "Nat King Cole - Toys For Tots (feat. P Lee & N Wilson)",
+        "Nat King Cole - The Christmas Song",
+        "Christina Aguilera - Merry Christmas, Baby",
+        "Christina Aguilera - The Christmas Song"
+      ],
+      "song_count": 4
+    },
+    "6319211": {
+      "name": "Metal Militia",
+      "artists": [
+        "Megadeth"
+      ],
+      "songs": [
+        "Megadeth - In My Darkest Hour"
+      ],
+      "song_count": 1
+    },
+    "6591162": {
+      "name": "Classic Rock Mix 1",
+      "artists": [
+        "AC/DC"
+      ],
+      "songs": [
+        "AC/DC - Shoot to Thrill"
+      ],
+      "song_count": 1
+    },
+    "6591130": {
+      "name": "Metal Mix 1",
+      "artists": [
+        "Megadeth",
+        "Judas Priest",
+        "Iron Maiden",
+        "Metallica",
+        "Black Sabbath"
+      ],
+      "songs": [
+        "Megadeth - Set The World Afire (2004 Digital Remaster)",
+        "Judas Priest - Leather Rebel",
+        "Iron Maiden - Invaders",
+        "Metallica - Disposable Heroes",
+        "Black Sabbath - Fairies Wear Boots"
+      ],
+      "song_count": 5
+    },
+    "5817616": {
+      "name": "The Playlist Of The Beast ",
+      "artists": [
+        "Iron Maiden",
+        "Iron Maiden",
+        "Iron Maiden",
+        "Metallica",
+        "Metallica",
+        "Metallica",
+        "Judas Priest",
+        "Judas Priest",
+        "Judas Priest",
+        "Anthrax",
+        "Anthrax",
+        "Anthrax",
+        "Slayer",
+        "Slayer",
+        "Slayer",
+        "Black Sabbath",
+        "Black Sabbath",
+        "Black Sabbath",
+        "Deep Purple",
+        "Deep Purple",
+        "Deep Purple"
+      ],
+      "songs": [
+        "Iron Maiden - The Number of the Beast",
+        "Iron Maiden - The Trooper",
+        "Iron Maiden - Fear of the Dark",
+        "Metallica - Welcome Home (Sanitarium)",
+        "Metallica - Master of Puppets",
+        "Metallica - Metal Militia",
+        "Judas Priest - Breaking The Law",
+        "Judas Priest - Painkiller",
+        "Judas Priest - Living After Midnight",
+        "Anthrax - Madhouse",
+        "Anthrax - I Am The Law",
+        "Anthrax - Metal Trashing Mad",
+        "Slayer - Raining Blood",
+        "Slayer - Angel of Death",
+        "Slayer - Dead Skin Mask",
+        "Black Sabbath - Paranoid",
+        "Black Sabbath - Black Sabbath",
+        "Black Sabbath - Sabbath Bloody Sabbath",
+        "Deep Purple - Child In Time",
+        "Deep Purple - When A Blind Man Cries",
+        "Deep Purple - Smoke On The Water"
+      ],
+      "song_count": 21
+    },
+    "6070694": {
+      "name": "",
+      "artists": [
+        "Metallica",
+        "Metallica",
+        "Metallica",
+        "Metallica",
+        "Metallica",
+        "Slayer",
+        "Slayer",
+        "Slayer",
+        "Megadeth",
+        "Megadeth",
+        "Megadeth",
+        "Metallica",
+        "Metallica"
+      ],
+      "songs": [
+        "Metallica - Master of Puppets",
+        "Metallica - Sad But True",
+        "Metallica - Enter Sandman",
+        "Metallica - One",
+        "Metallica - Wherever I May Roam",
+        "Slayer - Raining Blood",
+        "Slayer - Angel of Death",
+        "Slayer - Jesus Saves",
+        "Megadeth - Wake Up Dead",
+        "Megadeth - Symphony Of Destruction",
+        "Megadeth - Peace Sells",
+        "Metallica - From whom the bell tolls",
+        "Metallica - Seek and Destroy (Taken from J"
+      ],
+      "song_count": 13
+    },
+    "6126008": {
+      "name": "Eargasm",
+      "artists": [
+        "Black Sabbath",
+        "Ludwig van Beethoven",
+        "Metallica",
+        "The Rolling Stones",
+        "AC/DC",
+        "Beck",
+        "Beck",
+        "Beck",
+        "Megadeth",
+        "Sum 41",
+        "The Clash",
+        "Ramones"
+      ],
+      "songs": [
+        "Black Sabbath - Wheels of Confusion",
+        "Ludwig van Beethoven - Symphony No. 9 (Scherzo)",
+        "Metallica - Master of Puppets",
+        "The Rolling Stones - Gimme Shelter",
+        "AC/DC - Jailbreak",
+        "Beck - Feel Good Time",
+        "Beck - E-Pro",
+        "Beck - Clap Hands",
+        "Megadeth - In My Darkest Hour",
+        "Sum 41 - Still Waiting",
+        "The Clash - Rock The Casbah",
+        "Ramones - Blitzkreig Bop"
+      ],
+      "song_count": 12
+    },
+    "5842337": {
+      "name": "Megadeth",
+      "artists": [
+        "Megadeth",
+        "Black Sabbath",
+        "Metallica",
+        "Metallica",
+        "Metallica",
+        "Metallica",
+        "Metallica",
+        "Metallica",
+        "Metallica",
+        "Metallica",
+        "Metallica",
+        "Metallica",
+        "Metallica",
+        "Metallica",
+        "Megadeth",
+        "Megadeth",
+        "Megadeth",
+        "Megadeth",
+        "Megadeth",
+        "Megadeth",
+        "Megadeth",
+        "Megadeth",
+        "Megadeth",
+        "Megadeth",
+        "Megadeth",
+        "Megadeth",
+        "Megadeth",
+        "Megadeth",
+        "Megadeth",
+        "Megadeth",
+        "Megadeth",
+        "Megadeth",
+        "Megadeth",
+        "Megadeth",
+        "Megadeth",
+        "Megadeth",
+        "Megadeth",
+        "Megadeth",
+        "Megadeth",
+        "Megadeth",
+        "Megadeth",
+        "Megadeth",
+        "Slayer",
+        "Slayer",
+        "Slayer",
+        "Slayer",
+        "Megadeth",
+        "Slayer",
+        "Slayer",
+        "Slayer",
+        "Slayer",
+        "Megadeth",
+        "Iron Maiden",
+        "Pantera",
+        "Iron Maiden",
+        "Iron Maiden",
+        "Pantera",
+        "Pantera"
+      ],
+      "songs": [
+        "Megadeth - Symphony Of Destruction",
+        "Black Sabbath - Cornucopia",
+        "Metallica - Broken Beat And Scarred",
+        "Metallica - Dyers Eve",
+        "Metallica - Master of Puppets",
+        "Metallica - Battery",
+        "Metallica - Damage, Inc.",
+        "Metallica - Ride The Lightning",
+        "Metallica - Fade To Black",
+        "Metallica - The Call of Ktulu",
+        "Metallica - Seek & Destroy",
+        "Metallica - Phantom Lord",
+        "Metallica - Metal Militia",
+        "Metallica - All Nightmare Long",
+        "Megadeth - Head Crusher",
+        "Megadeth - How The Story Ends",
+        "Megadeth - Paranoid",
+        "Megadeth - Go To Hell",
+        "Megadeth - Angry Again",
+        "Megadeth - 1000 Times Goodbye",
+        "Megadeth - Tornado of Souls",
+        "Megadeth - Hangar 18",
+        "Megadeth - 11 Ashes In Your Mouth",
+        "Megadeth - Hook in Mouth",
+        "Megadeth - Liar",
+        "Megadeth - In My Darkest Hour",
+        "Megadeth - 502",
+        "Megadeth - Set the World Afire",
+        "Megadeth - Mary Jane",
+        "Megadeth - Into the Lungs of Hell",
+        "Megadeth - Wake Up Dead",
+        "Megadeth - Peace Sells",
+        "Megadeth - Good Mourning-Black Friday",
+        "Megadeth - Devil's Island",
+        "Megadeth - Bad Omen",
+        "Megadeth - The Conjuring",
+        "Megadeth - Mechanix",
+        "Megadeth - Looking Down the Cross",
+        "Megadeth - Killing Is My Business ... And Business Is Good",
+        "Megadeth - Last rites_Loved to death",
+        "Megadeth - These Boots",
+        "Megadeth - Skull Beneath the Skin",
+        "Slayer - South of Heaven",
+        "Slayer - War Ensemble",
+        "Slayer - Live Undead",
+        "Slayer - Raining Blood",
+        "Megadeth - Rattlehead",
+        "Slayer - Jihad",
+        "Slayer - Consfearacy",
+        "Slayer - Dead Skin Mask",
+        "Slayer - Angel of Death",
+        "Megadeth - Holy Wars...The Punishment Due",
+        "Iron Maiden - Hallowed Be Thy Name",
+        "Pantera - Cowboys From Hell",
+        "Iron Maiden - 2 Minutes to Midnight",
+        "Iron Maiden - The Number of the Beast",
+        "Pantera - The Sleep",
+        "Pantera - The Art of Shredding"
+      ],
+      "song_count": 58
+    },
+    "4680656": {
+      "name": "",
+      "artists": [
+        "Deep Purple"
+      ],
+      "songs": [
+        "Deep Purple - Perfect Strangers"
+      ],
+      "song_count": 1
+    },
+    "7003447": {
+      "name": "20th week of 2010.",
+      "artists": [
+        "Michael Jackson"
+      ],
+      "songs": [
+        "Michael Jackson - Thriller"
+      ],
+      "song_count": 1
+    },
+    "6956111": {
+      "name": "19th week of 2010.",
+      "artists": [
+        "Alice in Chains",
+        "Def Leppard",
+        "Michael Jackson"
+      ],
+      "songs": [
+        "Alice in Chains - Rooster",
+        "Def Leppard - When Love And Hate Collide",
+        "Michael Jackson - Billy Jean"
+      ],
+      "song_count": 3
+    },
+    "6955755": {
+      "name": "18th week of 2010.",
+      "artists": [
+        "Michael Jackson",
+        "AC/DC",
+        "Skid Row",
+        "Deep Purple"
+      ],
+      "songs": [
+        "Michael Jackson - Beat It",
+        "AC/DC - Shoot to Thrill",
+        "Skid Row - Wasted Time",
+        "Deep Purple - Smoke On The Water"
+      ],
+      "song_count": 4
+    },
+    "6955751": {
+      "name": "17th week of 2010.",
+      "artists": [
+        "Def Leppard",
+        "Deep Purple",
+        "Green Day"
+      ],
+      "songs": [
+        "Def Leppard - Let's Get Rocked",
+        "Deep Purple - Highway Star",
+        "Green Day - Boulevard Of Broken Dreams"
+      ],
+      "song_count": 3
+    },
+    "6774480": {
+      "name": "13th week of 2010.",
+      "artists": [
+        "Def Leppard"
+      ],
+      "songs": [
+        "Def Leppard - Animal"
+      ],
+      "song_count": 1
+    },
+    "6690915": {
+      "name": "12th week of 2010.",
+      "artists": [
+        "Def Leppard"
+      ],
+      "songs": [
+        "Def Leppard - When Love And Hate Collide"
+      ],
+      "song_count": 1
+    },
+    "6679305": {
+      "name": "11th week of 2010.",
+      "artists": [
+        "The Rolling Stones",
+        "AC/DC"
+      ],
+      "songs": [
+        "The Rolling Stones - Love Is Strong",
+        "AC/DC - Rock 'N Roll Train"
+      ],
+      "song_count": 2
+    },
+    "6626501": {
+      "name": "10th week of 2010.",
+      "artists": [
+        "Def Leppard",
+        "AC/DC"
+      ],
+      "songs": [
+        "Def Leppard - C'mon C'mon",
+        "AC/DC - It's a Long Way to the Top"
+      ],
+      "song_count": 2
+    },
+    "384448": {
+      "name": "Matita's playlist",
+      "artists": [
+        "Def Leppard",
+        "Sum 41"
+      ],
+      "songs": [
+        "Def Leppard - Animal",
+        "Sum 41 - Count Your Last Blessings"
+      ],
+      "song_count": 2
+    },
+    "2813104": {
+      "name": "!",
+      "artists": [
+        "Depeche Mode",
+        "Giuseppe Verdi",
+        "Depeche Mode",
+        "Elvis Presley",
+        "Robbie Williams",
+        "Kraftwerk",
+        "Depeche Mode",
+        "Depeche Mode",
+        "Depeche Mode",
+        "Depeche Mode",
+        "Depeche Mode",
+        "Depeche Mode",
+        "The Smiths",
+        "Depeche Mode",
+        "Iron Maiden",
+        "Depeche Mode",
+        "Madonna",
+        "Nirvana"
+      ],
+      "songs": [
+        "Depeche Mode - Halo",
+        "Giuseppe Verdi - Il Re: Or di Vulcano al tempio",
+        "Depeche Mode - Here Is the House",
+        "Elvis Presley - Fever",
+        "Robbie Williams - She's Madonna [Album Version]",
+        "Kraftwerk - Sex Object",
+        "Depeche Mode - Kaleid (Remix)",
+        "Depeche Mode - Barrel of a Gun (3 Phase mix)",
+        "Depeche Mode - Nothing",
+        "Depeche Mode - The Love Thieves",
+        "Depeche Mode - Freestate",
+        "Depeche Mode - Route 66 (Beatmasters Mix)",
+        "The Smiths - Bigmouth Strikes Again",
+        "Depeche Mode - In Your Room",
+        "Iron Maiden - Powerslave",
+        "Depeche Mode - The Bottom Line",
+        "Madonna - Frozen (edit)",
+        "Nirvana - Lithium"
+      ],
+      "song_count": 18
+    },
+    "803088": {
+      "name": "",
+      "artists": [
+        "Metallica",
+        "Metallica",
+        "Metallica",
+        "Metallica",
+        "Metallica",
+        "Metallica",
+        "Metallica"
+      ],
+      "songs": [
+        "Metallica - Leper Messiah",
+        "Metallica - Master of Puppets",
+        "Metallica - I Disappear",
+        "Metallica - Fuel",
+        "Metallica - Battery",
+        "Metallica - Enter Sandman",
+        "Metallica - Creeping Death"
+      ],
+      "song_count": 7
+    },
+    "946336": {
+      "name": "nickhorvath\u2019s playlist",
+      "artists": [
+        "Metallica",
+        "Metallica",
+        "Metallica",
+        "Metallica",
+        "Pantera",
+        "Pantera",
+        "Slayer",
+        "Slayer",
+        "Slayer"
+      ],
+      "songs": [
+        "Metallica - Blackened",
+        "Metallica - For Whom The Bell Tolls",
+        "Metallica - Battery",
+        "Metallica - Creeping Death",
+        "Pantera - Fucking Hostile",
+        "Pantera - The Art of Shredding",
+        "Slayer - Bloodline",
+        "Slayer - Angel of Death",
+        "Slayer - Dead Skin Mask"
+      ],
+      "song_count": 9
+    },
+    "6029409": {
+      "name": "From the  heart",
+      "artists": [
+        "Sepultura",
+        "Pantera",
+        "Pantera",
+        "Slayer"
+      ],
+      "songs": [
+        "Sepultura - 08 - Who Must Die",
+        "Pantera - 5 Minutes Alone",
+        "Pantera - Cemetery Gates",
+        "Slayer - Raining Blood"
+      ],
+      "song_count": 4
+    },
+    "6331882": {
+      "name": "D1",
+      "artists": [
+        "Madonna"
+      ],
+      "songs": [
+        "Madonna - Like a Prayer"
+      ],
+      "song_count": 1
+    },
+    "1079596": {
+      "name": "SeduceTheWeak\u2019s playlist",
+      "artists": [
+        "Alice in Chains",
+        "Nirvana",
+        "Dr. Dre",
+        "Pearl Jam",
+        "The Smiths"
+      ],
+      "songs": [
+        "Alice in Chains - Rain When I Die",
+        "Nirvana - Milk It",
+        "Dr. Dre - Forgot About Dre",
+        "Pearl Jam - State of Love and Trust",
+        "The Smiths - Handsome Devil"
+      ],
+      "song_count": 5
+    },
+    "1051108": {
+      "name": "Belle fille",
+      "artists": [
+        "Foo Fighters",
+        "Foo Fighters",
+        "Foo Fighters",
+        "Foo Fighters",
+        "Foo Fighters",
+        "Foo Fighters",
+        "Sex Pistols",
+        "Sex Pistols",
+        "Sex Pistols",
+        "Sex Pistols",
+        "Sex Pistols",
+        "Sex Pistols",
+        "Sex Pistols",
+        "Sex Pistols",
+        "Sex Pistols",
+        "Sex Pistols",
+        "Sex Pistols",
+        "The Kinks",
+        "The Kinks",
+        "The Kinks",
+        "The Who",
+        "The Who",
+        "The Who",
+        "The Rolling Stones",
+        "The Rolling Stones",
+        "The Rolling Stones",
+        "The Rolling Stones",
+        "The Rolling Stones",
+        "The Rolling Stones",
+        "The Rolling Stones",
+        "The Rolling Stones",
+        "The Rolling Stones",
+        "The Rolling Stones",
+        "The Rolling Stones",
+        "The Rolling Stones",
+        "The Rolling Stones",
+        "The Rolling Stones",
+        "The Rolling Stones",
+        "Radiohead",
+        "Radiohead",
+        "Radiohead",
+        "Radiohead",
+        "Beck",
+        "Beck",
+        "Beck",
+        "Beck",
+        "Beck",
+        "Weezer",
+        "Weezer",
+        "Weezer",
+        "Weezer",
+        "Weezer",
+        "Weezer",
+        "The Clash",
+        "The Clash",
+        "The Clash",
+        "The Clash",
+        "The Clash",
+        "The Clash",
+        "The Clash",
+        "Buzzcocks",
+        "Buzzcocks",
+        "Buzzcocks",
+        "Ramones",
+        "Ramones"
+      ],
+      "songs": [
+        "Foo Fighters - Best Of You",
+        "Foo Fighters - Everlong",
+        "Foo Fighters - My Hero",
+        "Foo Fighters - The Pretender",
+        "Foo Fighters - Monkey Wrench",
+        "Foo Fighters - DOA",
+        "Sex Pistols - God Save The Queen",
+        "Sex Pistols - Anarchy In The UK",
+        "Sex Pistols - Pretty Vacant",
+        "Sex Pistols - Holidays In The Sun",
+        "Sex Pistols - Bodies",
+        "Sex Pistols - No Feelings",
+        "Sex Pistols - Liar",
+        "Sex Pistols - Problems",
+        "Sex Pistols - Seventeen",
+        "Sex Pistols - Submission",
+        "Sex Pistols - EMI",
+        "The Kinks - You Really Got Me",
+        "The Kinks - Lola",
+        "The Kinks - All Day And All Of The Night",
+        "The Who - My Generation",
+        "The Who - Baba O'Riley",
+        "The Who - Who Are You",
+        "The Rolling Stones - Paint It Black",
+        "The Rolling Stones - Sympathy For The Devil",
+        "The Rolling Stones - Gimme Shelter",
+        "The Rolling Stones - Angie",
+        "The Rolling Stones - Brown Sugar",
+        "The Rolling Stones - Start Me Up",
+        "The Rolling Stones - Ruby Tuesday",
+        "The Rolling Stones - You Can't Always Get What You Want",
+        "The Rolling Stones - Under My Thumb",
+        "The Rolling Stones - (I Can't Get No) Satisfaction",
+        "The Rolling Stones - Street Fighting Man",
+        "The Rolling Stones - Beast Of Burden",
+        "The Rolling Stones - Jumpin' Jack Flash",
+        "The Rolling Stones - 19th Nervous Breakdown",
+        "The Rolling Stones - Get Off Of My Cloud",
+        "Radiohead - Karma Police",
+        "Radiohead - Creep",
+        "Radiohead - Idioteque",
+        "Radiohead - Optimistic",
+        "Beck - Loser",
+        "Beck - Girl",
+        "Beck - Nausea",
+        "Beck - E-Pro",
+        "Beck - Think I'm In Love",
+        "Weezer - Buddy Holly",
+        "Weezer - Island In The Sun",
+        "Weezer - Say It Ain't So",
+        "Weezer - Beverly Hills",
+        "Weezer - Hash Pipe",
+        "Weezer - We Are All On Drugs",
+        "The Clash - Lost in the Supermarket",
+        "The Clash - Should I Stay Or Should I Go",
+        "The Clash - Spanish Bombs",
+        "The Clash - Clampdown",
+        "The Clash - Rock The Casbah",
+        "The Clash - London Calling",
+        "The Clash - Rudie Can't Fail",
+        "Buzzcocks - Boredom",
+        "Buzzcocks - What Do I Get?",
+        "Buzzcocks - Everybody's Happy Nowadays",
+        "Ramones - Blitzkrieg Bop",
+        "Ramones - Sheena Is a Punk Rocker"
+      ],
+      "song_count": 65
+    },
+    "5901601": {
+      "name": "Dia nublado",
+      "artists": [
+        "Belle and Sebastian"
+      ],
+      "songs": [
+        "Belle and Sebastian - Another Sunny Day"
+      ],
+      "song_count": 1
+    },
+    "2204903": {
+      "name": "",
+      "artists": [
+        "Massive Attack",
+        "Massive Attack"
+      ],
+      "songs": [
+        "Massive Attack - Paradise Circus",
+        "Massive Attack - Psyche"
+      ],
+      "song_count": 2
+    },
+    "3142975": {
+      "name": "",
+      "artists": [
+        "Black Sabbath",
+        "Deep Purple",
+        "Pearl Jam",
+        "Green Day",
+        "Metallica",
+        "Metallica"
+      ],
+      "songs": [
+        "Black Sabbath - Lady Evil",
+        "Deep Purple - Child In Time",
+        "Pearl Jam - Come Back",
+        "Green Day - Boulevard Of Broken Dreams",
+        "Metallica - The God That Failed",
+        "Metallica - The Unforgiven"
+      ],
+      "song_count": 6
+    },
+    "5134904": {
+      "name": "no. 1",
+      "artists": [
+        "Radiohead"
+      ],
+      "songs": [
+        "Radiohead - The Bends"
+      ],
+      "song_count": 1
+    },
+    "2939285": {
+      "name": "",
+      "artists": [
+        "Skid Row"
+      ],
+      "songs": [
+        "Skid Row - Beggars Day"
+      ],
+      "song_count": 1
+    },
+    "846618": {
+      "name": "suzyglampunk\u2019s playlist",
+      "artists": [
+        "Pantera",
+        "Slayer",
+        "Metallica",
+        "Skid Row"
+      ],
+      "songs": [
+        "Pantera - The Art of Shredding",
+        "Slayer - Ghosts of War",
+        "Metallica - The Four Horsemen",
+        "Skid Row - In a Darkened Room"
+      ],
+      "song_count": 4
+    },
+    "303299": {
+      "name": "09/02/09",
+      "artists": [
+        "The Smiths"
+      ],
+      "songs": [
+        "The Smiths - Please Please Please Let Me Get What I Want"
+      ],
+      "song_count": 1
+    },
+    "4104883": {
+      "name": "",
+      "artists": [
+        "Depeche Mode"
+      ],
+      "songs": [
+        "Depeche Mode - Wrong"
+      ],
+      "song_count": 1
+    },
+    "2757335": {
+      "name": "Incontournables",
+      "artists": [
+        "Foo Fighters",
+        "Foo Fighters",
+        "Foo Fighters",
+        "Foo Fighters",
+        "Foo Fighters",
+        "Foo Fighters",
+        "Foo Fighters",
+        "Foo Fighters",
+        "Foo Fighters",
+        "Foo Fighters",
+        "Foo Fighters",
+        "Foo Fighters",
+        "Foo Fighters",
+        "Foo Fighters",
+        "Radiohead",
+        "Radiohead",
+        "Depeche Mode"
+      ],
+      "songs": [
+        "Foo Fighters - Everlong",
+        "Foo Fighters - Best Of You",
+        "Foo Fighters - Learn To Fly",
+        "Foo Fighters - My Hero",
+        "Foo Fighters - All My Life",
+        "Foo Fighters - Breakout",
+        "Foo Fighters - DOA",
+        "Foo Fighters - Generator",
+        "Foo Fighters - Win or Lose",
+        "Foo Fighters - In Your Honor",
+        "Foo Fighters - The One",
+        "Foo Fighters - Times Like These (acoustic)",
+        "Foo Fighters - Skin And Bones",
+        "Foo Fighters - No Way Back",
+        "Radiohead - Nude",
+        "Radiohead - Just",
+        "Depeche Mode - John The Revelator"
+      ],
+      "song_count": 17
+    },
+    "3715434": {
+      "name": "A en pleurer",
+      "artists": [
+        "Foo Fighters",
+        "Radiohead",
+        "Foo Fighters"
+      ],
+      "songs": [
+        "Foo Fighters - Razor",
+        "Radiohead - No Surprises",
+        "Foo Fighters - Stranger Things Have Happened"
+      ],
+      "song_count": 3
+    },
+    "2879251": {
+      "name": "",
+      "artists": [
+        "Ramones",
+        "Ramones",
+        "Ramones",
+        "Beck",
+        "Beck",
+        "Beck",
+        "Beck",
+        "Beck",
+        "Beck",
+        "Beck",
+        "Beck"
+      ],
+      "songs": [
+        "Ramones - I Wanna Be Sedated",
+        "Ramones - Sheena Is a Punk Rocker",
+        "Ramones - Rock 'n' Roll High School",
+        "Beck - Loser",
+        "Beck - Girl",
+        "Beck - E-Pro",
+        "Beck - Lost Cause",
+        "Beck - Where It's At",
+        "Beck - Black Tambourine",
+        "Beck - The New Pollution",
+        "Beck - Think I'm In Love"
+      ],
+      "song_count": 11
+    },
+    "6716879": {
+      "name": "",
+      "artists": [
+        "Bush",
+        "Pearl Jam",
+        "Foo Fighters",
+        "Pearl Jam",
+        "Alice in Chains",
+        "Bush",
+        "Bush",
+        "Foo Fighters",
+        "Bush",
+        "Pearl Jam",
+        "Green Day",
+        "Bush",
+        "Foo Fighters",
+        "Nirvana",
+        "Foo Fighters",
+        "Foo Fighters",
+        "Bush",
+        "Foo Fighters",
+        "Alice in Chains",
+        "Foo Fighters",
+        "Pearl Jam",
+        "Pearl Jam",
+        "Pearl Jam",
+        "Alice in Chains",
+        "Foo Fighters",
+        "Alice in Chains",
+        "Pearl Jam",
+        "Foo Fighters",
+        "Bush",
+        "Def Leppard",
+        "Pearl Jam",
+        "Alice in Chains"
+      ],
+      "songs": [
+        "Bush - The Chemicals Between Us",
+        "Pearl Jam - Daughter",
+        "Foo Fighters - Learn To Fly",
+        "Pearl Jam - Nothingman",
+        "Alice in Chains - Would?",
+        "Bush - Machinehead",
+        "Bush - Everything Zen",
+        "Foo Fighters - Long Road To Ruin",
+        "Bush - Greedy Fly",
+        "Pearl Jam - Corduroy",
+        "Green Day - Basket Case",
+        "Bush - Glycerine",
+        "Foo Fighters - This Is A Call",
+        "Nirvana - Paper Cuts",
+        "Foo Fighters - Everlong",
+        "Foo Fighters - Monkey Wrench",
+        "Bush - Comedown",
+        "Foo Fighters - Wheels",
+        "Alice in Chains - Dirt",
+        "Foo Fighters - My Hero",
+        "Pearl Jam - Alive",
+        "Pearl Jam - Garden",
+        "Pearl Jam - Why Go",
+        "Alice in Chains - Over Now",
+        "Foo Fighters - The Pretender",
+        "Alice in Chains - Man In The Box",
+        "Pearl Jam - Black",
+        "Foo Fighters - Times Like These",
+        "Bush - Cold Contagious",
+        "Def Leppard - Hysteria",
+        "Pearl Jam - Off He Goes",
+        "Alice in Chains - Down In A Hole"
+      ],
+      "song_count": 32
+    },
+    "6655926": {
+      "name": "oh yeah",
+      "artists": [
+        "Weezer",
+        "Dolly Parton"
+      ],
+      "songs": [
+        "Weezer - Hash Pipe",
+        "Dolly Parton - Jolene"
+      ],
+      "song_count": 2
+    },
+    "4000291": {
+      "name": "",
+      "artists": [
+        "Jane's Addiction",
+        "The Rolling Stones",
+        "The Rolling Stones",
+        "Black Sabbath",
+        "Jane's Addiction",
+        "Patti Smith",
+        "Patti Smith",
+        "Justin Timberlake",
+        "Jane's Addiction",
+        "Alice in Chains",
+        "Beck",
+        "Beck",
+        "Beck",
+        "Patti Smith"
+      ],
+      "songs": [
+        "Jane's Addiction - Price I Pay",
+        "The Rolling Stones - Gimme Shelter",
+        "The Rolling Stones - Bitch",
+        "Black Sabbath - Paranoid",
+        "Jane's Addiction - Kettle Whistle",
+        "Patti Smith - Smells Like Teen Spirit",
+        "Patti Smith - Free Money",
+        "Justin Timberlake - FutureSex/LoveSound",
+        "Jane's Addiction - Three Days",
+        "Alice in Chains - Rotten Apple",
+        "Beck - Dark Star",
+        "Beck - The Information",
+        "Beck - Girl",
+        "Patti Smith - Summer Cannibals"
+      ],
+      "song_count": 14
+    },
+    "2719383": {
+      "name": "Lista de temas de bigbadsoj",
+      "artists": [
+        "Nirvana",
+        "Nirvana",
+        "Jane's Addiction",
+        "Deep Purple",
+        "Deep Purple",
+        "Deep Purple"
+      ],
+      "songs": [
+        "Nirvana - Smells Like Teen Spirit",
+        "Nirvana - Come As You Are",
+        "Jane's Addiction - Superhero",
+        "Deep Purple - Smoke On The Water",
+        "Deep Purple - Highway Star",
+        "Deep Purple - Lazy"
+      ],
+      "song_count": 6
+    },
+    "4141702": {
+      "name": "errr",
+      "artists": [
+        "AC/DC",
+        "Sex Pistols",
+        "Sex Pistols"
+      ],
+      "songs": [
+        "AC/DC - Highway to Hell",
+        "Sex Pistols - Anarchy in the U.K.",
+        "Sex Pistols - New York"
+      ],
+      "song_count": 3
+    },
+    "5691970": {
+      "name": "moje kawa\u0142ki",
+      "artists": [
+        "Green Day",
+        "Nirvana",
+        "Sex Pistols",
+        "Sex Pistols",
+        "Sid Vicious",
+        "Sid Vicious",
+        "Sid Vicious",
+        "Ramones",
+        "Sex Pistols",
+        "Sex Pistols",
+        "Sex Pistols",
+        "Sex Pistols",
+        "Sex Pistols",
+        "Sex Pistols",
+        "The Clash",
+        "Sex Pistols",
+        "Sid Vicious"
+      ],
+      "songs": [
+        "Green Day - Jezus of suburbia",
+        "Nirvana - Come As You Are",
+        "Sex Pistols - God Save The Queen",
+        "Sex Pistols - Anarchy in the U.K.",
+        "Sid Vicious - My Way",
+        "Sid Vicious - Chatterbox",
+        "Sid Vicious - Stepping Stone",
+        "Ramones - What A Wonderful World",
+        "Sex Pistols - Jingle Bells - Punk Version",
+        "Sex Pistols - Should I Stay or Should I Go",
+        "Sex Pistols - Johnny B. Goode",
+        "Sex Pistols - Schools Are Prisions",
+        "Sex Pistols - Punk Rock Christmas",
+        "Sex Pistols - Anarchy In The UK",
+        "The Clash - Should I Stay Or Should I Go",
+        "Sex Pistols - Rock Around the Clock",
+        "Sid Vicious - From Behind The Grave"
+      ],
+      "song_count": 17
+    },
+    "1864150": {
+      "name": "",
+      "artists": [
+        "The Yardbirds"
+      ],
+      "songs": [
+        "The Yardbirds - A Certain Girl"
+      ],
+      "song_count": 1
+    },
+    "3106736": {
+      "name": "DRINKIN MUSIC,LOVE THE OTHER WORLDS??",
+      "artists": [
+        "Leonard Cohen",
+        "Alice in Chains",
+        "Leonard Cohen",
+        "Leonard Cohen",
+        "Leonard Cohen",
+        "Leonard Cohen",
+        "Leonard Cohen",
+        "Leonard Cohen",
+        "Leonard Cohen",
+        "Leonard Cohen",
+        "Leonard Cohen",
+        "Hank Williams",
+        "Leonard Cohen",
+        "Leonard Cohen",
+        "Radiohead",
+        "Leonard Cohen",
+        "Leonard Cohen",
+        "Bob Dylan",
+        "Leonard Cohen",
+        "The Rolling Stones"
+      ],
+      "songs": [
+        "Leonard Cohen - Why Don't You Try",
+        "Alice in Chains - Junkhead (Demo)",
+        "Leonard Cohen - I Left a Woman Waiting",
+        "Leonard Cohen - Memories",
+        "Leonard Cohen - Bird on a Wire",
+        "Leonard Cohen - A Bunch of Lonesome Heros",
+        "Leonard Cohen - The Old Revolution",
+        "Leonard Cohen - Lady Midnight",
+        "Leonard Cohen - Love Calls You by Your Name",
+        "Leonard Cohen - A Thousand Kisses Deep",
+        "Leonard Cohen - That Don't Make It Junk",
+        "Hank Williams - I'll Never Get Out Of This World Alive",
+        "Leonard Cohen - So Long, Marianne",
+        "Leonard Cohen - I'm Your Man",
+        "Radiohead - Reckoner",
+        "Leonard Cohen - Leaving Green Sleeves",
+        "Leonard Cohen - A Singer Must Die",
+        "Bob Dylan - No Time to Think",
+        "Leonard Cohen - Is This What You Wanted",
+        "The Rolling Stones - Jigsaw Puzzle"
+      ],
+      "song_count": 20
+    },
+    "5416280": {
+      "name": "Lucasbitch ",
+      "artists": [
+        "Dead Kennedys",
+        "Sex Pistols",
+        "Sex Pistols",
+        "Sex Pistols",
+        "Sex Pistols",
+        "Sex Pistols",
+        "Sex Pistols",
+        "Anthrax",
+        "Sex Pistols",
+        "Ramones",
+        "Dead Kennedys",
+        "Bad Religion",
+        "Dead Kennedys",
+        "Dead Kennedys",
+        "Ramones",
+        "Dead Kennedys",
+        "The Clash",
+        "The Clash",
+        "The Clash"
+      ],
+      "songs": [
+        "Dead Kennedys - Anarchy for Sale",
+        "Sex Pistols - God Save The Queen",
+        "Sex Pistols - Bodies",
+        "Sex Pistols - Liar",
+        "Sex Pistols - Holidays In The Sun",
+        "Sex Pistols - Seventeen",
+        "Sex Pistols - New York",
+        "Anthrax - Madhouse",
+        "Sex Pistols - Sex and Violence",
+        "Ramones - Cretin Hop",
+        "Dead Kennedys - Kill the Poor",
+        "Bad Religion - Infected",
+        "Dead Kennedys - Simpsons Theme",
+        "Dead Kennedys - Drug Me",
+        "Ramones - I Wanna Be Sedated",
+        "Dead Kennedys - California Uber Alles",
+        "The Clash - London Calling",
+        "The Clash - I Fought The Law",
+        "The Clash - Clash City Rockers"
+      ],
+      "song_count": 19
+    },
+    "3547467": {
+      "name": "Custombrush`s Playlist",
+      "artists": [
+        "Fatboy Slim",
+        "Moby",
+        "Moby",
+        "Moby",
+        "Daft Punk",
+        "Moby"
+      ],
+      "songs": [
+        "Fatboy Slim - Right Here, Right Now",
+        "Moby - Run On",
+        "Moby - Honey",
+        "Moby - Feeling So Real",
+        "Daft Punk - High Life",
+        "Moby - Why Does My Heart Feel So Bad?"
+      ],
+      "song_count": 6
+    },
+    "3015770": {
+      "name": "",
+      "artists": [
+        "Bob Marley"
+      ],
+      "songs": [
+        "Bob Marley - Jammin"
+      ],
+      "song_count": 1
+    },
+    "7072981": {
+      "name": "Mix pour prisci (to-do)",
+      "artists": [
+        "The Clash",
+        "The Kinks",
+        "The Kinks",
+        "Bob Dylan",
+        "Bob Dylan",
+        "Bob Dylan",
+        "Bob Dylan",
+        "Buzzcocks",
+        "Buzzcocks",
+        "Patti Smith",
+        "Patti Smith",
+        "Beck",
+        "Beck"
+      ],
+      "songs": [
+        "The Clash - (White Man) In Hammersmith Palais",
+        "The Kinks - Wicked Annabella",
+        "The Kinks - Yes Sir, No Sir",
+        "Bob Dylan - Visions of Johanna",
+        "Bob Dylan - Don't Think Twice, It's All Right",
+        "Bob Dylan - This Land Is Your Land (live)",
+        "Bob Dylan - Ballad of a Thin Man",
+        "Buzzcocks - I Don't Mind",
+        "Buzzcocks - Harmony In My Head",
+        "Patti Smith - Smells Like Teen Spirit",
+        "Patti Smith - Break It Up",
+        "Beck - Timebomb",
+        "Beck - Volcano"
+      ],
+      "song_count": 13
+    },
+    "6523738": {
+      "name": "Sum 41, The Fray & The Kooks",
+      "artists": [
+        "Sum 41",
+        "Sum 41",
+        "Sum 41",
+        "Sum 41",
+        "Sum 41",
+        "Sum 41"
+      ],
+      "songs": [
+        "Sum 41 - In Too Deep",
+        "Sum 41 - Pieces",
+        "Sum 41 - We're All To Blame",
+        "Sum 41 - With Me",
+        "Sum 41 - Motivation",
+        "Sum 41 - Fat Lip"
+      ],
+      "song_count": 6
+    },
+    "126398": {
+      "name": "",
+      "artists": [
+        "Sonic Youth",
+        "Underworld",
+        "Carl Cox"
+      ],
+      "songs": [
+        "Sonic Youth - Becuz",
+        "Underworld - Live @ Creamfields",
+        "Carl Cox - Global Sessions"
+      ],
+      "song_count": 3
+    },
+    "3932596": {
+      "name": "",
+      "artists": [
+        "Elvis Presley"
+      ],
+      "songs": [
+        "Elvis Presley - Surrender"
+      ],
+      "song_count": 1
+    },
+    "1121251": {
+      "name": "Katy\u2019s playlist",
+      "artists": [
+        "Spice Girls"
+      ],
+      "songs": [
+        "Spice Girls - Viva Forever"
+      ],
+      "song_count": 1
+    },
+    "24420": {
+      "name": "",
+      "artists": [
+        "Screeching Weasel"
+      ],
+      "songs": [
+        "Screeching Weasel - You Blister My Paint"
+      ],
+      "song_count": 1
+    },
+    "32215": {
+      "name": "mustangjumper\u2019s playlist",
+      "artists": [
+        "Desmond Dekker"
+      ],
+      "songs": [
+        "Desmond Dekker - Israelites"
+      ],
+      "song_count": 1
+    },
+    "5014046": {
+      "name": "Mixet",
+      "artists": [
+        "Eminem",
+        "Eminem",
+        "Eminem",
+        "Eminem",
+        "Eminem",
+        "Eminem",
+        "Eminem",
+        "Eminem"
+      ],
+      "songs": [
+        "Eminem - Beautiful",
+        "Eminem - Old Times Sake (Ft. Dr Dre)",
+        "Eminem - Underground/Ken Kaniff",
+        "Eminem - Deja Vu",
+        "Eminem - Must Be The Ganja",
+        "Eminem - Bagpipes From Baghdad",
+        "Eminem - Same Song & Dance",
+        "Eminem - We Made You"
+      ],
+      "song_count": 8
+    },
+    "2331365": {
+      "name": "",
+      "artists": [
+        "Alice in Chains",
+        "Pantera"
+      ],
+      "songs": [
+        "Alice in Chains - No Excuses",
+        "Pantera - This Love"
+      ],
+      "song_count": 2
+    },
+    "237680": {
+      "name": "\u0421\u0443\u043a\u0430 \u0431\u043b\u044f\u0442\u044c \u043f\u0438\u0437\u0434\u0430 \u0437\u0430\u0440\u0430\u0437\u0430 - \u0442\u044b \u043e\u0441\u043a\u043e\u043b\u043e\u043a \u0443\u043d\u0438\u0442\u0430\u0437\u0430 \u043b\u0438\u0441\u0442",
+      "artists": [
+        "Nirvana",
+        "Nirvana",
+        "Nirvana",
+        "Nirvana",
+        "Nirvana",
+        "Nirvana",
+        "Nirvana",
+        "Nirvana",
+        "Nirvana",
+        "Nirvana",
+        "Nirvana",
+        "Nirvana",
+        "Nirvana",
+        "Nirvana",
+        "Nirvana",
+        "Sepultura",
+        "Ramones",
+        "The Animals",
+        "Ramones",
+        "Elvis Presley",
+        "Sonic Youth",
+        "Ludwig van Beethoven",
+        "Public Enemy",
+        "Michael Jackson"
+      ],
+      "songs": [
+        "Nirvana - You Know You're Right",
+        "Nirvana - Territorial Pissings",
+        "Nirvana - Beaurocratic Desire for Reveng",
+        "Nirvana - Been a Son (live)",
+        "Nirvana - Opinion",
+        "Nirvana - Something In The Way",
+        "Nirvana - Oh The Guilt",
+        "Nirvana - Moist Vagina",
+        "Nirvana - Return of the Rat",
+        "Nirvana - If You Must",
+        "Nirvana - My Sharona",
+        "Nirvana - Beans",
+        "Nirvana - Blandest (studio demo)",
+        "Nirvana - Endless, Nameless",
+        "Nirvana - Oh Me",
+        "Sepultura - Territory",
+        "Ramones - I Remember You",
+        "The Animals - House Of The Rising Sun",
+        "Ramones - Have You Ever Seen The Rain",
+        "Elvis Presley - First In Line",
+        "Sonic Youth - Youth Against Fascism",
+        "Ludwig van Beethoven - 9th Symphony",
+        "Public Enemy - Burn Hollywood Burn",
+        "Michael Jackson - Bad"
+      ],
+      "song_count": 24
+    },
+    "1545492": {
+      "name": "mixtape i BFM",
+      "artists": [
+        "50 Cent",
+        "50 Cent",
+        "50 Cent",
+        "50 Cent",
+        "50 Cent",
+        "50 Cent",
+        "50 Cent",
+        "50 Cent",
+        "50 Cent",
+        "50 Cent",
+        "50 Cent",
+        "Eminem",
+        "Dr. Dre"
+      ],
+      "songs": [
+        "50 Cent - here we go",
+        "50 Cent - doin' my own thing",
+        "50 Cent - guess who's back again",
+        "50 Cent - die for me",
+        "50 Cent - After My Chedda",
+        "50 Cent - 187 freestyle",
+        "50 Cent - No Introduction",
+        "50 Cent - heaven-hell",
+        "50 Cent - gettin' mine",
+        "50 Cent - I'm A Soldier",
+        "50 Cent - say what you want (outro)",
+        "Eminem - Lose Yourself",
+        "Dr. Dre - Still D.R.E."
+      ],
+      "song_count": 13
+    },
+    "679723": {
+      "name": "krembo99\u2019s playlist",
+      "artists": [
+        "Metallica"
+      ],
+      "songs": [
+        "Metallica - ...And Justice For All"
+      ],
+      "song_count": 1
+    },
+    "17326": {
+      "name": "Re-Animated's playlist",
+      "artists": [
+        "The Rolling Stones",
+        "The Rolling Stones",
+        "The Rolling Stones",
+        "The Who",
+        "The Who",
+        "The Who"
+      ],
+      "songs": [
+        "The Rolling Stones - Sympathy For The Devil",
+        "The Rolling Stones - Start Me Up",
+        "The Rolling Stones - Love Is Strong",
+        "The Who - I Can't Explain",
+        "The Who - The Real Me",
+        "The Who - Love, Reign O'er Me"
+      ],
+      "song_count": 6
+    },
+    "5077062": {
+      "name": "",
+      "artists": [
+        "2Pac",
+        "2Pac",
+        "Dr. Dre",
+        "Dr. Dre"
+      ],
+      "songs": [
+        "2Pac - Me & My Girlfriend",
+        "2Pac - Troublesome",
+        "Dr. Dre - Represent (ft. 50 Cent)",
+        "Dr. Dre - Big Ego's (feat. Hittman)"
+      ],
+      "song_count": 4
+    },
+    "5257957": {
+      "name": "You got to bang bang?",
+      "artists": [
+        "Snoop Dogg",
+        "Snoop Dogg",
+        "Dr. Dre",
+        "Ice Cube",
+        "Ice Cube",
+        "Snoop Dogg",
+        "Busta Rhymes",
+        "Snoop Dogg",
+        "Snoop Dogg",
+        "Eminem",
+        "Snoop Dogg",
+        "Snoop Dogg",
+        "Snoop Dogg",
+        "Snoop Dogg",
+        "Snoop Dogg",
+        "Snoop Dogg",
+        "Busta Rhymes",
+        "Snoop Dogg",
+        "Snoop Dogg",
+        "Snoop Dogg",
+        "Snoop Dogg",
+        "Snoop Dogg"
+      ],
+      "songs": [
+        "Snoop Dogg - Whateva U Do",
+        "Snoop Dogg - Hi Definition feat. Lupe Fiasco & Pooh Bear",
+        "Dr. Dre - Lil' Ghetto Boy",
+        "Ice Cube - No Vaseline",
+        "Ice Cube - Smoke Some Weed",
+        "Snoop Dogg - Issues",
+        "Busta Rhymes - I Love My Bitch (Feat. Kelis & Will.I.Am)",
+        "Snoop Dogg - We Smoke Pounds",
+        "Snoop Dogg - Gangsta Dicc",
+        "Eminem - Crack A Bottle feat. Dr. Dre & 50 Cent",
+        "Snoop Dogg - WHOOP YOUR A$$ - Snoop Dogg",
+        "Snoop Dogg - PIMPIN' ON A HOE - Snoop Dogg",
+        "Snoop Dogg - Neva Have 2 Worry",
+        "Snoop Dogg - Makes u wanna",
+        "Snoop Dogg - Ain't No Fun",
+        "Snoop Dogg - Where The Hoes At Ft Daz Dillinger And Soopafly",
+        "Busta Rhymes - Cocaina (Feat. Marsha Of Floetry)",
+        "Snoop Dogg - Doing It Big",
+        "Snoop Dogg - No Bacctraccin",
+        "Snoop Dogg - Booties Automatic (Prod. By J.R. Rotem)",
+        "Snoop Dogg - Check Yo Self (G-Mix) Feat. Hustle Boyz",
+        "Snoop Dogg - Check Yo Self (Snoop Dogg G-Mix)"
+      ],
+      "song_count": 22
+    },
+    "6259951": {
+      "name": "",
+      "artists": [
+        "Shaggy"
+      ],
+      "songs": [
+        "Shaggy - Chica Bonita"
+      ],
+      "song_count": 1
+    },
+    "6345476": {
+      "name": "",
+      "artists": [
+        "Ice Cube",
+        "Ice Cube",
+        "Ice Cube"
+      ],
+      "songs": [
+        "Ice Cube - Cold Places",
+        "Ice Cube - What Is a Pyroclastic Flow?",
+        "Ice Cube - Get Money, Spend Money, No Money"
+      ],
+      "song_count": 3
+    },
+    "6310365": {
+      "name": "nightdriving",
+      "artists": [
+        "John Coltrane",
+        "Radiohead"
+      ],
+      "songs": [
+        "John Coltrane - Giant Steps",
+        "Radiohead - Idioteque"
+      ],
+      "song_count": 2
+    },
+    "3215555": {
+      "name": "",
+      "artists": [
+        "Radiohead",
+        "Radiohead",
+        "Radiohead",
+        "Radiohead",
+        "Radiohead"
+      ],
+      "songs": [
+        "Radiohead - Where I End And You Begin",
+        "Radiohead - Motion Picture Soundtrack",
+        "Radiohead - Myxamatosis",
+        "Radiohead - Street Spirit (Fade Out)",
+        "Radiohead - 03 - How Do You-"
+      ],
+      "song_count": 5
+    },
+    "693692": {
+      "name": "kamakere\u2019s playlist",
+      "artists": [
+        "Aphex Twin",
+        "Aphex Twin",
+        "Billie Holiday",
+        "Count Basie",
+        "Count Basie",
+        "Nat King Cole",
+        "Fatboy Slim",
+        "Aphex Twin",
+        "Aphex Twin",
+        "Fatboy Slim",
+        "Aphex Twin",
+        "Moby",
+        "Aphex Twin",
+        "Aphex Twin",
+        "Aphex Twin",
+        "Cypress Hill",
+        "Cypress Hill",
+        "Eminem",
+        "Busta Rhymes",
+        "Billie Holiday"
+      ],
+      "songs": [
+        "Aphex Twin - Avril 14th",
+        "Aphex Twin - Ptolemy",
+        "Billie Holiday - The Man I Love",
+        "Count Basie - Rhythm Man",
+        "Count Basie - Lester Leaps In",
+        "Nat King Cole - Lona Lisa",
+        "Fatboy Slim - Brimful of asha (Cornershop re",
+        "Aphex Twin - Goon Gumpas (LP Version)",
+        "Aphex Twin - Windowlicker",
+        "Fatboy Slim - Demons",
+        "Aphex Twin - D-Scape",
+        "Moby - Now I Let It Go  [LP Version]",
+        "Aphex Twin - Tassels",
+        "Aphex Twin - Peek 824545201",
+        "Aphex Twin - Ageispolis",
+        "Cypress Hill - Insane In The Brain",
+        "Cypress Hill - Hits From The Bong",
+        "Eminem - My Fault",
+        "Busta Rhymes - Gimme Some More",
+        "Billie Holiday - Blue Moon"
+      ],
+      "song_count": 20
+    },
+    "241440": {
+      "name": "",
+      "artists": [
+        "Massive Attack",
+        "Massive Attack",
+        "Massive Attack",
+        "Massive Attack",
+        "Massive Attack",
+        "Massive Attack",
+        "Beck",
+        "Beck"
+      ],
+      "songs": [
+        "Massive Attack - Risingson",
+        "Massive Attack - Unfinished Sympathy",
+        "Massive Attack - Safe From Harm",
+        "Massive Attack - Karmacoma",
+        "Massive Attack - Teardrop",
+        "Massive Attack - Angel",
+        "Beck - Girl",
+        "Beck - Loser"
+      ],
+      "song_count": 8
+    },
+    "2682980": {
+      "name": "The23rdhour\u2019s playlist",
+      "artists": [
+        "Massive Attack",
+        "Moby",
+        "Radiohead",
+        "Fatboy Slim",
+        "Depeche Mode",
+        "Daft Punk",
+        "Beck",
+        "Aphex Twin"
+      ],
+      "songs": [
+        "Massive Attack - Inertia Creeps",
+        "Moby - Find My Baby",
+        "Radiohead - All I Need",
+        "Fatboy Slim - Praise You",
+        "Depeche Mode - See You",
+        "Daft Punk - Digital Love",
+        "Beck - Hotwax",
+        "Aphex Twin - Polynomial-C"
+      ],
+      "song_count": 8
+    },
+    "6666507": {
+      "name": "",
+      "artists": [
+        "Carl Cox",
+        "Depeche Mode",
+        "Carl Cox",
+        "Carl Cox",
+        "Carl Cox"
+      ],
+      "songs": [
+        "Carl Cox - Phoebus Apollo",
+        "Depeche Mode - Enjoy The Silence",
+        "Carl Cox - If I Fall (Would You Let Me-)",
+        "Carl Cox - Tribal Jedi (Original Mix)",
+        "Carl Cox - Tribal Jedi (Ian Pooley Mix)"
+      ],
+      "song_count": 5
+    },
+    "2479446": {
+      "name": "",
+      "artists": [
+        "Sepultura",
+        "Sepultura"
+      ],
+      "songs": [
+        "Sepultura - Cut-Throat",
+        "Sepultura - Attitude"
+      ],
+      "song_count": 2
+    },
+    "5912652": {
+      "name": "moby",
+      "artists": [
+        "Moby",
+        "Moby",
+        "Moby"
+      ],
+      "songs": [
+        "Moby - Sunday (The Day Before My Birthday)",
+        "Moby - Natural Blues",
+        "Moby - At Least We Tried"
+      ],
+      "song_count": 3
+    },
+    "5195546": {
+      "name": "",
+      "artists": [
+        "Bob Marley"
+      ],
+      "songs": [
+        "Bob Marley - Put It On"
+      ],
+      "song_count": 1
+    },
+    "6671900": {
+      "name": "Gemischt",
+      "artists": [
+        "Armand van Helden",
+        "Armand van Helden",
+        "Armand van Helden",
+        "Armand van Helden",
+        "Armand van Helden",
+        "Armand van Helden",
+        "Armand van Helden",
+        "Armand van Helden",
+        "Armand van Helden",
+        "Armand van Helden"
+      ],
+      "songs": [
+        "Armand van Helden - MyMyMy",
+        "Armand van Helden - My My My",
+        "Armand van Helden - Hear My Name (feat. Spalding Rockwell)",
+        "Armand van Helden - Hear My Name",
+        "Armand van Helden - My My My (radio edit)",
+        "Armand van Helden - Hear My Name (original club mix)",
+        "Armand van Helden - My My My 2006 (Stonebridge Remix)",
+        "Armand van Helden - My My My (Stonebridge Remix)",
+        "Armand van Helden - Hear My Name (radio edit)",
+        "Armand van Helden - My My My (Funktuary Radio Mix)"
+      ],
+      "song_count": 10
+    },
+    "6131132": {
+      "name": "Aussie Rock",
+      "artists": [
+        "AC/DC",
+        "AC/DC",
+        "AC/DC"
+      ],
+      "songs": [
+        "AC/DC - Highway to Hell",
+        "AC/DC - Back in Black",
+        "AC/DC - Thunderstruck"
+      ],
+      "song_count": 3
+    },
+    "3655198": {
+      "name": "",
+      "artists": [
+        "Armand van Helden",
+        "Armand van Helden",
+        "Carl Cox"
+      ],
+      "songs": [
+        "Armand van Helden - I Want Your Soul",
+        "Armand van Helden - My My My",
+        "Carl Cox - The Latin Theme"
+      ],
+      "song_count": 3
+    },
+    "3729444": {
+      "name": "",
+      "artists": [
+        "The Clash",
+        "The Who",
+        "The Rolling Stones",
+        "Sex Pistols",
+        "AC/DC",
+        "The Rolling Stones",
+        "Green Day",
+        "Paul Oakenfold",
+        "Daft Punk",
+        "Donovan",
+        "Foo Fighters",
+        "Foo Fighters"
+      ],
+      "songs": [
+        "The Clash - London Calling",
+        "The Who - Baba O'Riley",
+        "The Rolling Stones - You Can't Always Get What You Want",
+        "Sex Pistols - God Save The Queen",
+        "AC/DC - T.N.T.",
+        "The Rolling Stones - Satisfaction",
+        "Green Day - Boulevard Of Broken Dreams",
+        "Paul Oakenfold - Zoo York",
+        "Daft Punk - Around the World",
+        "Donovan - Season Of The Witch",
+        "Foo Fighters - Low",
+        "Foo Fighters - Best Of You"
+      ],
+      "song_count": 12
+    },
+    "2144217": {
+      "name": "",
+      "artists": [
+        "The Clash",
+        "Radiohead",
+        "Mouse on Mars",
+        "Aphex Twin",
+        "Aphex Twin",
+        "Herbie Hancock",
+        "Massive Attack",
+        "Donovan",
+        "The Kinks"
+      ],
+      "songs": [
+        "The Clash - The Magnificent Seven",
+        "Radiohead - Treefingers",
+        "Mouse on Mars - Yippie (Bitshifter version)",
+        "Aphex Twin - Goon Gumpas",
+        "Aphex Twin - Analogue Bubblebath 1",
+        "Herbie Hancock - Maiden Voyage",
+        "Massive Attack - Future Proof",
+        "Donovan - Peregrine",
+        "The Kinks - You Really Got Me"
+      ],
+      "song_count": 9
+    },
+    "3565929": {
+      "name": "",
+      "artists": [
+        "Dave Brubeck",
+        "Radiohead",
+        "Radiohead",
+        "Radiohead",
+        "Muddy Waters"
+      ],
+      "songs": [
+        "Dave Brubeck - Take Five",
+        "Radiohead - Fake Plastic Trees",
+        "Radiohead - Creep",
+        "Radiohead - Karma Police",
+        "Muddy Waters - Mannish Boy"
+      ],
+      "song_count": 5
+    },
+    "1155181": {
+      "name": "Isoniahtar\u2019s playlist",
+      "artists": [
+        "Weezer",
+        "Buzzcocks",
+        "Elvis Presley",
+        "Nirvana",
+        "Sonic Youth",
+        "Buzzcocks",
+        "Aretha Franklin",
+        "Green Day",
+        "The Smiths",
+        "Elvis Presley",
+        "Ramones",
+        "Ramones",
+        "Buzzcocks",
+        "Sex Pistols",
+        "Pearl Jam",
+        "Green Day",
+        "Weezer",
+        "The Clash",
+        "The Kinks",
+        "Weezer",
+        "Sex Pistols",
+        "Ramones",
+        "The Clash",
+        "Sex Pistols",
+        "Buzzcocks",
+        "Sonic Youth",
+        "Dead Kennedys",
+        "Chuck Berry",
+        "Sex Pistols",
+        "Nirvana",
+        "Ramones",
+        "Sex Pistols",
+        "Weezer",
+        "The Clash",
+        "Sex Pistols",
+        "Sex Pistols",
+        "Sex Pistols",
+        "Foo Fighters",
+        "Jerry Lee Lewis",
+        "The Clash",
+        "Dixie Chicks",
+        "Nirvana",
+        "Buzzcocks",
+        "Garth Brooks"
+      ],
+      "songs": [
+        "Weezer - Beverly Hills",
+        "Buzzcocks - No Reply",
+        "Elvis Presley - Follow That Dream",
+        "Nirvana - About A Girl",
+        "Sonic Youth - Kool Thing",
+        "Buzzcocks - You Tear Me Up",
+        "Aretha Franklin - Respect",
+        "Green Day - Sassafras Roots",
+        "The Smiths - William, It Was Really Nothing",
+        "Elvis Presley - Trouble",
+        "Ramones - Blitzkrieg Bop",
+        "Ramones - Have You Ever Seen The Rain",
+        "Buzzcocks - Autonomy",
+        "Sex Pistols - New York",
+        "Pearl Jam - Betterman",
+        "Green Day - Wake Me Up When September Ends",
+        "Weezer - The Good Life",
+        "The Clash - Rudy Can't Fail",
+        "The Kinks - Apeman",
+        "Weezer - Dope Nose",
+        "Sex Pistols - God Save The Queen",
+        "Ramones - The KKK Took My Baby Away",
+        "The Clash - Tommy Gun",
+        "Sex Pistols - Schools Are Prisions",
+        "Buzzcocks - Ever Fallen in Love",
+        "Sonic Youth - Unmade Bed",
+        "Dead Kennedys - Holiday in Cambodia",
+        "Chuck Berry - Johnny B. Goode",
+        "Sex Pistols - Johnny B Goode",
+        "Nirvana - Come As You Are (Unplugged)",
+        "Ramones - Don't Want To Grow Up",
+        "Sex Pistols - Holidays In The Sun",
+        "Weezer - Falling For You",
+        "The Clash - Train in Vain (Stand by Me)",
+        "Sex Pistols - Anarchy in the U.K. (Live)",
+        "Sex Pistols - EMI [Unlimited Edtion]",
+        "Sex Pistols - Liar",
+        "Foo Fighters - Blackbird",
+        "Jerry Lee Lewis - Johnny B Goode",
+        "The Clash - Jimmy Jazz",
+        "Dixie Chicks - Cowboy Take Me Away",
+        "Nirvana - Lithium",
+        "Buzzcocks - Ever Fallen in Love?",
+        "Garth Brooks - Silent Night"
+      ],
+      "song_count": 44
+    },
+    "3229240": {
+      "name": "Playlist No2",
+      "artists": [
+        "Johann Sebastian Bach",
+        "Johann Sebastian Bach",
+        "Dixie Chicks",
+        "Ramones",
+        "Taj Mahal",
+        "Jimmy Cliff"
+      ],
+      "songs": [
+        "Johann Sebastian Bach - Air on a G String",
+        "Johann Sebastian Bach - Cello Suite No. 1 in G major, BWV 1007",
+        "Dixie Chicks - Landslide",
+        "Ramones - Merry Christmas (I Don't Want to Fight Tonight)",
+        "Taj Mahal - The New Hula Blues",
+        "Jimmy Cliff - Sitting In Limbo"
+      ],
+      "song_count": 6
+    },
+    "4217312": {
+      "name": "",
+      "artists": [
+        "Bob Marley",
+        "Bob Marley",
+        "Bob Marley",
+        "Ziggy Marley"
+      ],
+      "songs": [
+        "Bob Marley - Stir It Up",
+        "Bob Marley - I Wanna Love You",
+        "Bob Marley - No Womam No Cry",
+        "Ziggy Marley - Conscious party"
+      ],
+      "song_count": 4
+    },
+    "2085975": {
+      "name": "Lista odtwarzania n0700callme",
+      "artists": [
+        "Leonard Cohen",
+        "Nirvana",
+        "Elvis Presley",
+        "Ramones",
+        "Buzzcocks",
+        "Buzzcocks",
+        "Prodigy",
+        "Prodigy",
+        "Prodigy"
+      ],
+      "songs": [
+        "Leonard Cohen - Waiting For The Miracle",
+        "Nirvana - Rape Me",
+        "Elvis Presley - Jailhouse Rock",
+        "Ramones - Gabba Gabba Hey",
+        "Buzzcocks - Ever Fallen in Love?",
+        "Buzzcocks - Orgasm Addict",
+        "Prodigy - Poison",
+        "Prodigy - Smack My Bitch Up",
+        "Prodigy - Voodoo People"
+      ],
+      "song_count": 9
+    },
+    "2595919": {
+      "name": "samcampbell\u2019s playlist",
+      "artists": [
+        "Desmond Dekker",
+        "UB40",
+        "UB40",
+        "UB40",
+        "Jimmy Cliff",
+        "UB40",
+        "UB40",
+        "UB40",
+        "UB40",
+        "UB40",
+        "UB40",
+        "UB40",
+        "UB40",
+        "UB40",
+        "UB40",
+        "Alpha Blondy",
+        "Jimmy Cliff",
+        "Billie Holiday"
+      ],
+      "songs": [
+        "Desmond Dekker - Rudy Got Soul",
+        "UB40 - After Tonight",
+        "UB40 - I'll Be on My Way",
+        "UB40 - Bling Bling",
+        "Jimmy Cliff - Many Rivers To Cross",
+        "UB40 - Who You Fighting For",
+        "UB40 - Kiss And Say Goodbye",
+        "UB40 - Good Situation",
+        "UB40 - Gotta Tell Someone",
+        "UB40 - Plenty More",
+        "UB40 - Reasons",
+        "UB40 - Things You Say You Love",
+        "UB40 - War Poem",
+        "UB40 - Sins of the Fathers",
+        "UB40 - One Woman Man",
+        "Alpha Blondy - Rendez-Vous",
+        "Jimmy Cliff - Miss Jamaica",
+        "Billie Holiday - A Fine Romance"
+      ],
+      "song_count": 18
+    },
+    "6215807": {
+      "name": "",
+      "artists": [
+        "Michael Jackson",
+        "Sean Paul",
+        "Shaggy",
+        "Snoop Dogg",
+        "Shaggy",
+        "Michael Jackson",
+        "Michael Jackson",
+        "Michael Jackson",
+        "Michael Jackson",
+        "Michael Jackson",
+        "Michael Jackson",
+        "Michael Jackson",
+        "Michael Jackson",
+        "50 Cent",
+        "Michael Jackson",
+        "Michael Jackson",
+        "Michael Jackson",
+        "Michael Jackson",
+        "Michael Jackson",
+        "Michael Jackson",
+        "Michael Jackson",
+        "Michael Jackson",
+        "Michael Jackson",
+        "Michael Jackson",
+        "Michael Jackson",
+        "Michael Jackson",
+        "Michael Jackson",
+        "Michael Jackson"
+      ],
+      "songs": [
+        "Michael Jackson - Bad",
+        "Sean Paul - Get Busy",
+        "Shaggy - Angel",
+        "Snoop Dogg - Keep Bouncin (feat. Too Short)",
+        "Shaggy - It Wasn't Me",
+        "Michael Jackson - Who Is It",
+        "Michael Jackson - Black or White",
+        "Michael Jackson - Give In to Me",
+        "Michael Jackson - Smooth Criminal",
+        "Michael Jackson - Leave Me Alone",
+        "Michael Jackson - Man In The Mirror",
+        "Michael Jackson - This Is It",
+        "Michael Jackson - Another Part of Me",
+        "50 Cent - Ghetto Qu'ran (Forgive Me Pt 1)",
+        "Michael Jackson - Human Nature",
+        "Michael Jackson - Baby Be Mine",
+        "Michael Jackson - Why You Wanna Trip on Me",
+        "Michael Jackson - Thriller",
+        "Michael Jackson - You Rock My World (radio edit)",
+        "Michael Jackson - Dangerous",
+        "Michael Jackson - HIStory",
+        "Michael Jackson - Tabloid Junkie",
+        "Michael Jackson - Wanna Be Startin' Somethin'",
+        "Michael Jackson - In the Closet",
+        "Michael Jackson - Ghosts",
+        "Michael Jackson - You Rock My World",
+        "Michael Jackson - Invincible",
+        "Michael Jackson - Don't Stop 'Till You Get Enough"
+      ],
+      "song_count": 28
+    },
+    "5193576": {
+      "name": "",
+      "artists": [
+        "Radiohead",
+        "Weezer"
+      ],
+      "songs": [
+        "Radiohead - Creep",
+        "Weezer - Buddy Holly"
+      ],
+      "song_count": 2
+    },
+    "4515983": {
+      "name": "",
+      "artists": [
+        "Miles Davis"
+      ],
+      "songs": [
+        "Miles Davis - Spanish Key"
+      ],
+      "song_count": 1
+    },
+    "3961377": {
+      "name": "Bob Marley",
+      "artists": [
+        "Bob Marley",
+        "Bob Marley",
+        "Bob Marley",
+        "Bob Marley",
+        "Bob Marley",
+        "Bob Marley",
+        "Bob Marley",
+        "Bob Marley",
+        "Bob Marley",
+        "Bob Marley",
+        "Bob Marley",
+        "Bob Marley",
+        "Bob Marley",
+        "Bob Marley",
+        "Bob Marley",
+        "Bob Marley",
+        "Bob Marley",
+        "Bob Marley",
+        "Bob Marley",
+        "Bob Marley",
+        "Bob Marley",
+        "Bob Marley",
+        "Bob Marley",
+        "Bob Marley",
+        "Bob Marley",
+        "Bob Marley",
+        "Bob Marley",
+        "Bob Marley",
+        "Bob Marley",
+        "Bob Marley",
+        "Bob Marley",
+        "Bob Marley",
+        "Bob Marley",
+        "Bob Marley",
+        "Bob Marley",
+        "Bob Marley",
+        "Bob Marley",
+        "Bob Marley",
+        "Bob Marley",
+        "Bob Marley",
+        "Bob Marley",
+        "Bob Marley",
+        "Bob Marley",
+        "Bob Marley",
+        "Bob Marley",
+        "Bob Marley",
+        "Bob Marley",
+        "Bob Marley",
+        "Bob Marley",
+        "Bob Marley",
+        "Bob Marley",
+        "Bob Marley",
+        "Bob Marley",
+        "Bob Marley",
+        "Bob Marley",
+        "Bob Marley",
+        "Bob Marley",
+        "Bob Marley",
+        "Bob Marley",
+        "Bob Marley",
+        "Bob Marley"
+      ],
+      "songs": [
+        "Bob Marley - Is This Love",
+        "Bob Marley - One Love",
+        "Bob Marley - No Woman No Cry",
+        "Bob Marley - Three Little Birds",
+        "Bob Marley - Buffalo Soldier",
+        "Bob Marley - Sun Is Shining",
+        "Bob Marley - I Shot the Sheriff",
+        "Bob Marley - Exodus",
+        "Bob Marley - Stir It Up",
+        "Bob Marley - Waiting In Vain",
+        "Bob Marley - Get Up Stand Up",
+        "Bob Marley - Lively Up Yourself",
+        "Bob Marley - Satisfy My Soul",
+        "Bob Marley - Natural Mystic",
+        "Bob Marley - Kaya",
+        "Bob Marley - Jammin'",
+        "Bob Marley - Turn Your Lights Down Low",
+        "Bob Marley - Concrete Jungle",
+        "Bob Marley - Keep On Moving",
+        "Bob Marley - Soul Rebel",
+        "Bob Marley - Small Axe",
+        "Bob Marley - Put It On",
+        "Bob Marley - Duppy Conqueror",
+        "Bob Marley - Kinky Reggae",
+        "Bob Marley - Mellow Mood",
+        "Bob Marley - Trench Town Rock",
+        "Bob Marley - All In One",
+        "Bob Marley - Mr. Brown",
+        "Bob Marley - One Love/People Get Ready",
+        "Bob Marley - Roots, Rock, Reggae",
+        "Bob Marley - Caution",
+        "Bob Marley - Hammer",
+        "Bob Marley - Fussing and Fighting",
+        "Bob Marley - African Herbsman",
+        "Bob Marley - Stand Alone",
+        "Bob Marley - Don't Rock The Boat",
+        "Bob Marley - Riding high",
+        "Bob Marley - Brain Washing",
+        "Bob Marley - Four Hundred Years",
+        "Bob Marley - Soul Rebbels",
+        "Bob Marley - Soul Almighty",
+        "Bob Marley - Redder Than Red",
+        "Bob Marley - My Cup (I've Got To Cry)",
+        "Bob Marley - Thank you lord",
+        "Bob Marley - Nice Time",
+        "Bob Marley - Try Me I've Got The Action)",
+        "Bob Marley - Love Life",
+        "Bob Marley - Rainbow Country",
+        "Bob Marley - Long Long Winter",
+        "Bob Marley - No Water Can Quench My Thirst",
+        "Bob Marley - It's All Right",
+        "Bob Marley - Reaction",
+        "Bob Marley - Corner Stone",
+        "Bob Marley - High tide or low tide",
+        "Bob Marley - Midnight Ravers",
+        "Bob Marley - Slave Driver",
+        "Bob Marley - No More Trouble",
+        "Bob Marley - Burnin' And Lootin'",
+        "Bob Marley - Judge Not",
+        "Bob Marley - One Cup Of Coffee",
+        "Bob Marley - I'm Hurting Inside (Alternate Mix)"
+      ],
+      "song_count": 61
+    },
+    "5165726": {
+      "name": "Muckibude",
+      "artists": [
+        "Busta Rhymes",
+        "Busta Rhymes",
+        "Busta Rhymes",
+        "Busta Rhymes",
+        "Cypress Hill",
+        "DMX",
+        "DMX",
+        "DMX",
+        "DMX",
+        "DMX",
+        "DMX",
+        "DMX",
+        "DMX",
+        "DMX",
+        "DMX",
+        "DMX",
+        "DMX",
+        "DMX",
+        "DMX",
+        "DMX",
+        "DMX",
+        "DMX",
+        "DMX",
+        "DMX",
+        "DMX",
+        "DMX",
+        "DMX",
+        "DMX",
+        "DMX",
+        "DMX",
+        "DMX",
+        "DMX",
+        "DMX",
+        "DMX",
+        "DMX",
+        "DMX",
+        "Dr. Dre",
+        "Jay-Z",
+        "50 Cent"
+      ],
+      "songs": [
+        "Busta Rhymes - Everbody Rise Again",
+        "Busta Rhymes - Pass the Courvoisier",
+        "Busta Rhymes - Break Ya Neck",
+        "Busta Rhymes - Bounce (Let Me See Ya Throw It)",
+        "Cypress Hill - (Rap) Superstar",
+        "DMX - The Professional",
+        "DMX - Fame",
+        "DMX - Whats My Name",
+        "DMX - Don't You Ever",
+        "DMX - Comin' For Ya",
+        "DMX - Bring Your Whole Crew",
+        "DMX - No Love 4 Me",
+        "DMX - Flesh Of My Flesh, Blood Of My Blood",
+        "DMX - My Life",
+        "DMX - Where The Hood At",
+        "DMX - Dogs Out",
+        "DMX - Bring The Noize",
+        "DMX - We're Back (feat. Eve & Jadakiss)",
+        "DMX - Rob All Night (If I'm Gonna Rob)",
+        "DMX - We Go Hard (feat. Cam'Ron)",
+        "DMX - Get Wild (feat. Jadakiss, Kartoon & Flashy)",
+        "DMX - Bust Money in the Head",
+        "DMX - Getting Down (Feat Big Stan And Kashmir)",
+        "DMX - Give 'Em What They Want",
+        "DMX - Ruff Ryders Anthem",
+        "DMX - Fuckin' Wit' D",
+        "DMX - Look Thru My Eyes",
+        "DMX - X Is Coming",
+        "DMX - Stop Beeing Greedy",
+        "DMX - ATF",
+        "DMX - School Street  Version (Explicit))",
+        "DMX - I'm A Bang",
+        "DMX - I Run Shit",
+        "DMX - Give Em What They Want",
+        "DMX - walk these dogs (feat. eve)",
+        "DMX - Lord Give Me a Sign",
+        "Dr. Dre - Still D.R.E.",
+        "Jay-Z - 99 Problems",
+        "50 Cent - Gatman and Robin"
+      ],
+      "song_count": 39
+    },
+    "2276309": {
+      "name": "",
+      "artists": [
+        "2Pac",
+        "Snoop Dogg",
+        "Capleton",
+        "Bounty Killer",
+        "50 Cent",
+        "2Pac",
+        "2Pac",
+        "Eminem",
+        "DMX",
+        "50 Cent",
+        "Busta Rhymes",
+        "DMX",
+        "Eminem",
+        "2Pac",
+        "Michael Jackson"
+      ],
+      "songs": [
+        "2Pac - Check Out Time",
+        "Snoop Dogg - Don't Stop (featuring JT The Bigga Figga)",
+        "Capleton - In Her Heart",
+        "Bounty Killer - Killa Is A Killa",
+        "50 Cent - Patiently Waiting (feat. Eminem)",
+        "2Pac - Fuck Friends",
+        "2Pac - No More Pain",
+        "Eminem - Lose Yourself",
+        "DMX - Get It on the Floor (feat. Swizz Beatz)",
+        "50 Cent - gee's up",
+        "Busta Rhymes - There's Not A Problem My Squad",
+        "DMX - Lord Give Me a Sign",
+        "Eminem - When I'm Gone (Instrumental)",
+        "2Pac - Heartz Of Men",
+        "Michael Jackson - Smooth Criminal"
+      ],
+      "song_count": 15
+    },
+    "470807": {
+      "name": "oni_onigiri\u2019s playlist",
+      "artists": [
+        "The Kinks"
+      ],
+      "songs": [
+        "The Kinks - You Really Got Me"
+      ],
+      "song_count": 1
+    },
+    "3009349": {
+      "name": "Miky",
+      "artists": [
+        "Black Uhuru",
+        "Elvis Presley",
+        "Justin Timberlake",
+        "Justin Timberlake",
+        "Nelly Furtado"
+      ],
+      "songs": [
+        "Black Uhuru - Statement",
+        "Elvis Presley - Suspicous Minds",
+        "Justin Timberlake - Future Sex_LoveSound",
+        "Justin Timberlake - What Goes Around...Comes Around [Interlude]",
+        "Nelly Furtado - Say It Right (Produced By Timbaland & Danja)"
+      ],
+      "song_count": 5
+    },
+    "6587572": {
+      "name": "31 Canciones -Nick Hornby",
+      "artists": [
+        "Nelly Furtado",
+        "Bob Dylan",
+        "Patti Smith"
+      ],
+      "songs": [
+        "Nelly Furtado - I'm Like A Bird",
+        "Bob Dylan - Can You Please Crawl Out Your Window?",
+        "Patti Smith - The Patti Smith Group : Pissing In A River"
+      ],
+      "song_count": 3
+    },
+    "525520": {
+      "name": "Lista de temas de moniquecc",
+      "artists": [
+        "The Yardbirds"
+      ],
+      "songs": [
+        "The Yardbirds - For Your Love - Original"
+      ],
+      "song_count": 1
+    },
+    "2678876": {
+      "name": "",
+      "artists": [
+        "The Clash"
+      ],
+      "songs": [
+        "The Clash - Revolution Rock"
+      ],
+      "song_count": 1
+    },
+    "1741116": {
+      "name": "bogboy\u2019s playlist",
+      "artists": [
+        "Iron Maiden",
+        "Iron Maiden",
+        "Iron Maiden",
+        "Megadeth",
+        "Slayer"
+      ],
+      "songs": [
+        "Iron Maiden - The Reincarnation Of Benjamin Breeg",
+        "Iron Maiden - 22 Acacia Avenue",
+        "Iron Maiden - Hallowed Be Thy Name",
+        "Megadeth - Symphony Of Destruction",
+        "Slayer - Dissident Aggressor"
+      ],
+      "song_count": 5
+    },
+    "949736": {
+      "name": "joei190\u2019s playlist",
+      "artists": [
+        "Nelly Furtado",
+        "Radiohead",
+        "Nelly Furtado",
+        "Foo Fighters",
+        "Radiohead",
+        "Radiohead"
+      ],
+      "songs": [
+        "Nelly Furtado - Forca",
+        "Radiohead - Creep",
+        "Nelly Furtado - All Good Things (Ft. Chris Martin)",
+        "Foo Fighters - Walking After You",
+        "Radiohead - Thinking About You",
+        "Radiohead - Fake Plastic Trees"
+      ],
+      "song_count": 6
+    },
+    "4232680": {
+      "name": "",
+      "artists": [
+        "Tim Buckley",
+        "John Coltrane"
+      ],
+      "songs": [
+        "Tim Buckley - Sweet Surrender",
+        "John Coltrane - Body And Soul"
+      ],
+      "song_count": 2
+    },
+    "4506122": {
+      "name": "boska lista",
+      "artists": [
+        "The Smiths",
+        "Moloko",
+        "Tim Buckley"
+      ],
+      "songs": [
+        "The Smiths - Ask",
+        "Moloko - Fun For Me",
+        "Tim Buckley - Sweet Surrender"
+      ],
+      "song_count": 3
+    },
+    "3607573": {
+      "name": "enateh list ",
+      "artists": [
+        "Foo Fighters",
+        "Foo Fighters",
+        "Foo Fighters",
+        "Foo Fighters",
+        "AC/DC",
+        "AC/DC",
+        "Deep Purple"
+      ],
+      "songs": [
+        "Foo Fighters - Best Of You",
+        "Foo Fighters - My Hero",
+        "Foo Fighters - The Pretender",
+        "Foo Fighters - Learn To Fly",
+        "AC/DC - T.N.T.",
+        "AC/DC - Dirty Deeds Done Dirt Cheap",
+        "Deep Purple - Lazy"
+      ],
+      "song_count": 7
+    },
+    "6601487": {
+      "name": "KitKat's Favouriate Tracks",
+      "artists": [
+        "Elvis Presley",
+        "Daft Punk",
+        "The Smiths",
+        "Depeche Mode"
+      ],
+      "songs": [
+        "Elvis Presley - Can't Help Falling In Love",
+        "Daft Punk - Human After All",
+        "The Smiths - There Is a Light That Never Goes Out",
+        "Depeche Mode - Sweetest Perfection"
+      ],
+      "song_count": 4
+    },
+    "6579062": {
+      "name": "KitKat's Loveable Playlist",
+      "artists": [
+        "Daft Punk",
+        "Daft Punk",
+        "Daft Punk",
+        "Green Day",
+        "Green Day"
+      ],
+      "songs": [
+        "Daft Punk - Human After All",
+        "Daft Punk - One More Time",
+        "Daft Punk - Harder, Better, Faster, Stronger",
+        "Green Day - Burnout",
+        "Green Day - Reject"
+      ],
+      "song_count": 5
+    },
+    "5241688": {
+      "name": "so good",
+      "artists": [
+        "Bo Diddley"
+      ],
+      "songs": [
+        "Bo Diddley - Pretty Thing"
+      ],
+      "song_count": 1
+    },
+    "5255123": {
+      "name": "",
+      "artists": [
+        "Pearl Jam"
+      ],
+      "songs": [
+        "Pearl Jam - Rearviewmirror"
+      ],
+      "song_count": 1
+    },
+    "3723416": {
+      "name": "",
+      "artists": [
+        "Little Richard",
+        "Jerry Lee Lewis",
+        "Buddy Holly"
+      ],
+      "songs": [
+        "Little Richard - Long Tall Sally",
+        "Jerry Lee Lewis - Great Balls of Fire",
+        "Buddy Holly - Baby I Don't Care"
+      ],
+      "song_count": 3
+    },
+    "2843204": {
+      "name": "Frreezze\u2019s playlist",
+      "artists": [
+        "The Rolling Stones",
+        "Deep Purple",
+        "The Rolling Stones"
+      ],
+      "songs": [
+        "The Rolling Stones - Paint It Black",
+        "Deep Purple - Black Night",
+        "The Rolling Stones - Carol"
+      ],
+      "song_count": 3
+    },
+    "3791069": {
+      "name": "Netlog Playlist",
+      "artists": [
+        "Herbie Hancock",
+        "Johnny Cash",
+        "Radiohead",
+        "Jerry Lee Lewis",
+        "Johnny Cash"
+      ],
+      "songs": [
+        "Herbie Hancock - Maiden Voyage",
+        "Johnny Cash - Thirteen",
+        "Radiohead - Street Spirit (Fade Out)",
+        "Jerry Lee Lewis - It'll Be Me",
+        "Johnny Cash - Cocaine Blues"
+      ],
+      "song_count": 5
+    },
+    "2885928": {
+      "name": "",
+      "artists": [
+        "Bob Dylan",
+        "Leonard Cohen",
+        "Donovan",
+        "Radiohead",
+        "Hole"
+      ],
+      "songs": [
+        "Bob Dylan - The Levee's Gonna Break",
+        "Leonard Cohen - Hallelujah",
+        "Donovan - Someone Singing",
+        "Radiohead - Nude",
+        "Hole - Jennifer's Body"
+      ],
+      "song_count": 5
+    },
+    "2465670": {
+      "name": "",
+      "artists": [
+        "The Clash",
+        "The Kinks"
+      ],
+      "songs": [
+        "The Clash - Brand New Cadillac",
+        "The Kinks - Lola"
+      ],
+      "song_count": 2
+    },
+    "2210224": {
+      "name": "\u041f\u043b\u0435\u0439\u043b\u0438\u0441\u0442 timmy8823 ",
+      "artists": [
+        "Chubby Checker"
+      ],
+      "songs": [
+        "Chubby Checker - Dancin' Party"
+      ],
+      "song_count": 1
+    },
+    "5115411": {
+      "name": "",
+      "artists": [
+        "The Rolling Stones",
+        "The Rolling Stones",
+        "The Who",
+        "Def Leppard",
+        "The Yardbirds",
+        "Nirvana",
+        "Nirvana",
+        "Nirvana",
+        "AC/DC",
+        "Nirvana",
+        "Nirvana",
+        "Michael Jackson",
+        "Nirvana",
+        "AC/DC"
+      ],
+      "songs": [
+        "The Rolling Stones - Street Fighting Man",
+        "The Rolling Stones - Wild Horses",
+        "The Who - Baba O'Riley",
+        "Def Leppard - Armageddon It",
+        "The Yardbirds - Honey In Your Hips",
+        "Nirvana - Come As You Are",
+        "Nirvana - Dumb",
+        "Nirvana - Jesus Doesn't Want Me For A Sunbeam",
+        "AC/DC - T.N.T.",
+        "Nirvana - The Man Who Sold The World",
+        "Nirvana - Smells Like Teen Spirit",
+        "Michael Jackson - Billie Jean",
+        "Nirvana - Very Ape",
+        "AC/DC - You Shook Me All Night Long"
+      ],
+      "song_count": 14
+    },
+    "658501": {
+      "name": "",
+      "artists": [
+        "Bad Religion"
+      ],
+      "songs": [
+        "Bad Religion - You"
+      ],
+      "song_count": 1
+    },
+    "102502": {
+      "name": "wharfgull\u2019s playlist",
+      "artists": [
+        "Gene Vincent",
+        "Gene Vincent",
+        "Gene Vincent",
+        "Hole",
+        "Sonic Youth",
+        "Sonic Youth",
+        "Sonic Youth",
+        "Cat Stevens",
+        "Gene Vincent",
+        "Gene Vincent",
+        "Gene Vincent",
+        "Gene Vincent",
+        "Depeche Mode",
+        "Gene Vincent"
+      ],
+      "songs": [
+        "Gene Vincent - Race With The Devil",
+        "Gene Vincent - Distant Drums",
+        "Gene Vincent - Spaceship To Mars",
+        "Hole - Celebrity Skin",
+        "Sonic Youth - Sleepin' Around",
+        "Sonic Youth - Turquoise Boy",
+        "Sonic Youth - Superstar",
+        "Cat Stevens - Father And Son",
+        "Gene Vincent - The Night Is So Lonley",
+        "Gene Vincent - Keep It A Secret",
+        "Gene Vincent - Red Sails In The Sunset",
+        "Gene Vincent - By The Light Of The Silvery Moon",
+        "Depeche Mode - Enjoy The Silence",
+        "Gene Vincent - Last Word in Lonesome"
+      ],
+      "song_count": 14
+    },
+    "425435": {
+      "name": "darko2001\u2019s playlist",
+      "artists": [
+        "Madonna",
+        "Madonna",
+        "Tracy Chapman",
+        "Madonna",
+        "Madonna",
+        "Madonna",
+        "Madonna",
+        "Madonna",
+        "Madonna",
+        "Madonna",
+        "Madonna",
+        "Madonna",
+        "Madonna",
+        "Moloko",
+        "Moloko",
+        "Moloko",
+        "Moloko",
+        "Moloko",
+        "Madonna",
+        "Madonna",
+        "Madonna",
+        "Madonna",
+        "Madonna",
+        "Madonna",
+        "Madonna",
+        "Madonna",
+        "Madonna",
+        "Madonna",
+        "Madonna",
+        "Madonna",
+        "Madonna",
+        "Madonna",
+        "Madonna",
+        "Madonna",
+        "Madonna",
+        "Madonna",
+        "Madonna",
+        "Madonna",
+        "Madonna",
+        "Madonna",
+        "Madonna",
+        "Madonna",
+        "Madonna",
+        "Madonna",
+        "Madonna",
+        "Madonna",
+        "Madonna",
+        "Madonna",
+        "Madonna",
+        "Madonna",
+        "Madonna",
+        "Madonna",
+        "Janet Jackson",
+        "Madonna",
+        "Madonna",
+        "Madonna",
+        "Madonna",
+        "Aretha Franklin",
+        "Madonna",
+        "Janet Jackson",
+        "Janet Jackson",
+        "Madonna",
+        "Joni Mitchell",
+        "Madonna",
+        "Madonna",
+        "Madonna",
+        "Robbie Williams",
+        "Madonna",
+        "Madonna",
+        "Madonna",
+        "Madonna",
+        "Madonna",
+        "Madonna",
+        "Madonna",
+        "Robbie Williams",
+        "Madonna",
+        "Madonna",
+        "Madonna",
+        "Madonna"
+      ],
+      "songs": [
+        "Madonna - Justify My Love",
+        "Madonna - Express Yourself",
+        "Tracy Chapman - Give Me One Reason",
+        "Madonna - Love Don't Live Here Anymore (Edge Factor Dub)",
+        "Madonna - Love Don't Live Here Anymore (Extended Journey)",
+        "Madonna - Love Don't Live Here Anymore (Hot Mixshow Edit)",
+        "Madonna - Impressive Instant (Peter Rauhofers Universal Club Mix)",
+        "Madonna - Bedtime Story (Percapella )",
+        "Madonna - Lament",
+        "Madonna - Nobody Knows Me",
+        "Madonna - Vogue",
+        "Madonna - Bedtime Stories",
+        "Madonna - Telegramma",
+        "Moloko - Pure Pleasure Seeker",
+        "Moloko - Cannot Contain This",
+        "Moloko - Bankrupt Emotionally",
+        "Moloko - Day for Night",
+        "Moloko - Indigo",
+        "Madonna - Hollywood",
+        "Madonna - Runaway Lover",
+        "Madonna - What It Feels Like for a Girl",
+        "Madonna - Don't Tell Me",
+        "Madonna - Music",
+        "Madonna - American Pie",
+        "Madonna - Beautiful Stranger",
+        "Madonna - Impressive Instant (Peter Rauhofers Drowned World Dub Pt 2)",
+        "Madonna - Impressive Instant (Peter Rauhofers Universal Dub)",
+        "Madonna - Erotica/You Thrill Me [Studio Version]",
+        "Madonna - Everybody [Studio Version]",
+        "Madonna - Lucky Star [Studio Version]",
+        "Madonna - Music Inferno [Studio Version]",
+        "Madonna - Impressive Instant (Peter Rauhofers Universal Radio Mixshow Mix)",
+        "Madonna - I Want You (orchestral)",
+        "Madonna - Oh Father",
+        "Madonna - Live to Tell",
+        "Madonna - Love Don't Live Here Anymore",
+        "Madonna - Forbidden Love",
+        "Madonna - Something to Remember",
+        "Madonna - One More Chance",
+        "Madonna - Frozen",
+        "Madonna - Ray Of Light",
+        "Madonna - Rain",
+        "Madonna - The Beat Goes On (JD Tribalicious Mix)",
+        "Madonna - Paradise (Not for Me)",
+        "Madonna - Intro-Ray Of Light Extended Ed",
+        "Madonna - What It Feels Like For A Girl (Spanish Version)Drowned World Tour",
+        "Madonna - Secret (Catwoman Manu Mix 2007)",
+        "Madonna - Why's It So Hard (Donny's Orgy Mix)",
+        "Madonna - Erotic",
+        "Madonna - Sky Fits Heaven [Saint Ken's Anime Mix]",
+        "Madonna - Skin (Bombay Nights Vision Mix)",
+        "Madonna - - Drowned World_Substitute For Love (Sp!n Vocal Dub)",
+        "Janet Jackson - The Pleasure Principle",
+        "Madonna - Buenos Aires (Idaho's Congas Club Mix Edit)",
+        "Madonna - Erotica (Sex Parlo Mix)",
+        "Madonna - Ray Of Light (Ambient Edit)",
+        "Madonna - Erotica (Moby put your music in Lady Delf's remix)",
+        "Aretha Franklin - Chain Of Fools",
+        "Madonna - Vogue (Junior Cortez King & Queen Remix)",
+        "Janet Jackson - The Knowledge",
+        "Janet Jackson - Love Will Never Do (Without You)",
+        "Madonna - Holiday-Re-Invention Tour (Atlanta 07/25/2004)",
+        "Joni Mitchell - The Hissing of Summer Lawns",
+        "Madonna - Bedtime Story (SP!N's Yearning Mix).",
+        "Madonna - Sidewalk Talk (Tonedeaf's Bust A Move On The Blue Avenue Mix)",
+        "Madonna - Justify My Love-The Girlie Show from Fukuoka",
+        "Robbie Williams - Old Before I Die",
+        "Madonna - Ray Of Light (Shusi Khijada Remix)",
+        "Madonna - die another day (dj tiesto mix)",
+        "Madonna - I'm Going Bananas-The Girlie Show from Fukuoka",
+        "Madonna - Love Profusion (Ralphi Rosario Mix)",
+        "Madonna - History",
+        "Madonna - Runaway Lover-Calderone Mixshow",
+        "Madonna - Candy Shop",
+        "Robbie Williams - Kids",
+        "Madonna - Erotica ( Rough Mix-Rain Tape n.2 (01-15-92)",
+        "Madonna - Bye Bye Baby-Girllie Show - Rio De Janerio",
+        "Madonna - The Beast Within-Girllie Show - Rio De Janerio",
+        "Madonna - Future Lovers (7's Extended Club Edit)"
+      ],
+      "song_count": 79
+    },
+    "5116417": {
+      "name": "BatMaus Hit",
+      "artists": [
+        "Madonna",
+        "Madonna",
+        "Madonna",
+        "Madonna",
+        "Madonna"
+      ],
+      "songs": [
+        "Madonna - Isaac - Acoustic Version",
+        "Madonna - Like An Angel (Passing Through My Room) - Orchestral Version",
+        "Madonna - Guilty By Association",
+        "Madonna - Celebration",
+        "Madonna - Celebration - Benassi Dub"
+      ],
+      "song_count": 5
+    },
+    "5738699": {
+      "name": "Brit",
+      "artists": [
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Madonna",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Shakira",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears"
+      ],
+      "songs": [
+        "Britney Spears - Womanizer",
+        "Britney Spears - Circus",
+        "Britney Spears - I'm a Slave 4 U (Circus Tour Studio Version)",
+        "Britney Spears - I Will Be There",
+        "Britney Spears - Autumn Goodbye",
+        "Britney Spears - Don't Hang Up",
+        "Britney Spears - Touch Of My Hand (Bill Hamel Remix)",
+        "Britney Spears - Strip",
+        "Britney Spears - Gimme More",
+        "Britney Spears - Break The Ice (Kaskade Radio Edit)",
+        "Britney Spears - Perfect Lover",
+        "Britney Spears - Why Should I Be Sad",
+        "Britney Spears - Get Back",
+        "Britney Spears - Womanizer (Instrumental)",
+        "Britney Spears - Womanizer (Benny Benassi Extended)",
+        "Britney Spears - Womanizer (138 Bpm)",
+        "Britney Spears - Circus (Instrumental)",
+        "Britney Spears - Circus (DJ Bodywave Remix)",
+        "Britney Spears - Out From Under",
+        "Britney Spears - Kill The Lights",
+        "Britney Spears - Kill The Lights (Instrumental)",
+        "Britney Spears - Kill The Lights (Rock Mix)",
+        "Britney Spears - Shattered Glass",
+        "Britney Spears - Shattered Glass (Kyama and Bandit Remix)",
+        "Britney Spears - If U Seek Amy",
+        "Britney Spears - If u seek Amy (Instrumental)",
+        "Britney Spears - Unusual You",
+        "Britney Spears - Unusual You (dj Tim a Extended Soulmate Mix)",
+        "Britney Spears - Mannequin",
+        "Britney Spears - Quicksand",
+        "Britney Spears - Rock Boy",
+        "Britney Spears - Candy From Strangers",
+        "Britney Spears - My Only Wish (This Year)",
+        "Britney Spears - Welcome to the Circus (Live)",
+        "Britney Spears - Break the Ice (Circus Tour Studio Version)",
+        "Britney Spears - Womanizer (Circus Tour Studio Version)",
+        "Britney Spears - Womanizer (Circus Tour Studio Version 2)",
+        "Britney Spears - Womanizer (Circus Tour Studio Version Live)",
+        "Britney Spears - Nudity (feat. Madonna)",
+        "Britney Spears - Tears (What he's done to me)",
+        "Britney Spears - Tears (2nd Version)",
+        "Britney Spears - Bad Girl (Feat. Lil` Wayne)",
+        "Britney Spears - Like A Virgin Hollywood Medley (Feat. Christina Aguilera, Madonna, Missy Elliot)",
+        "Britney Spears - 3",
+        "Britney Spears - Me Against the Music (feat. Maddona)",
+        "Madonna - Sorry",
+        "Britney Spears - Baby One More Time",
+        "Britney Spears - Womanizer (Kaskade Mix)",
+        "Britney Spears - Overprotected",
+        "Britney Spears - That's Where You Take Me",
+        "Britney Spears - Before The Goodbye",
+        "Britney Spears - (I Got That) Boom Boom (feat. Ying Yang Twins)",
+        "Britney Spears - Toxic (Peter Rauhofer Reconstruction mix)",
+        "Britney Spears - Me Against The Music (Justice Remix Feat. Madonna)",
+        "Britney Spears - Touch Of My Hand (Bill Hamel 12' Club Mix)",
+        "Britney Spears - Breathe On Me (Jacques Lu Cont's Thin White Duke Mix)",
+        "Britney Spears - I'm A Slave 4 U (Dave Aude Slave Driver Mix)",
+        "Britney Spears - And Then We Kiss",
+        "Britney Spears - And Then We Kiss (Instrumental)",
+        "Britney Spears - Everytime (Valentin Remix)",
+        "Britney Spears - Early Mornin' (Jason Nevins Remix)",
+        "Britney Spears - Someday (I Will Understand) [Hi-Bias Signature Radio Remix]",
+        "Britney Spears - Baby One More Time (Davidson Ospina 2005 Remix)",
+        "Britney Spears - Don't Let Me Be The Last To Know (Hex Hector Club Mix Edit)",
+        "Britney Spears - Stronger (Mac Quayle Mixshow Edit)",
+        "Britney Spears - I'm Not A Girl, Not Yet A Woman (Metro Mix)",
+        "Britney Spears - Someday I Will Understand (Gota Remix ft. MCU)",
+        "Britney Spears - Magamix",
+        "Britney Spears - Girls and Boys",
+        "Britney Spears - She'll Never Be Me",
+        "Britney Spears - Mona Lisa",
+        "Britney Spears - Gimme More (Instrumental)",
+        "Britney Spears - Gimme More (StoneBridge Club Mix)",
+        "Britney Spears - Piece Of Me",
+        "Britney Spears - Piece Of Me (Bimbo Jones Remix)",
+        "Britney Spears - Radar",
+        "Britney Spears - Radar (Instrumental)",
+        "Britney Spears - Break The Ice",
+        "Britney Spears - Get Naked (I Got A Plan)",
+        "Britney Spears - Freakshow",
+        "Britney Spears - Blackout (Tiger Megamix)",
+        "Britney Spears - Womanizer (Dsont xXx Remix)",
+        "Britney Spears - Womanizer (8bitsdown Remix)",
+        "Britney Spears - Circus (Mysto Pizzi Electro Mix)",
+        "Britney Spears - Shattered Glass (Kyama Remix)",
+        "Britney Spears - If U Seek Amy (Crookers Toy Soldier Remix)",
+        "Britney Spears - If U Seek Amy (Bimbo Jones Vocal)",
+        "Britney Spears - If U Seek Amy (Mike Rizzo Funk Generation Club Mix)",
+        "Britney Spears - Unusual you (Instrumental)",
+        "Britney Spears - Blur",
+        "Britney Spears - Mmm Papi",
+        "Britney Spears - Lace And Leather",
+        "Britney Spears - My Baby",
+        "Britney Spears - Amnesia",
+        "Britney Spears - Phonography",
+        "Britney Spears - Phonography (Instrumental)",
+        "Britney Spears - Rock Me In",
+        "Britney Spears - Trouble",
+        "Britney Spears - Circus Mix",
+        "Britney Spears - Radar (Circus Tour Studio Version)",
+        "Britney Spears - Circus (Tom Neville's Ringlead",
+        "Britney Spears - Radar (Bloodshy & Avant Remix)",
+        "Britney Spears - 3 (Groove Police Club Mix)",
+        "Britney Spears - Everybody vs Sweet Dreams",
+        "Britney Spears - Megamix (Donni Hotwhee)",
+        "Britney Spears - Ooh Ooh Baby",
+        "Britney Spears - State of Grace",
+        "Britney Spears - Let Go",
+        "Britney Spears - Oops! ... I Did It Again",
+        "Britney Spears - I've Just Begun (Having My Fun)",
+        "Britney Spears - Baby One More Time (Wade Robson Remix)",
+        "Britney Spears - I'm So Curious",
+        "Britney Spears - Someday (I Will Understand) (instrumental)",
+        "Shakira - Did It Again",
+        "Britney Spears - Me Against The Music",
+        "Britney Spears - Lonely",
+        "Britney Spears - Girl In The Mirror"
+      ],
+      "song_count": 117
+    },
+    "2236519": {
+      "name": "lista odtwarzania",
+      "artists": [
+        "Michael Jackson",
+        "Michael Jackson",
+        "Michael Jackson",
+        "Michael Jackson",
+        "Michael Jackson",
+        "Michael Jackson",
+        "Depeche Mode"
+      ],
+      "songs": [
+        "Michael Jackson - Dirty Diana",
+        "Michael Jackson - Give In to Me",
+        "Michael Jackson - Who Is It",
+        "Michael Jackson - They Don't Care About Us",
+        "Michael Jackson - Money",
+        "Michael Jackson - Man In The Mirror",
+        "Depeche Mode - Wrong"
+      ],
+      "song_count": 7
+    },
+    "2960339": {
+      "name": "Playlist1",
+      "artists": [
+        "Prince",
+        "Nina Simone",
+        "Prince",
+        "The Rolling Stones",
+        "Nina Simone",
+        "Nina Simone",
+        "Sonic Youth"
+      ],
+      "songs": [
+        "Prince - Kiss",
+        "Nina Simone - I Put A Spell On You",
+        "Prince - When Doves Cry",
+        "The Rolling Stones - Paint It Black",
+        "Nina Simone - Feeling Good",
+        "Nina Simone - Four Women",
+        "Sonic Youth - 'Cross The Breeze"
+      ],
+      "song_count": 7
+    },
+    "1602200": {
+      "name": "",
+      "artists": [
+        "Radiohead"
+      ],
+      "songs": [
+        "Radiohead - Fake Plastic Trees"
+      ],
+      "song_count": 1
+    },
+    "5949528": {
+      "name": "JD_Turk's. Vol.3",
+      "artists": [
+        "Shakira",
+        "Snoop Dogg",
+        "Shakira",
+        "Radiohead",
+        "Shakira",
+        "Shakira",
+        "Beck",
+        "Michael Jackson",
+        "The Rolling Stones",
+        "The Rolling Stones",
+        "The Rolling Stones"
+      ],
+      "songs": [
+        "Shakira - Did It Again",
+        "Snoop Dogg - Beautiful",
+        "Shakira - Why Wait",
+        "Radiohead - My Iron Lung",
+        "Shakira - Lo Hecho Est\u00e1 Hecho",
+        "Shakira - Long Time",
+        "Beck - Paper Tiger",
+        "Michael Jackson - Earth Song",
+        "The Rolling Stones - Streets Of Love",
+        "The Rolling Stones - She Saw Me Coming",
+        "The Rolling Stones - Infamy"
+      ],
+      "song_count": 11
+    },
+    "3426812": {
+      "name": "JD_Turk's",
+      "artists": [
+        "Madonna",
+        "Al Green",
+        "Madonna",
+        "2Pac",
+        "Bush",
+        "Madonna",
+        "Madonna",
+        "Christina Aguilera",
+        "Britney Spears",
+        "Depeche Mode",
+        "Prince",
+        "Al Green",
+        "Massive Attack",
+        "Moby",
+        "Britney Spears",
+        "Radiohead",
+        "Britney Spears",
+        "Britney Spears",
+        "Christina Aguilera",
+        "Michael Jackson",
+        "Michael Jackson",
+        "Justin Timberlake",
+        "Michael Jackson",
+        "Michael Jackson",
+        "Michael Jackson",
+        "Michael Jackson",
+        "Michael Jackson",
+        "Britney Spears",
+        "Britney Spears",
+        "Britney Spears",
+        "Christina Aguilera",
+        "Depeche Mode",
+        "Depeche Mode",
+        "Justin Timberlake",
+        "Justin Timberlake",
+        "The Rolling Stones",
+        "Michael Jackson",
+        "Michael Jackson",
+        "Beck",
+        "Britney Spears",
+        "The Rolling Stones",
+        "Depeche Mode",
+        "Depeche Mode",
+        "Depeche Mode",
+        "The Rolling Stones",
+        "The Rolling Stones",
+        "Justin Timberlake",
+        "The Rolling Stones",
+        "The Rolling Stones"
+      ],
+      "songs": [
+        "Madonna - Incredible",
+        "Al Green - How Can You Mend A Broken Heart",
+        "Madonna - Material Girl",
+        "2Pac - California Love",
+        "Bush - Letting The Cables Sleep (The N.O.W.Remix)",
+        "Madonna - Nothing Fails",
+        "Madonna - American Life",
+        "Christina Aguilera - Keeps Gettin' Better",
+        "Britney Spears - Showdown",
+        "Depeche Mode - Policy Of Truth",
+        "Prince - Purple Rain",
+        "Al Green - Love And Happiness",
+        "Massive Attack - Teardrop",
+        "Moby - Love Should",
+        "Britney Spears - Kill The Lights",
+        "Radiohead - Street Spirit (Fade Out)",
+        "Britney Spears - Phonography",
+        "Britney Spears - Unusual You",
+        "Christina Aguilera - Walk Away",
+        "Michael Jackson - Bad",
+        "Michael Jackson - The Way You Make Me Feel",
+        "Justin Timberlake - Until The End Of Time",
+        "Michael Jackson - In the Closet",
+        "Michael Jackson - Remember the Time",
+        "Michael Jackson - Heal The World",
+        "Michael Jackson - Who Is It",
+        "Michael Jackson - Dangerous",
+        "Britney Spears - Baby One More Time",
+        "Britney Spears - Crazy",
+        "Britney Spears - Sometimes",
+        "Christina Aguilera - Get Mine, Get Yours",
+        "Depeche Mode - Behind The Wheel",
+        "Depeche Mode - Personal Jesus",
+        "Justin Timberlake - Cry Me A River",
+        "Justin Timberlake - Like I Love You",
+        "The Rolling Stones - Angie",
+        "Michael Jackson - Liberian Girl",
+        "Michael Jackson - Smooth Criminal",
+        "Beck - Que Onda Guero",
+        "Britney Spears - Overprotected",
+        "The Rolling Stones - Anybody Seen My Baby",
+        "Depeche Mode - In Sympathy",
+        "Depeche Mode - Come Back",
+        "Depeche Mode - Perfect",
+        "The Rolling Stones - Already Over Me",
+        "The Rolling Stones - Might As Well Get Juiced",
+        "Justin Timberlake - What Goes Around.../...Comes Around Interlude",
+        "The Rolling Stones - Confessin' The Blues",
+        "The Rolling Stones - Tell Me"
+      ],
+      "song_count": 49
+    },
+    "4976660": {
+      "name": "JD_Turk's.Vol.2",
+      "artists": [
+        "Beck",
+        "Michael Jackson",
+        "Michael Jackson",
+        "Michael Jackson",
+        "Beck",
+        "Green Day",
+        "Madonna",
+        "Madonna"
+      ],
+      "songs": [
+        "Beck - Think I'm In Love",
+        "Michael Jackson - Remember the Time",
+        "Michael Jackson - Will You Be There",
+        "Michael Jackson - Stranger in Moscow",
+        "Beck - Lost Cause",
+        "Green Day - Last Night On Earth",
+        "Madonna - Forbidden Love",
+        "Madonna - Bedtime Story"
+      ],
+      "song_count": 8
+    },
+    "5580234": {
+      "name": "",
+      "artists": [
+        "Shakira",
+        "Shakira",
+        "Shakira"
+      ],
+      "songs": [
+        "Shakira - Inevitable",
+        "Shakira - Men In This Town",
+        "Shakira - La Pared"
+      ],
+      "song_count": 3
+    },
+    "989969": {
+      "name": "jmarhee7\u2019s playlist",
+      "artists": [
+        "Radiohead"
+      ],
+      "songs": [
+        "Radiohead - How To Disappear Completely"
+      ],
+      "song_count": 1
+    },
+    "4838420": {
+      "name": "All of rock",
+      "artists": [
+        "Sum 41",
+        "Pearl Jam",
+        "Blink 182",
+        "Blink 182",
+        "Pearl Jam",
+        "Pearl Jam",
+        "Blink 182",
+        "Blink 182",
+        "AC/DC",
+        "Blink 182",
+        "AC/DC",
+        "Pearl Jam",
+        "Pearl Jam"
+      ],
+      "songs": [
+        "Sum 41 - Pain For Pleasure",
+        "Pearl Jam - Jeremy",
+        "Blink 182 - Roller Coaster",
+        "Blink 182 - Online Songs",
+        "Pearl Jam - Crazy Mary",
+        "Pearl Jam - Of the Girl",
+        "Blink 182 - Mutt",
+        "Blink 182 - Wendy Clear",
+        "AC/DC - Rock 'n' Roll Singer",
+        "Blink 182 - 05 - Stockholm Syndrome - Blink182",
+        "AC/DC - T.N.T.",
+        "Pearl Jam - Yellow Ledbetter",
+        "Pearl Jam - Black"
+      ],
+      "song_count": 13
+    },
+    "1380177": {
+      "name": "Random!!!",
+      "artists": [
+        "Daft Punk",
+        "Depeche Mode",
+        "Moloko",
+        "Radiohead"
+      ],
+      "songs": [
+        "Daft Punk - Something About Us",
+        "Depeche Mode - Precious",
+        "Moloko - Cannot Contain This",
+        "Radiohead - Nude"
+      ],
+      "song_count": 4
+    },
+    "6218201": {
+      "name": "Currently Listening",
+      "artists": [
+        "The Smiths"
+      ],
+      "songs": [
+        "The Smiths - This Charming Man (Manchester)"
+      ],
+      "song_count": 1
+    },
+    "1225961": {
+      "name": "",
+      "artists": [
+        "Radiohead",
+        "Radiohead",
+        "The Smiths"
+      ],
+      "songs": [
+        "Radiohead - A Wolf At The Door",
+        "Radiohead - Bullet Proof...I Wish I Was",
+        "The Smiths - Hand in Glove"
+      ],
+      "song_count": 3
+    },
+    "2940472": {
+      "name": "Lista",
+      "artists": [
+        "Cypress Hill"
+      ],
+      "songs": [
+        "Cypress Hill - I Wanna Get High"
+      ],
+      "song_count": 1
+    },
+    "4214135": {
+      "name": "",
+      "artists": [
+        "Antonio Vivaldi"
+      ],
+      "songs": [
+        "Antonio Vivaldi - Spring"
+      ],
+      "song_count": 1
+    },
+    "4560138": {
+      "name": "ADC",
+      "artists": [
+        "The Animals",
+        "Ludwig van Beethoven",
+        "Johann Sebastian Bach",
+        "Johann Sebastian Bach",
+        "Wolfgang Amadeus Mozart",
+        "Belle and Sebastian",
+        "Ludwig van Beethoven",
+        "Nat King Cole",
+        "Nat King Cole",
+        "Nat King Cole",
+        "Leonard Cohen",
+        "Frederic Chopin",
+        "Frederic Chopin"
+      ],
+      "songs": [
+        "The Animals - Don't Let Me Be Misunderstood",
+        "Ludwig van Beethoven - Fur Elise",
+        "Johann Sebastian Bach - Air on the G String",
+        "Johann Sebastian Bach - Toccata and Fugue in D Minor",
+        "Wolfgang Amadeus Mozart - Requiem - Dies Irae",
+        "Belle and Sebastian - Dear Catastrophe Waitress",
+        "Ludwig van Beethoven - 5th Symphony 1st Movement",
+        "Nat King Cole - Unforgettable",
+        "Nat King Cole - Mona Lisa",
+        "Nat King Cole - When I Fall In Love",
+        "Leonard Cohen - A Thousand Kisses Deep",
+        "Frederic Chopin - Etudes (12) for Piano, Op. 10 no 12 in C minor, B 67 Revolutionary",
+        "Frederic Chopin - Polonaise for Piano in A flat major, B 147Op. 53 Heroic"
+      ],
+      "song_count": 13
+    },
+    "278679": {
+      "name": "",
+      "artists": [
+        "Beck",
+        "Johnny Cash",
+        "Ludwig van Beethoven"
+      ],
+      "songs": [
+        "Beck - Nausea",
+        "Johnny Cash - Hurt",
+        "Ludwig van Beethoven - Moonlight Sonata"
+      ],
+      "song_count": 3
+    },
+    "149491": {
+      "name": "",
+      "artists": [
+        "The Smiths"
+      ],
+      "songs": [
+        "The Smiths - How Soon Is Now?"
+      ],
+      "song_count": 1
+    }
+  },
   "properties": {
     "name": {
       "name": "Playlist Name",

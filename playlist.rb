@@ -92,7 +92,7 @@ class PlayList
   end
   
   def self.fetch_playlists
-    result = {:items => [], :properties => {} }
+    result = {:items => {}, :properties => {} }
 
     # properties
     PLAYLIST_PROPERTIES.each do |pkey, pdef|
@@ -129,7 +129,7 @@ class PlayList
     playlists.each do |p|
       pl = PlayList.get(p, seed_artists)
       # only use playlists with at least two songs
-      result[:items] << pl.to_hash if pl
+      result[:items][p.to_s] = pl.to_hash if pl
       print "."
     end
     

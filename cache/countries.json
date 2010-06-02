@@ -1,0 +1,2643 @@
+{
+  "items": {
+    "/en/algeria": {
+      "name": "Algeria",
+      "official_language": "Arabic language",
+      "form_of_government": [
+        "Presidential system",
+        "Semi-presidential system"
+      ],
+      "currency_used": "Algerian dinar",
+      "population": 34895000,
+      "gdp_nominal": 171300000000.0,
+      "area": 2381741.0,
+      "date_founded": "1962"
+    },
+    "/en/austria": {
+      "name": "Austria",
+      "official_language": "Croatian language",
+      "form_of_government": [
+        "Federal republic",
+        "Parliamentary republic"
+      ],
+      "currency_used": "Euro",
+      "population": 8356700,
+      "gdp_nominal": 432400000000.0,
+      "area": 83872.0,
+      "date_founded": "1955-07-27"
+    },
+    "/en/aruba": {
+      "name": "Aruba",
+      "official_language": "Dutch Language",
+      "form_of_government": [
+        "Constitutional monarchy"
+      ],
+      "currency_used": "Aruban florin",
+      "population": 107000,
+      "gdp_nominal": 4548000000.0,
+      "area": 193.0,
+      "date_founded": "1986-01-01"
+    },
+    "/en/angola": {
+      "name": "Angola",
+      "official_language": "Portuguese Language",
+      "form_of_government": [
+        "Republic",
+        "Presidential system"
+      ],
+      "currency_used": "Angolan kwanza",
+      "population": 18498000,
+      "gdp_nominal": 95950000000.0,
+      "area": 1246700.0,
+      "date_founded": "1975-11-11"
+    },
+    "/en/afghanistan": {
+      "name": "Afghanistan",
+      "official_language": "Persian language",
+      "form_of_government": [
+        "Presidential system",
+        "Islamic republic"
+      ],
+      "currency_used": "Afghan afghani",
+      "population": 28150000,
+      "gdp_nominal": 8842000000.0,
+      "area": 647500.0,
+      "date_founded": "1919-08-08"
+    },
+    "/en/albania": {
+      "name": "Albania",
+      "official_language": "Albanian language",
+      "form_of_government": [
+        "Parliamentary system",
+        "Parliamentary republic"
+      ],
+      "currency_used": "Albanian lek",
+      "population": 3170000,
+      "gdp_nominal": 13520000000.0,
+      "area": 28748.0,
+      "date_founded": "1912-11-28"
+    },
+    "/en/argentina": {
+      "name": "Argentina",
+      "official_language": "Spanish Language",
+      "form_of_government": [
+        "Federal republic",
+        "Presidential system"
+      ],
+      "currency_used": "Argentinian Peso",
+      "population": 39745613,
+      "gdp_nominal": 338700000000.0,
+      "area": 2780403.0,
+      "date_founded": "1816-07-09"
+    },
+    "/en/armenia": {
+      "name": "Armenia",
+      "official_language": "Armenian Language",
+      "form_of_government": [
+        "Presidential system"
+      ],
+      "currency_used": "Armenian dram",
+      "population": 3230100,
+      "gdp_nominal": 12070000000.0,
+      "area": 29800.0,
+      "date_founded": "1918-05-28"
+    },
+    "/en/azerbaijan": {
+      "name": "Azerbaijan",
+      "official_language": "Azerbaijani language",
+      "form_of_government": [
+        "Presidential system",
+        "Parliamentary republic"
+      ],
+      "currency_used": "Azerbaijani manat",
+      "population": 8629900,
+      "gdp_nominal": 53260000000.0,
+      "area": 86600.0,
+      "date_founded": "1991-08-30"
+    },
+    "/en/antigua_and_barbuda": {
+      "name": "Antigua and Barbuda",
+      "official_language": "English Language",
+      "form_of_government": [
+        "Parliamentary system"
+      ],
+      "currency_used": "East Caribbean dollar",
+      "population": 88000,
+      "gdp_nominal": 1089000000.0,
+      "area": 442.0,
+      "date_founded": "1981-11-01"
+    },
+    "/en/belgium": {
+      "name": "Belgium",
+      "official_language": "Dutch Language",
+      "form_of_government": [
+        "Parliamentary system",
+        "Constitutional monarchy",
+        "Monarchy"
+      ],
+      "currency_used": "Euro",
+      "population": 10741000,
+      "gdp_nominal": 530600000000.0,
+      "area": 30528.0,
+      "date_founded": "1830-10-04"
+    },
+    "/en/brazil": {
+      "name": "Brazil",
+      "official_language": "Portuguese Language",
+      "form_of_government": [
+        "Federal republic",
+        "Presidential system"
+      ],
+      "currency_used": "Brazilian real",
+      "population": 254100000,
+      "gdp_nominal": 1665000000000.0,
+      "area": 8514877.0,
+      "date_founded": "1822-09-07"
+    },
+    "/en/bulgaria": {
+      "name": "Bulgaria",
+      "official_language": "Bulgarian Language",
+      "form_of_government": [
+        "Parliamentary system",
+        "Parliamentary republic"
+      ],
+      "currency_used": "Bulgarian lev",
+      "population": 7602100,
+      "gdp_nominal": 51930000000.0,
+      "area": 110910.0,
+      "date_founded": "0681"
+    },
+    "/en/the_bahamas": {
+      "name": "The Bahamas",
+      "official_language": "English Language",
+      "form_of_government": [
+        "Parliamentary system",
+        "Constitutional monarchy"
+      ],
+      "currency_used": "Bahamian dollar",
+      "population": 342000,
+      "gdp_nominal": 6935000000.0,
+      "area": 13878.0,
+      "date_founded": "1964"
+    },
+    "/en/bahrain": {
+      "name": "Bahrain",
+      "official_language": "Arabic language",
+      "form_of_government": [
+        "Constitutional monarchy",
+        "Monarchy"
+      ],
+      "currency_used": "Bahraini dinar",
+      "population": 791000,
+      "gdp_nominal": 19680000000.0,
+      "area": 665.0,
+      "date_founded": "1971-12-16"
+    },
+    "/en/bangladesh": {
+      "name": "Bangladesh",
+      "official_language": "Bengali Language",
+      "form_of_government": [
+        "Parliamentary republic"
+      ],
+      "currency_used": "Bangladeshi taka",
+      "population": 162221000,
+      "gdp_nominal": 83040000000.0,
+      "area": 147570.0,
+      "date_founded": "1971-03-26"
+    },
+    "/en/barbados": {
+      "name": "Barbados",
+      "official_language": "English Language",
+      "form_of_government": [
+        "Parliamentary system",
+        "Constitutional monarchy"
+      ],
+      "currency_used": "Barbados dollar",
+      "population": 256000,
+      "gdp_nominal": 3777000000.0,
+      "area": 431.0,
+      "date_founded": "1966-11-30"
+    },
+    "/en/belarus": {
+      "name": "Belarus",
+      "official_language": "Belarusan Language",
+      "form_of_government": [
+        "Presidential system",
+        "Dictatorship"
+      ],
+      "currency_used": "Belarusian ruble",
+      "population": 9690000,
+      "gdp_nominal": 57680000000.0,
+      "area": 207600.0,
+      "date_founded": "1990-07-27"
+    },
+    "/en/belize": {
+      "name": "Belize",
+      "official_language": "English Language",
+      "form_of_government": [
+        "Parliamentary system",
+        "Constitutional monarchy"
+      ],
+      "currency_used": "Belize dollar",
+      "population": 307000,
+      "gdp_nominal": 1383000000.0,
+      "area": 22966.0,
+      "date_founded": "1981-09-21"
+    },
+    "/en/bolivia": {
+      "name": "Bolivia",
+      "official_language": "Spanish Language",
+      "form_of_government": [
+        "Republic",
+        "Presidential system"
+      ],
+      "currency_used": "Bolivian boliviano",
+      "population": 9863000,
+      "gdp_nominal": 18940000000.0,
+      "area": 1098581.0,
+      "date_founded": "1825-08-06"
+    },
+    "/en/bosnia_and_herzegovina": {
+      "name": "Bosnia and Herzegovina",
+      "official_language": "Bosnian language",
+      "form_of_government": [
+        "Federal republic",
+        "Federation",
+        "Republic"
+      ],
+      "currency_used": "Bosnia and Herzegovina convertible mark",
+      "population": 3767000,
+      "gdp_nominal": 19360000000.0,
+      "area": 51197.0,
+      "date_founded": "1189-08-29"
+    },
+    "/en/botswana": {
+      "name": "Botswana",
+      "official_language": "Tswana Language",
+      "form_of_government": [
+        "Parliamentary republic"
+      ],
+      "currency_used": "Botswana pula",
+      "population": 1950000,
+      "gdp_nominal": 13810000000.0,
+      "area": 600370.0,
+      "date_founded": "1966-09-30"
+    },
+    "/en/brunei": {
+      "name": "Brunei",
+      "official_language": "Malay Language",
+      "form_of_government": [
+        "Monarchy",
+        "Absolute monarchy"
+      ],
+      "currency_used": "Brunei dollar",
+      "population": 400000,
+      "gdp_nominal": 17180000000.0,
+      "area": 5765.0,
+      "date_founded": "1984-01-01"
+    },
+    "/en/burkina_faso": {
+      "name": "Burkina Faso",
+      "official_language": "French Language",
+      "form_of_government": [
+        "Semi-presidential system",
+        "Republic"
+      ],
+      "currency_used": "West African CFA franc",
+      "population": 15757000,
+      "gdp_nominal": 8242000000.0,
+      "area": 274000.0,
+      "date_founded": "1960-08-05"
+    },
+    "/en/burundi": {
+      "name": "Burundi",
+      "official_language": "Kanuri language",
+      "form_of_government": [
+        "Republic"
+      ],
+      "currency_used": "Burundian franc",
+      "population": 8303000,
+      "gdp_nominal": 903000000.0,
+      "area": 27830.0,
+      "date_founded": "1962-07-01"
+    },
+    "/en/colombia": {
+      "name": "Colombia",
+      "official_language": "Spanish Language",
+      "form_of_government": [
+        "Presidential system",
+        "Republic"
+      ],
+      "currency_used": "Colombian peso",
+      "population": 44830423,
+      "gdp_nominal": 249800000000.0,
+      "area": 1141748.0,
+      "date_founded": "1810-07-20"
+    },
+    "/en/czech_republic": {
+      "name": "Czech Republic",
+      "official_language": "Czech Language",
+      "form_of_government": [
+        "Parliamentary republic"
+      ],
+      "currency_used": "CZK",
+      "population": 10474600,
+      "gdp_nominal": 217200000000.0,
+      "area": 78866.0,
+      "date_founded": "1918-10-28"
+    },
+    "/en/comoros": {
+      "name": "Comoros",
+      "official_language": "Arabic language",
+      "form_of_government": [
+        "Federal republic"
+      ],
+      "currency_used": "Comorian franc",
+      "population": 676000,
+      "gdp_nominal": 557000000.0,
+      "area": 2235.0,
+      "date_founded": "1975-07-06"
+    },
+    "/en/cameroon": {
+      "name": "Cameroon",
+      "official_language": "English Language",
+      "form_of_government": [
+        "Republic",
+        "Dictatorship"
+      ],
+      "currency_used": "Central African CFA franc",
+      "population": 19522000,
+      "gdp_nominal": 25000000000.0,
+      "area": 475442.0
+    },
+    "/en/cape_verde": {
+      "name": "Cape Verde",
+      "official_language": "Portuguese Language",
+      "form_of_government": [
+        "Republic"
+      ],
+      "currency_used": "Cape Verdean escudo",
+      "population": 506000,
+      "gdp_nominal": 1845000000.0,
+      "area": 4033.0,
+      "date_founded": "1975-07-05"
+    },
+    "/en/central_african_republic": {
+      "name": "Central African Republic",
+      "official_language": "Sango Language",
+      "form_of_government": [
+        "Republic"
+      ],
+      "currency_used": "Central African CFA franc",
+      "population": 4422000,
+      "gdp_nominal": 2087000000.0,
+      "area": 622984.0,
+      "date_founded": "1960-08-13"
+    },
+    "/en/chad": {
+      "name": "Chad",
+      "official_language": "Arabic language",
+      "form_of_government": [
+        "Republic",
+        "Dictatorship"
+      ],
+      "currency_used": "Central African CFA franc",
+      "population": 11206000,
+      "gdp_nominal": 9106000000.0,
+      "area": 1284000.0,
+      "date_founded": "1960-08-11"
+    },
+    "/en/chile": {
+      "name": "Chile",
+      "official_language": "Spanish Language",
+      "form_of_government": [
+        "Republic",
+        "Representative democracy",
+        "Presidential system"
+      ],
+      "currency_used": "Chilean peso",
+      "population": 16886000,
+      "gdp_nominal": 181500000000.0,
+      "area": 756950.0,
+      "date_founded": "1810-09-18"
+    },
+    "/en/costa_rica": {
+      "name": "Costa Rica",
+      "official_language": "Spanish Language",
+      "form_of_government": [
+        "Presidential system",
+        "Constitutional democracy",
+        "Republic"
+      ],
+      "currency_used": "Costa Rican col\u00f3n",
+      "population": 4579000,
+      "gdp_nominal": 30380000000.0,
+      "area": 51100.0,
+      "date_founded": "1821-09-15"
+    },
+    "/en/croatia": {
+      "name": "Croatia",
+      "official_language": "Croatian language",
+      "form_of_government": [
+        "Parliamentary republic"
+      ],
+      "currency_used": "Croatian kuna",
+      "population": 4432000,
+      "gdp_nominal": 63950000000.0,
+      "area": 56542.0
+    },
+    "/en/cyprus": {
+      "name": "Cyprus",
+      "official_language": "Greek Language",
+      "form_of_government": [
+        "Presidential system"
+      ],
+      "currency_used": "Euro",
+      "population": 801600,
+      "gdp_nominal": 25590000000.0,
+      "area": 9251.0,
+      "date_founded": "1960-08-16"
+    },
+    "/en/republic_of_the_congo": {
+      "name": "Republic of the Congo",
+      "official_language": "Lingala Language",
+      "form_of_government": [
+        "Republic"
+      ],
+      "currency_used": "Central African CFA franc",
+      "population": 3683000,
+      "gdp_nominal": 13350000000.0,
+      "area": 342000.0,
+      "date_founded": "1960-08-15"
+    },
+    "/en/cook_islands": {
+      "name": "Cook Islands",
+      "official_language": "Rarotongan Language",
+      "form_of_government": [
+        "Constitutional monarchy"
+      ],
+      "currency_used": "New Zealand dollar",
+      "population": 20000,
+      "gdp_nominal": 183000000.0,
+      "area": 240.0,
+      "date_founded": "1965-08-04"
+    },
+    "/en/djibouti": {
+      "name": "Djibouti",
+      "official_language": "Arabic language",
+      "form_of_government": [
+        "Republic",
+        "Semi-presidential system"
+      ],
+      "currency_used": "Djiboutian franc",
+      "population": 864000,
+      "gdp_nominal": 841000000.0,
+      "area": 23200.0,
+      "date_founded": "1977-06-27"
+    },
+    "/en/dominica": {
+      "name": "Dominica",
+      "official_language": "English Language",
+      "form_of_government": [
+        "Parliamentary republic"
+      ],
+      "currency_used": "East Caribbean dollar",
+      "population": 67000,
+      "gdp_nominal": 365000000.0,
+      "area": 751.0,
+      "date_founded": "1978-11-03"
+    },
+    "/en/dominican_republic": {
+      "name": "Dominican Republic",
+      "official_language": "Spanish Language",
+      "form_of_government": [
+        "Presidential system",
+        "Representative democracy",
+        "Democracy"
+      ],
+      "currency_used": "Dominican peso",
+      "population": 10090000,
+      "gdp_nominal": 45690000000.0,
+      "area": 48730.0,
+      "date_founded": "1844-02-27"
+    },
+    "/en/ecuador": {
+      "name": "Ecuador",
+      "official_language": "Spanish Language",
+      "form_of_government": [
+        "Presidential system",
+        "Republic"
+      ],
+      "currency_used": "US$",
+      "population": 13938115,
+      "gdp_nominal": 54670000000.0,
+      "area": 256370.0,
+      "date_founded": "1822-05-24"
+    },
+    "/en/egypt": {
+      "name": "Egypt",
+      "official_language": "Arabic language",
+      "form_of_government": [
+        "Semi-presidential system",
+        "Republic",
+        "Dictatorship"
+      ],
+      "currency_used": "Egyptian pound",
+      "population": 76030000,
+      "gdp_nominal": 158300000000.0,
+      "area": 1002450.0
+    },
+    "/en/el_salvador": {
+      "name": "El Salvador",
+      "official_language": "Spanish Language",
+      "form_of_government": [
+        "Presidential system",
+        "Republic"
+      ],
+      "currency_used": "US$",
+      "population": 6163000,
+      "gdp_nominal": 22280000000.0,
+      "area": 21040.0,
+      "date_founded": "1821-09-15"
+    },
+    "/en/equatorial_guinea": {
+      "name": "Equatorial Guinea",
+      "official_language": "Spanish Language",
+      "form_of_government": [
+        "Republic",
+        "Presidential system",
+        "Dictatorship"
+      ],
+      "currency_used": "Central African CFA franc",
+      "population": 676000,
+      "gdp_nominal": 20160000000.0,
+      "area": 28051.0,
+      "date_founded": "1968-10-12"
+    },
+    "/en/eritrea": {
+      "name": "Eritrea",
+      "official_language": "Arabic language",
+      "form_of_government": [
+        "Dictatorship",
+        "Single-party state"
+      ],
+      "currency_used": "Eritrean nakfa",
+      "population": 5073000,
+      "gdp_nominal": 1479000000.0,
+      "area": 117600.0,
+      "date_founded": "1991-05-24"
+    },
+    "/en/estonia": {
+      "name": "Estonia",
+      "official_language": "Estonian Language",
+      "form_of_government": [
+        "Parliamentary republic"
+      ],
+      "currency_used": "Estonian kroon",
+      "population": 1340341,
+      "gdp_nominal": 25210000000.0,
+      "area": 45226.0
+    },
+    "/en/east_timor": {
+      "name": "East Timor",
+      "official_language": "Tetun Language",
+      "form_of_government": [
+        "Parliamentary republic"
+      ],
+      "currency_used": "US$",
+      "population": 1134000,
+      "gdp_nominal": 489000000.0,
+      "area": 15410.0,
+      "date_founded": "1975-11-28"
+    },
+    "/en/finland": {
+      "name": "Finland",
+      "official_language": "Finnish Language",
+      "form_of_government": [
+        "Republic",
+        "Parliamentary republic",
+        "Semi-presidential system"
+      ],
+      "currency_used": "Euro",
+      "population": 5331096,
+      "gdp_nominal": 287600000000.0,
+      "area": 338145.0,
+      "date_founded": "1809-03-29"
+    },
+    "/en/fiji": {
+      "name": "Fiji",
+      "official_language": "Fijian Language",
+      "form_of_government": [
+        "Republic",
+        "Parliamentary republic",
+        "Military dictatorship",
+        "Military junta"
+      ],
+      "currency_used": "Fijian dollar",
+      "population": 849000,
+      "gdp_nominal": 3324000000.0,
+      "area": 18274.0,
+      "date_founded": "1970-10-10"
+    },
+    "/en/federated_states_of_micronesia": {
+      "name": "Federated States of Micronesia",
+      "official_language": "Yapese Language",
+      "form_of_government": [
+        "Republic",
+        "Presidential system",
+        "Representative democracy",
+        "Federation"
+      ],
+      "currency_used": "US$",
+      "population": 111000,
+      "gdp_nominal": 232000000.0,
+      "area": 702.0,
+      "date_founded": "1986-11-03"
+    },
+    "/en/germany": {
+      "name": "Germany",
+      "official_language": "German Language",
+      "form_of_government": [
+        "Federal republic",
+        "Democracy",
+        "Parliamentary republic"
+      ],
+      "currency_used": "Euro",
+      "population": 82062200,
+      "gdp_nominal": 3818000000000.0,
+      "area": 357092.9,
+      "date_founded": "1949-05-23"
+    },
+    "/en/guatemala": {
+      "name": "Guatemala",
+      "official_language": "Spanish Language",
+      "form_of_government": [
+        "Presidential system"
+      ],
+      "currency_used": "Guatemalan quetzal",
+      "population": 14027000,
+      "gdp_nominal": 36280000000.0,
+      "area": 108890.0,
+      "date_founded": "1821-09-15"
+    },
+    "/en/guyana": {
+      "name": "Guyana",
+      "official_language": "English Language",
+      "form_of_government": [
+        "Semi-presidential system"
+      ],
+      "currency_used": "Guyanese dollar",
+      "population": 762000,
+      "gdp_nominal": 1134000000.0,
+      "area": 214970.0,
+      "date_founded": "1966-05-26"
+    },
+    "/en/guam": {
+      "name": "Guam",
+      "official_language": "Chamorro Language",
+      "form_of_government": [
+        "Representative democracy"
+      ],
+      "currency_used": "US$",
+      "population": 178000,
+      "gdp_nominal": 2773000000.0,
+      "area": 541.3
+    },
+    "/en/gabon": {
+      "name": "Gabon",
+      "official_language": "Spanish Language",
+      "form_of_government": [
+        "Republic"
+      ],
+      "currency_used": "CFA franc",
+      "population": 1475000,
+      "gdp_nominal": 15910000000.0,
+      "area": 267668.0,
+      "date_founded": "1960-08-17"
+    },
+    "/en/ghana": {
+      "name": "Ghana",
+      "official_language": "English Language",
+      "form_of_government": [
+        "Republic",
+        "Presidential system",
+        "Constitutional republic"
+      ],
+      "currency_used": "Ghanaian cedi",
+      "population": 23837000,
+      "gdp_nominal": 17720000000.0,
+      "area": 238535.0,
+      "date_founded": "1957-03-06"
+    },
+    "/en/greece": {
+      "name": "Greece",
+      "official_language": "Greek Language",
+      "form_of_government": [
+        "Parliamentary republic"
+      ],
+      "currency_used": "Euro",
+      "population": 11262500,
+      "gdp_nominal": 373500000000.0,
+      "area": 131990.0,
+      "date_founded": "1821-03-25"
+    },
+    "/en/grenada": {
+      "name": "Grenada",
+      "official_language": "English Language",
+      "form_of_government": [
+        "Parliamentary system",
+        "Constitutional monarchy"
+      ],
+      "currency_used": "East Caribbean dollar",
+      "population": 104000,
+      "gdp_nominal": 657000000.0,
+      "area": 344.0,
+      "date_founded": "1974-02-07"
+    },
+    "/en/guinea": {
+      "name": "Guinea",
+      "official_language": "French Language",
+      "form_of_government": [
+        "Republic",
+        "Military dictatorship",
+        "Military junta"
+      ],
+      "currency_used": "Guinean franc",
+      "population": 10069000,
+      "gdp_nominal": 4454000000.0,
+      "area": 245857.0,
+      "date_founded": "1958-10-02"
+    },
+    "/en/guinea-bissau": {
+      "name": "Guinea-Bissau",
+      "official_language": "Portuguese Language",
+      "form_of_government": [
+        "Republic",
+        "Semi-presidential system"
+      ],
+      "currency_used": "CFA franc",
+      "population": 1611000,
+      "gdp_nominal": 442000000.0,
+      "area": 36544.0,
+      "date_founded": "1973-09-24"
+    },
+    "/en/hungary": {
+      "name": "Hungary",
+      "official_language": "Hungarian",
+      "form_of_government": [
+        "Republic",
+        "Parliamentary republic"
+      ],
+      "currency_used": "Hungarian forint",
+      "population": 10029900,
+      "gdp_nominal": 164300000000.0,
+      "area": 93030.0
+    },
+    "/en/haiti": {
+      "name": "Haiti",
+      "official_language": "Haitian Creole French Language",
+      "form_of_government": [
+        "Presidential system",
+        "Parliamentary republic"
+      ],
+      "currency_used": "Haitian gourde",
+      "population": 10033000,
+      "gdp_nominal": 6966000000.0,
+      "area": 27751.0,
+      "date_founded": "1697"
+    },
+    "/en/honduras": {
+      "name": "Honduras",
+      "official_language": "Spanish Language",
+      "form_of_government": [
+        "Republic",
+        "Presidential system",
+        "Constitutional republic"
+      ],
+      "currency_used": "Honduran lempira",
+      "population": 7466000,
+      "gdp_nominal": 13780000000.0,
+      "area": 112492.0,
+      "date_founded": "1821-09-15"
+    },
+    "/en/iceland": {
+      "name": "Iceland",
+      "official_language": "Icelandic Language",
+      "form_of_government": [
+        "Parliamentary republic"
+      ],
+      "currency_used": "Icelandic kr\u00f3na",
+      "population": 320500,
+      "gdp_nominal": 19020000000.0,
+      "area": 103000.0,
+      "date_founded": "1904-02-01"
+    },
+    "/en/italy": {
+      "name": "Italy",
+      "official_language": "Italian Language",
+      "form_of_government": [
+        "Parliamentary republic"
+      ],
+      "currency_used": "Euro",
+      "population": 60090400,
+      "gdp_nominal": 2399000000000.0,
+      "area": 301338.0,
+      "date_founded": "1861-03-17"
+    },
+    "/en/india": {
+      "name": "India",
+      "official_language": "Hindi Language",
+      "form_of_government": [
+        "Democracy",
+        "Parliamentary system",
+        "Federal republic",
+        "Republic"
+      ],
+      "currency_used": "Indian rupee",
+      "population": 1161240000,
+      "gdp_nominal": 1237000000000.0,
+      "area": 3287590.0,
+      "date_founded": "1947-08-15"
+    },
+    "/en/republic_of_ireland": {
+      "name": "Republic of Ireland",
+      "official_language": "Irish",
+      "form_of_government": [
+        "Parliamentary system",
+        "Republic",
+        "Democracy",
+        "Constitutional republic"
+      ],
+      "currency_used": "Euro",
+      "population": 4517800,
+      "gdp_nominal": 285000000000.0,
+      "area": 70273.0,
+      "date_founded": "1916-04-24"
+    },
+    "/en/indonesia": {
+      "name": "Indonesia",
+      "official_language": "Indonesian Language",
+      "form_of_government": [
+        "Presidential system"
+      ],
+      "currency_used": "Indonesian rupiah",
+      "population": 229850000,
+      "gdp_nominal": 496800000000.0,
+      "area": 1919440.0,
+      "date_founded": "1945-08-17"
+    },
+    "/en/iran": {
+      "name": "Iran",
+      "official_language": "Persian language",
+      "form_of_government": [
+        "Dictatorship",
+        "Theocracy",
+        "Islamic republic"
+      ],
+      "currency_used": "Iranian rial",
+      "population": 65397521,
+      "gdp_nominal": 382300000000.0,
+      "area": 1648000.0
+    },
+    "/en/israel": {
+      "name": "Israel",
+      "official_language": "Arabic language",
+      "form_of_government": [
+        "Parliamentary system",
+        "Republic"
+      ],
+      "currency_used": "Israeli new sheqel",
+      "population": 7382200,
+      "gdp_nominal": 188700000000.0,
+      "area": 20770.0,
+      "date_founded": "1948-05-14"
+    },
+    "/en/isle_of_man": {
+      "name": "Isle of Man",
+      "official_language": "English Language",
+      "form_of_government": [
+        "Parliamentary system",
+        "Constitutional monarchy"
+      ],
+      "currency_used": "UK \u00a3",
+      "population": 80000,
+      "gdp_nominal": 2719000000.0,
+      "area": 572.0,
+      "date_founded": "1765"
+    },
+    "/en/japan": {
+      "name": "Japan",
+      "official_language": "Japanese Language",
+      "form_of_government": [
+        "Constitutional monarchy",
+        "Parliamentary system",
+        "Monarchy"
+      ],
+      "currency_used": "Yen \u00a5",
+      "population": 127630000,
+      "gdp_nominal": 4844000000000.0,
+      "area": 377873.0
+    },
+    "/en/jamaica": {
+      "name": "Jamaica",
+      "official_language": "English Language",
+      "form_of_government": [
+        "Parliamentary system",
+        "Constitutional monarchy"
+      ],
+      "currency_used": "Jamaican dollar",
+      "population": 2719000,
+      "gdp_nominal": 13470000000.0,
+      "area": 10991.0,
+      "date_founded": "1962-08-06"
+    },
+    "/en/jersey": {
+      "name": "Jersey",
+      "official_language": "English Language",
+      "form_of_government": [
+        "Parliamentary system",
+        "Constitutional monarchy"
+      ],
+      "currency_used": "UK \u00a3",
+      "population": 91321,
+      "gdp_nominal": 5100000000.0,
+      "area": 116.0,
+      "date_founded": "1204"
+    },
+    "/en/jordan": {
+      "name": "Jordan",
+      "official_language": "Arabic language",
+      "form_of_government": [
+        "Constitutional monarchy",
+        "Monarchy"
+      ],
+      "currency_used": "Jordanian dinar",
+      "population": 6316000,
+      "gdp_nominal": 19120000000.0,
+      "area": 89342.0,
+      "date_founded": "1946-05-25"
+    },
+    "/en/kazakhstan": {
+      "name": "Kazakhstan",
+      "official_language": "Kazakh Language",
+      "form_of_government": [
+        "Presidential system",
+        "Dictatorship"
+      ],
+      "currency_used": "Kazakhstani tenge",
+      "population": 15571506,
+      "gdp_nominal": 141200000000.0,
+      "area": 2724900.0
+    },
+    "/en/kiribati": {
+      "name": "Kiribati",
+      "official_language": "Kiribati Language",
+      "form_of_government": [
+        "Republic"
+      ],
+      "currency_used": "Kiribati dollar",
+      "population": 98000,
+      "gdp_nominal": 67000000.0,
+      "area": 726.0,
+      "date_founded": "1979-07-12"
+    },
+    "/en/kuwait": {
+      "name": "Kuwait",
+      "official_language": "Arabic language",
+      "form_of_government": [
+        "Constitution",
+        "Monarchy",
+        "Constitutional monarchy"
+      ],
+      "currency_used": "Kuwaiti dinar",
+      "population": 2985000,
+      "gdp_nominal": 159700000000.0,
+      "area": 17818.0,
+      "date_founded": "1961-06-19"
+    },
+    "/en/kingdom_of_the_netherlands": {
+      "name": "Kingdom of the Netherlands",
+      "official_language": "Dutch Language",
+      "form_of_government": [
+        "Parliamentary system",
+        "Constitutional monarchy",
+        "Democracy"
+      ],
+      "currency_used": "Netherlands Antillean gulden",
+      "population": 16400000,
+      "gdp_nominal": 792000000000.0,
+      "area": 41526.0,
+      "date_founded": "1830-10-04"
+    },
+    "/en/latvia": {
+      "name": "Latvia",
+      "official_language": "Latvian Language",
+      "form_of_government": [
+        "Parliamentary republic"
+      ],
+      "currency_used": "Latvian lats",
+      "population": 2260000,
+      "gdp_nominal": 33900000000.0,
+      "area": 64589.0,
+      "date_founded": "1918-11-18"
+    },
+    "/en/luxembourg": {
+      "name": "Luxembourg",
+      "official_language": "Luxembourgeois Language",
+      "form_of_government": [
+        "Parliamentary system",
+        "Constitutional monarchy",
+        "Monarchy",
+        "Grand duchy"
+      ],
+      "currency_used": "Euro",
+      "population": 491700,
+      "gdp_nominal": 57610000000.0,
+      "area": 2586.4,
+      "date_founded": "1815-06-09"
+    },
+    "/en/libya": {
+      "name": "Libya",
+      "official_language": "Arabic language",
+      "form_of_government": [
+        "Military dictatorship",
+        "Dictatorship",
+        "Jamahiriya",
+        "Military junta"
+      ],
+      "currency_used": "Libyan dinar",
+      "population": 6420000,
+      "gdp_nominal": 108500000000.0,
+      "area": 1759540.0,
+      "date_founded": "1947-02-10"
+    },
+    "/en/lithuania": {
+      "name": "Lithuania",
+      "official_language": "Lithuanian language",
+      "form_of_government": [
+        "Semi-presidential system"
+      ],
+      "currency_used": "Lithuanian litas",
+      "population": 3350400,
+      "gdp_nominal": 48750000000.0,
+      "area": 65200.0,
+      "date_founded": "1009-02-14"
+    },
+    "/en/laos": {
+      "name": "Laos",
+      "official_language": "Lao Language",
+      "form_of_government": [
+        "Socialist Republic",
+        "Communist state",
+        "Single-party state",
+        "Socialist state"
+      ],
+      "currency_used": "Lao kip",
+      "population": 6320000,
+      "gdp_nominal": 5187000000.0,
+      "area": 236800.0,
+      "date_founded": "1949-07-19"
+    },
+    "/en/lebanon": {
+      "name": "Lebanon",
+      "official_language": "Arabic language",
+      "form_of_government": [
+        "Republic",
+        "Parliamentary system",
+        "Parliamentary republic"
+      ],
+      "currency_used": "Lebanese lira",
+      "population": 4224000,
+      "gdp_nominal": 28020000000.0,
+      "area": 10452.0,
+      "date_founded": "1941-11-26"
+    },
+    "/en/lesotho": {
+      "name": "Lesotho",
+      "official_language": "Sotho, Southern Language",
+      "form_of_government": [
+        "Constitutional monarchy",
+        "Parliamentary system"
+      ],
+      "currency_used": "Lesotho loti",
+      "population": 2067000,
+      "gdp_nominal": 1652000000.0,
+      "area": 30355.0,
+      "date_founded": "1966-10-04"
+    },
+    "/en/liberia": {
+      "name": "Liberia",
+      "official_language": "English Language",
+      "form_of_government": [
+        "Republic",
+        "Presidential system"
+      ],
+      "currency_used": "Liberian dollar",
+      "population": 3955000,
+      "gdp_nominal": 926000000.0,
+      "area": 111369.0
+    },
+    "/en/liechtenstein": {
+      "name": "Liechtenstein",
+      "official_language": "German Language",
+      "form_of_government": [
+        "Parliamentary system",
+        "Constitutional monarchy",
+        "Monarchy",
+        "Principality"
+      ],
+      "currency_used": "Swiss franc",
+      "population": 35700,
+      "gdp_nominal": 4993000000.0,
+      "area": 160.4,
+      "date_founded": "1806"
+    },
+    "/en/madagascar": {
+      "name": "Madagascar",
+      "official_language": "Malagasy language",
+      "form_of_government": [
+        "Republic",
+        "Dictatorship"
+      ],
+      "currency_used": "Malagasy ariary",
+      "population": 19625000,
+      "gdp_nominal": 7322000000.0,
+      "area": 587041.0,
+      "date_founded": "1960-06-26"
+    },
+    "/en/malawi": {
+      "name": "Malawi",
+      "official_language": "Nyanja Language",
+      "form_of_government": [
+        "Democracy"
+      ],
+      "currency_used": "Malawian kwacha",
+      "population": 15263000,
+      "gdp_nominal": 4082000000.0,
+      "area": 118484.0,
+      "date_founded": "1964-07-06"
+    },
+    "/en/maldives": {
+      "name": "Maldives",
+      "official_language": "Maldivian Language",
+      "form_of_government": [
+        "Republic",
+        "Presidential system"
+      ],
+      "currency_used": "Maldivian rufiyaa",
+      "population": 309000,
+      "gdp_nominal": 1296000000.0,
+      "area": 298.0,
+      "date_founded": "1965-07-26"
+    },
+    "/en/mali": {
+      "name": "Mali",
+      "official_language": "Bamanankan Language",
+      "form_of_government": [
+        "Republic",
+        "Semi-presidential system"
+      ],
+      "currency_used": "CFA franc",
+      "population": 13010000,
+      "gdp_nominal": 8776000000.0,
+      "area": 1240192.0,
+      "date_founded": "1960-09-22"
+    },
+    "/en/malta": {
+      "name": "Malta",
+      "official_language": "Maltese Language",
+      "form_of_government": [
+        "Parliamentary republic"
+      ],
+      "currency_used": "Euro",
+      "population": 412600,
+      "gdp_nominal": 8584000000.0,
+      "area": 316.0,
+      "date_founded": "1964-09-21"
+    },
+    "/en/marshall_islands": {
+      "name": "Marshall Islands",
+      "official_language": "Marshallese Language",
+      "form_of_government": [
+        "Republic",
+        "Presidential system",
+        "Representative democracy"
+      ],
+      "currency_used": "US$",
+      "population": 62000,
+      "gdp_nominal": 144000000.0,
+      "area": 181.0,
+      "date_founded": "1986-10-21"
+    },
+    "/en/mauritania": {
+      "name": "Mauritania",
+      "official_language": "Arabic language",
+      "form_of_government": [
+        "Military dictatorship",
+        "Republic",
+        "Islamic republic"
+      ],
+      "currency_used": "Mauritanian ouguiya",
+      "population": 3291000,
+      "gdp_nominal": 3625000000.0,
+      "area": 1030700.0,
+      "date_founded": "1960-11-28"
+    },
+    "/en/mauritius": {
+      "name": "Mauritius",
+      "official_language": "English Language",
+      "form_of_government": [
+        "Parliamentary republic"
+      ],
+      "currency_used": "Mauritian rupee",
+      "population": 1288000,
+      "gdp_nominal": 8128000000.0,
+      "area": 2040.0,
+      "date_founded": "1968-03-12"
+    },
+    "/en/mongolia": {
+      "name": "Mongolia",
+      "official_language": "Mongolian language",
+      "form_of_government": [
+        "Parliamentary republic",
+        "Semi-presidential system"
+      ],
+      "currency_used": "Mongolian tugrug",
+      "population": 2671000,
+      "gdp_nominal": 4991000000.0,
+      "area": 1564116.0,
+      "date_founded": "1206"
+    },
+    "/en/morocco": {
+      "name": "Morocco",
+      "official_language": "Arabic language",
+      "form_of_government": [
+        "Constitutional monarchy",
+        "Monarchy"
+      ],
+      "currency_used": "Moroccan dirham",
+      "population": 31394044,
+      "gdp_nominal": 90497000000.0,
+      "area": 446550.0,
+      "date_founded": "1956-03-02"
+    },
+    "/en/mozambique": {
+      "name": "Mozambique",
+      "official_language": "Portuguese Language",
+      "form_of_government": [
+        "Republic",
+        "Presidential system"
+      ],
+      "currency_used": "Mozambican metical",
+      "population": 39100000,
+      "gdp_nominal": 9788000000.0,
+      "area": 801590.0,
+      "date_founded": "1975-06-25"
+    },
+    "/en/myanmar": {
+      "name": "Myanmar",
+      "official_language": "Burmese Language",
+      "form_of_government": [
+        "Military dictatorship",
+        "Dictatorship",
+        "Military junta"
+      ],
+      "currency_used": "Myanma kyat",
+      "population": 50020000,
+      "gdp_nominal": 13700000000.0,
+      "area": 676578.0,
+      "date_founded": "1044"
+    },
+    "/en/montenegro": {
+      "name": "Montenegro",
+      "official_language": "Serbian language",
+      "form_of_government": [
+        "Semi-presidential system",
+        "Republic",
+        "Parliamentary republic"
+      ],
+      "currency_used": "Euro",
+      "population": 624000,
+      "gdp_nominal": 4515000000.0,
+      "area": 13812.0,
+      "date_founded": "1484"
+    },
+    "/en/netherlands": {
+      "name": "Netherlands",
+      "official_language": "Dutch Language",
+      "form_of_government": [
+        "Parliamentary system",
+        "Constitutional monarchy",
+        "Monarchy"
+      ],
+      "currency_used": "Euro",
+      "population": 16492476,
+      "gdp_nominal": 909500000000.0,
+      "area": 41526.0,
+      "date_founded": "1581-07-26"
+    },
+    "/en/niue": {
+      "name": "Niue",
+      "official_language": "Niue Language",
+      "form_of_government": [
+        "Constitutional monarchy"
+      ],
+      "currency_used": "New Zealand dollar",
+      "population": 1500,
+      "gdp_nominal": 10010000.0,
+      "area": 260.0,
+      "date_founded": "1974-10-19"
+    },
+    "/en/norway": {
+      "name": "Norway",
+      "official_language": "Nynorsk",
+      "form_of_government": [
+        "Parliamentary system",
+        "Constitutional monarchy",
+        "Monarchy"
+      ],
+      "currency_used": "Norwegian krone",
+      "population": 4810122,
+      "gdp_nominal": 481100000000.0,
+      "area": 385252.0,
+      "date_founded": "0872"
+    },
+    "/en/north_korea": {
+      "name": "North Korea",
+      "official_language": "Korean Language",
+      "form_of_government": [
+        "Communist state",
+        "Dictatorship",
+        "Socialist state",
+        "Single-party state",
+        "Socialist Republic"
+      ],
+      "currency_used": "North Korean won",
+      "population": 23906000,
+      "gdp_nominal": 26200000000.0,
+      "area": 120540.0,
+      "date_founded": "1919-03-01"
+    },
+    "/en/namibia": {
+      "name": "Namibia",
+      "official_language": "English Language",
+      "form_of_government": [
+        "Republic"
+      ],
+      "currency_used": "Namibian dollar",
+      "population": 2171000,
+      "gdp_nominal": 7781000000.0,
+      "area": 825418.0,
+      "date_founded": "1990-03-21"
+    },
+    "/en/nicaragua": {
+      "name": "Nicaragua",
+      "official_language": "Spanish Language",
+      "form_of_government": [
+        "Presidential system",
+        "Republic"
+      ],
+      "currency_used": "Nicaraguan c\u00f3rdoba",
+      "population": 5743000,
+      "gdp_nominal": 6561000000.0,
+      "area": 129494.0,
+      "date_founded": "1821-09-15"
+    },
+    "/en/niger": {
+      "name": "Niger",
+      "official_language": "Hausa Language",
+      "form_of_government": [
+        "Parliamentary system",
+        "Presidential system",
+        "Military junta"
+      ],
+      "currency_used": "CFA franc",
+      "population": 15290000,
+      "gdp_nominal": 5322000000.0,
+      "area": 1267000.0,
+      "date_founded": "1960-08-03"
+    },
+    "/en/nigeria": {
+      "name": "Nigeria",
+      "official_language": "English Language",
+      "form_of_government": [
+        "Federal republic",
+        "Presidential system"
+      ],
+      "currency_used": "Nigerian naira",
+      "population": 154729000,
+      "gdp_nominal": 220300000000.0,
+      "area": 923768.0,
+      "date_founded": "1960-10-01"
+    },
+    "/en/northern_mariana_islands": {
+      "name": "Northern Mariana Islands",
+      "official_language": "Chamorro Language",
+      "form_of_government": [
+        "Presidential system",
+        "Representative democracy"
+      ],
+      "currency_used": "US$",
+      "population": 87000,
+      "gdp_nominal": 633400000.0,
+      "area": 477.0,
+      "date_founded": "1975"
+    },
+    "/en/oman": {
+      "name": "Oman",
+      "official_language": "Arabic language",
+      "form_of_government": [
+        "Constitutional monarchy",
+        "Monarchy",
+        "Absolute monarchy"
+      ],
+      "currency_used": "Omani rial",
+      "population": 2845000,
+      "gdp_nominal": 56320000000.0,
+      "area": 309500.0,
+      "date_founded": "1651"
+    },
+    "/en/poland": {
+      "name": "Poland",
+      "official_language": "Polish Language",
+      "form_of_government": [
+        "Democracy",
+        "Parliamentary republic"
+      ],
+      "currency_used": "Poland zloty",
+      "population": 38130300,
+      "gdp_nominal": 567400000000.0,
+      "area": 312679.0
+    },
+    "/en/papua_new_guinea": {
+      "name": "Papua New Guinea",
+      "official_language": "Hiri Motu language",
+      "form_of_government": [
+        "Constitutional monarchy",
+        "Parliamentary system"
+      ],
+      "currency_used": "Papua New Guinean kina",
+      "population": 6732000,
+      "gdp_nominal": 6363000000.0,
+      "area": 462840.0,
+      "date_founded": "1973-12-01"
+    },
+    "/en/panama": {
+      "name": "Panama",
+      "official_language": "Spanish Language",
+      "form_of_government": [
+        "Constitutional democracy"
+      ],
+      "currency_used": "Panamanian balboa",
+      "population": 3454000,
+      "gdp_nominal": 23420000000.0,
+      "area": 75517.0,
+      "date_founded": "1821-11-28"
+    },
+    "/en/portugal": {
+      "name": "Portugal",
+      "official_language": "Portuguese Language",
+      "form_of_government": [
+        "Parliamentary system",
+        "Parliamentary republic"
+      ],
+      "currency_used": "Euro",
+      "population": 10631800,
+      "gdp_nominal": 255500000000.0,
+      "area": 92345.0,
+      "date_founded": "1128-07-24"
+    },
+    "/en/pakistan": {
+      "name": "Pakistan",
+      "official_language": "English Language",
+      "form_of_government": [
+        "Parliamentary Democracy",
+        "Democracy",
+        "Republic",
+        "Federal republic",
+        "Semi-presidential system",
+        "Islamic republic",
+        "Federation",
+        "Parliamentary republic",
+        "Parliamentary system"
+      ],
+      "currency_used": "Pakistani rupee",
+      "population": 165899500,
+      "gdp_nominal": 160900000000.0,
+      "area": 803940.0
+    },
+    "/en/palau": {
+      "name": "Palau",
+      "official_language": "Japanese Language",
+      "form_of_government": [
+        "Republic",
+        "Presidential system",
+        "Representative democracy"
+      ],
+      "currency_used": "US$",
+      "population": 20000,
+      "gdp_nominal": 164000000.0,
+      "area": 459.0,
+      "date_founded": "1994-10-01"
+    },
+    "/en/paraguay": {
+      "name": "Paraguay",
+      "official_language": "Paraguayan Guaran\u00ed",
+      "form_of_government": [
+        "Republic",
+        "Presidential system",
+        "Constitutional republic"
+      ],
+      "currency_used": "Paraguayan guaran\u00ed",
+      "population": 6349000,
+      "gdp_nominal": 16360000000.0,
+      "area": 406752.0,
+      "date_founded": "1811-05-14"
+    },
+    "/en/philippines": {
+      "name": "Philippines",
+      "official_language": "Filipino language",
+      "form_of_government": [
+        "Republic",
+        "Presidential system",
+        "Constitutional republic"
+      ],
+      "currency_used": "Philippine peso",
+      "population": 92226600,
+      "gdp_nominal": 172300000000.0,
+      "area": 300000.0,
+      "date_founded": "1521-03-16"
+    },
+    "/en/qatar": {
+      "name": "Qatar",
+      "official_language": "Arabic language",
+      "form_of_government": [
+        "Constitutional monarchy",
+        "Monarchy",
+        "Absolute monarchy"
+      ],
+      "currency_used": "Qatari riyal",
+      "population": 1409000,
+      "gdp_nominal": 116900000000.0,
+      "area": 11437.0,
+      "date_founded": "1971-09-03"
+    },
+    "/en/russia": {
+      "name": "Russia",
+      "official_language": "Russian Language",
+      "form_of_government": [
+        "Republic",
+        "Semi-presidential system",
+        "Presidential system"
+      ],
+      "currency_used": "Russian ruble",
+      "population": 141850000,
+      "gdp_nominal": 1757000000000.0,
+      "area": 17075400.0
+    },
+    "/en/romania": {
+      "name": "Romania",
+      "official_language": "Romanian Language",
+      "form_of_government": [
+        "Semi-presidential system",
+        "Republic"
+      ],
+      "currency_used": "Romanian leu",
+      "population": 21496700,
+      "gdp_nominal": 213900000000.0,
+      "area": 238391.0,
+      "date_founded": "1290"
+    },
+    "/en/rwanda": {
+      "name": "Rwanda",
+      "official_language": "Rwanda Language",
+      "form_of_government": [
+        "Republic",
+        "Dictatorship"
+      ],
+      "currency_used": "Rwandan franc",
+      "population": 9998000,
+      "gdp_nominal": 4027000000.0,
+      "area": 26798.0,
+      "date_founded": "1962-07-01"
+    },
+    "/en/republic_of_china": {
+      "name": "Republic of China",
+      "official_language": "Taiwanese Mandarin",
+      "form_of_government": [
+        "Semi-presidential system",
+        "Republic",
+        "Government in exile"
+      ],
+      "currency_used": "New Taiwan dollar",
+      "population": 23027672,
+      "gdp_nominal": 393200000000.0,
+      "area": 36188.0,
+      "date_founded": "1911-10-10"
+    },
+    "/en/spain": {
+      "name": "Spain",
+      "official_language": "Spanish Language",
+      "form_of_government": [
+        "Constitutional monarchy",
+        "Parliamentary system",
+        "Monarchy"
+      ],
+      "currency_used": "Euro",
+      "population": 45853000,
+      "gdp_nominal": 1683000000000.0,
+      "area": 504030.0
+    },
+    "/en/switzerland": {
+      "name": "Switzerland",
+      "official_language": "Romansch Language",
+      "form_of_government": [
+        "Federal republic",
+        "Direct democracy",
+        "Parliamentary republic",
+        "Parliamentary system",
+        "Federation"
+      ],
+      "currency_used": "Swiss franc",
+      "population": 7700200,
+      "gdp_nominal": 492600000000.0,
+      "area": 41290.0,
+      "date_founded": "1291"
+    },
+    "/en/sri_lanka": {
+      "name": "Sri Lanka",
+      "official_language": "Tamil Language",
+      "form_of_government": [
+        "Republic"
+      ],
+      "currency_used": "Sri Lankan rupee",
+      "population": 20238000,
+      "gdp_nominal": 42160000000.0,
+      "area": 65610.0,
+      "date_founded": "1948-02-04"
+    },
+    "/en/suriname": {
+      "name": "Suriname",
+      "official_language": "Dutch Language",
+      "form_of_government": [
+        "Constitutional democracy"
+      ],
+      "currency_used": "Suriname dollar",
+      "population": 520000,
+      "gdp_nominal": 2984000000.0,
+      "area": 163821.0,
+      "date_founded": "1975-11-25"
+    },
+    "/en/slovakia": {
+      "name": "Slovakia",
+      "official_language": "Slovak Language",
+      "form_of_government": [
+        "Parliamentary republic"
+      ],
+      "currency_used": "Slovak koruna",
+      "population": 5411100,
+      "gdp_nominal": 100600000000.0,
+      "area": 49035.0,
+      "date_founded": "1918-10-28"
+    },
+    "/en/south_korea": {
+      "name": "South Korea",
+      "official_language": "Korean Language",
+      "form_of_government": [
+        "Republic",
+        "Presidential system",
+        "Semi-presidential system"
+      ],
+      "currency_used": "South Korean won \u20a9",
+      "population": 48333000,
+      "gdp_nominal": 857500000000.0,
+      "area": 100032.0
+    },
+    "/en/saint_kitts_and_nevis": {
+      "name": "Saint Kitts and Nevis",
+      "official_language": "English Language",
+      "form_of_government": [
+        "Parliamentary system",
+        "Constitutional monarchy"
+      ],
+      "currency_used": "East Caribbean dollar",
+      "population": 52000,
+      "gdp_nominal": 559000000.0,
+      "area": 261.0,
+      "date_founded": "1983-09-19"
+    },
+    "/en/saint_lucia": {
+      "name": "Saint Lucia",
+      "official_language": "Antillean Creole",
+      "form_of_government": [
+        "Parliamentary system",
+        "Constitutional monarchy"
+      ],
+      "currency_used": "East Caribbean dollar",
+      "population": 172000,
+      "gdp_nominal": 1031000000.0,
+      "area": 620.0,
+      "date_founded": "1979-02-22"
+    },
+    "/en/saint_vincent_and_the_grenadines": {
+      "name": "Saint Vincent and the Grenadines",
+      "official_language": "English Language",
+      "form_of_government": [
+        "Parliamentary system",
+        "Constitutional monarchy"
+      ],
+      "currency_used": "East Caribbean dollar",
+      "population": 109000,
+      "gdp_nominal": 597000000.0,
+      "area": 389.0,
+      "date_founded": "1979-10-27"
+    },
+    "/en/samoa": {
+      "name": "Samoa",
+      "official_language": "Samoan Language",
+      "form_of_government": [
+        "Monarchy",
+        "Parliamentary republic",
+        "Constitutional monarchy",
+        "Parliamentary system"
+      ],
+      "currency_used": "Samoan tala",
+      "population": 179000,
+      "gdp_nominal": 537000000.0,
+      "area": 2831.0,
+      "date_founded": "1962-01-01"
+    },
+    "/en/san_marino": {
+      "name": "San Marino",
+      "official_language": "Italian Language",
+      "form_of_government": [
+        "Parliamentary republic"
+      ],
+      "currency_used": "Euro",
+      "population": 30800,
+      "gdp_nominal": 1048000000.0,
+      "area": 61.0
+    },
+    "/en/senegal": {
+      "name": "Senegal",
+      "official_language": "French Language",
+      "form_of_government": [
+        "Semi-presidential system"
+      ],
+      "currency_used": "CFA franc",
+      "population": 12534000,
+      "gdp_nominal": 13900000000.0,
+      "area": 196723.0,
+      "date_founded": "1960-08-20"
+    },
+    "/en/seychelles": {
+      "name": "Seychelles",
+      "official_language": "English Language",
+      "form_of_government": [
+        "Republic"
+      ],
+      "currency_used": "Seychelles rupee",
+      "population": 84000,
+      "gdp_nominal": 779000000.0,
+      "area": 451.0,
+      "date_founded": "1976-06-29"
+    },
+    "/en/sierra_leone": {
+      "name": "Sierra Leone",
+      "official_language": "English Language",
+      "form_of_government": [
+        "Republic",
+        "Constitutional democracy",
+        "Constitutional republic"
+      ],
+      "currency_used": "Sierra Leonean leone",
+      "population": 5696000,
+      "gdp_nominal": 1971000000.0,
+      "area": 71740.0,
+      "date_founded": "1961-04-27"
+    },
+    "/en/singapore": {
+      "name": "Singapore",
+      "official_language": "Tamil Language",
+      "form_of_government": [
+        "Parliamentary republic"
+      ],
+      "currency_used": "Singapore dollar",
+      "population": 4839400,
+      "gdp_nominal": 192800000000.0,
+      "area": 704.0,
+      "date_founded": "1819-01-29"
+    },
+    "/en/slovenia": {
+      "name": "Slovenia",
+      "official_language": "Slovenian language",
+      "form_of_government": [
+        "Parliamentary republic"
+      ],
+      "currency_used": "Euro",
+      "population": 2053355,
+      "gdp_nominal": 57010000000.0,
+      "area": 20273.0,
+      "date_founded": "1991-06-25"
+    },
+    "/en/somalia": {
+      "name": "Somalia",
+      "official_language": "Somali Language",
+      "form_of_government": [
+        "Semi-presidential system",
+        "Republic"
+      ],
+      "currency_used": "Somali shilling",
+      "population": 9133000,
+      "gdp_nominal": 2600000000.0,
+      "area": 637661.0,
+      "date_founded": "1960-06-26"
+    },
+    "/en/sudan": {
+      "name": "Sudan",
+      "official_language": "Arabic language",
+      "form_of_government": [
+        "Coalition",
+        "Republic",
+        "Democracy",
+        "Dictatorship",
+        "Representative democracy",
+        "Presidential system",
+        "Federal republic"
+      ],
+      "currency_used": "Sudanese pound",
+      "population": 42272000,
+      "gdp_nominal": 62190000000.0,
+      "area": 2505813.0,
+      "date_founded": "1956-01-01"
+    },
+    "/en/swaziland": {
+      "name": "Swaziland",
+      "official_language": "Swati Language",
+      "form_of_government": [
+        "Monarchy",
+        "Absolute monarchy"
+      ],
+      "currency_used": "Swazi lilangeni",
+      "population": 1185000,
+      "gdp_nominal": 2968000000.0,
+      "area": 17364.0,
+      "date_founded": "1968-09-06"
+    },
+    "/en/syria": {
+      "name": "Syria",
+      "official_language": "Arabic language",
+      "form_of_government": [
+        "Republic",
+        "Presidential system",
+        "Dictatorship",
+        "Single-party state"
+      ],
+      "currency_used": "Syrian pound",
+      "population": 21906000,
+      "gdp_nominal": 44490000000.0,
+      "area": 185180.0,
+      "date_founded": "1961-09-28"
+    },
+    "/en/serbia": {
+      "name": "Serbia",
+      "official_language": "Serbian language",
+      "form_of_government": [
+        "Parliamentary system",
+        "Parliamentary republic"
+      ],
+      "currency_used": "Serbian dinar",
+      "population": 9850000,
+      "gdp_nominal": 52180000000.0,
+      "area": 88361.0,
+      "date_founded": "1345"
+    },
+    "/en/tajikistan": {
+      "name": "Tajikistan",
+      "official_language": "Persian language",
+      "form_of_government": [
+        "Presidential system"
+      ],
+      "currency_used": "Tajikistani somoni",
+      "population": 6952000,
+      "gdp_nominal": 4788000000.0,
+      "area": 143100.0
+    },
+    "/en/tanzania": {
+      "name": "Tanzania",
+      "official_language": "Swahili Language",
+      "form_of_government": [
+        "Republic"
+      ],
+      "currency_used": "East African shilling",
+      "population": 43739000,
+      "gdp_nominal": 20630000000.0,
+      "area": 945203.0,
+      "date_founded": "1961-12-09"
+    },
+    "/en/thailand": {
+      "name": "Thailand",
+      "official_language": "Thai Language",
+      "form_of_government": [
+        "Parliamentary system",
+        "Constitutional monarchy",
+        "Monarchy"
+      ],
+      "currency_used": "Thai baht",
+      "population": 63389730,
+      "gdp_nominal": 272100000000.0,
+      "area": 513115.0,
+      "date_founded": "1238"
+    },
+    "/en/togo": {
+      "name": "Togo",
+      "official_language": "French Language",
+      "form_of_government": [
+        "Republic"
+      ],
+      "currency_used": "CFA franc",
+      "population": 6619000,
+      "gdp_nominal": 3009000000.0,
+      "area": 56785.0,
+      "date_founded": "1960-04-27"
+    },
+    "/en/tonga": {
+      "name": "Tonga",
+      "official_language": "Tongan Language",
+      "form_of_government": [
+        "Monarchy",
+        "Constitutional monarchy"
+      ],
+      "currency_used": "Tongan pa'anga",
+      "population": 104000,
+      "gdp_nominal": 258000000.0,
+      "area": 748.0,
+      "date_founded": "1970-06-04"
+    },
+    "/en/tunisia": {
+      "name": "Tunisia",
+      "official_language": "Arabic language",
+      "form_of_government": [
+        "Republic",
+        "Dictatorship"
+      ],
+      "currency_used": "Tunisian dinar",
+      "population": 10327800,
+      "gdp_nominal": 41770000000.0,
+      "area": 163610.0,
+      "date_founded": "1956-03-20"
+    },
+    "/en/tuvalu": {
+      "name": "Tuvalu",
+      "official_language": "Tuvaluan Language",
+      "form_of_government": [
+        "Constitutional monarchy",
+        "Parliamentary system",
+        "Representative democracy"
+      ],
+      "currency_used": "Tuvaluan dollar",
+      "population": 10000,
+      "gdp_nominal": 15000000000.0,
+      "area": 26.0,
+      "date_founded": "1978-10-01"
+    },
+    "/en/united_kingdom": {
+      "name": "United Kingdom",
+      "official_language": "English Language",
+      "form_of_government": [
+        "Parliamentary system",
+        "Constitutional monarchy"
+      ],
+      "currency_used": "UK \u00a3",
+      "population": 61612300,
+      "gdp_nominal": 2787000000000.0,
+      "area": 244820.0,
+      "date_founded": "1707-05-01"
+    },
+    "/en/ukraine": {
+      "name": "Ukraine",
+      "official_language": "Ukrainian Language",
+      "form_of_government": [
+        "Republic",
+        "Semi-presidential system",
+        "Parliamentary system"
+      ],
+      "currency_used": "Ukrainian Hrivna",
+      "population": 46143700,
+      "gdp_nominal": 198000000000.0,
+      "area": 603628.0,
+      "date_founded": "1991-08-24"
+    },
+    "/en/uganda": {
+      "name": "Uganda",
+      "official_language": "Swahili Language",
+      "form_of_government": [
+        "Democracy",
+        "Republic"
+      ],
+      "currency_used": "Ugandan shilling",
+      "population": 32710000,
+      "gdp_nominal": 15040000000.0,
+      "area": 236040.0,
+      "date_founded": "1962-10-09"
+    },
+    "/en/uruguay": {
+      "name": "Uruguay",
+      "official_language": "Spanish Language",
+      "form_of_government": [
+        "Republic",
+        "Presidential system"
+      ],
+      "currency_used": "Uruguayan peso",
+      "population": 3361000,
+      "gdp_nominal": 28350000000.0,
+      "area": 176.215,
+      "date_founded": "1825-08-25"
+    },
+    "/en/uzbekistan": {
+      "name": "Uzbekistan",
+      "official_language": "Uzbek language",
+      "form_of_government": [
+        "Republic",
+        "Presidential system",
+        "Dictatorship"
+      ],
+      "currency_used": "Uzbekistani som",
+      "population": 27488000,
+      "gdp_nominal": 26620000000.0,
+      "area": 447400.0
+    },
+    "/en/venezuela": {
+      "name": "Venezuela",
+      "official_language": "Spanish Language",
+      "form_of_government": [
+        "Presidential system",
+        "Federal republic",
+        "Republic"
+      ],
+      "currency_used": "Venezuelan bol\u00edvar",
+      "population": 28685400,
+      "gdp_nominal": 331800000000.0,
+      "area": 916445.0,
+      "date_founded": "1811-07-05"
+    },
+    "/en/vanuatu": {
+      "name": "Vanuatu",
+      "official_language": "Bislama Language",
+      "form_of_government": [
+        "Republic",
+        "Parliamentary republic"
+      ],
+      "currency_used": "Vanuatu vatu",
+      "population": 240000,
+      "gdp_nominal": 560000000.0,
+      "area": 12189.0,
+      "date_founded": "1980-07-30"
+    },
+    "/en/zimbabwe": {
+      "name": "Zimbabwe",
+      "official_language": "English Language",
+      "form_of_government": [
+        "Parliamentary system",
+        "Republic",
+        "Presidential system",
+        "Semi-presidential system",
+        "Parliamentary republic",
+        "Dictatorship"
+      ],
+      "currency_used": "US$",
+      "population": 12523000,
+      "gdp_nominal": 4548000000.0,
+      "area": 390757.0,
+      "date_founded": "1980-04-18"
+    },
+    "/en/zambia": {
+      "name": "Zambia",
+      "official_language": "English Language",
+      "form_of_government": [
+        "Republic"
+      ],
+      "currency_used": "Zambian kwacha",
+      "population": 12935000,
+      "gdp_nominal": 15230000000.0,
+      "area": 752618.0,
+      "date_founded": "1964-10-24"
+    },
+    "/en/democratic_republic_of_the_congo": {
+      "name": "Democratic Republic of the Congo",
+      "official_language": "Lingala Language",
+      "form_of_government": [
+        "Semi-presidential system",
+        "Republic"
+      ],
+      "currency_used": "Congolese franc",
+      "population": 66020000,
+      "gdp_nominal": 12960000000.0,
+      "area": 2344858.0,
+      "date_founded": "1960-06-30"
+    },
+    "/en/republic_of_macedonia": {
+      "name": "Republic of Macedonia",
+      "official_language": "Macedonian Language",
+      "form_of_government": [
+        "Parliamentary republic"
+      ],
+      "currency_used": "Macedonian denar",
+      "population": 2048900,
+      "gdp_nominal": 9624000000.0,
+      "area": 25713.0,
+      "date_founded": "1991-09-08"
+    },
+    "/authority/iso/3166-1/numeric/268": {
+      "name": "Georgia",
+      "official_language": "Georgian Language",
+      "form_of_government": [
+        "Semi-presidential system",
+        "Republic"
+      ],
+      "currency_used": "Georgian lari",
+      "population": 4382100,
+      "gdp_nominal": 13280000000.0,
+      "area": 69700.0,
+      "date_founded": "1008"
+    },
+    "/en/cote_divoire": {
+      "name": "C\u00f4te d'Ivoire",
+      "official_language": "French Language",
+      "form_of_government": [
+        "Republic"
+      ],
+      "currency_used": "West African CFA franc",
+      "population": 21075000,
+      "gdp_nominal": 23780000000.0,
+      "area": 322460.0,
+      "date_founded": "1960-08-07"
+    },
+    "/en/the_gambia": {
+      "name": "The Gambia",
+      "official_language": "English Language",
+      "form_of_government": [
+        "Republic"
+      ],
+      "currency_used": "Gambian dalasi",
+      "population": 1705000,
+      "gdp_nominal": 779000000.0,
+      "area": 10380.0,
+      "date_founded": "1965-02-18"
+    },
+    "/en/south_africa": {
+      "name": "South Africa",
+      "official_language": "Zulu Language",
+      "form_of_government": [
+        "Presidential system",
+        "Republic",
+        "Parliamentary system",
+        "Constitution",
+        "Democracy"
+      ],
+      "currency_used": "South African rand",
+      "population": 48697000,
+      "gdp_nominal": 300400000000.0,
+      "area": 1221037.0,
+      "date_founded": "1910-05-31"
+    },
+    "/en/united_arab_emirates": {
+      "name": "United Arab Emirates",
+      "official_language": "Arabic language",
+      "form_of_government": [
+        "Monarchy",
+        "Absolute monarchy"
+      ],
+      "currency_used": "United Arab Emirates dirham",
+      "population": 4599000,
+      "gdp_nominal": 270000000000.0,
+      "area": 83600.0,
+      "date_founded": "1971-12-02"
+    },
+    "/en/sao_tome_and_principe": {
+      "name": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+      "official_language": "Portuguese Language",
+      "form_of_government": [
+        "Republic",
+        "Semi-presidential system",
+        "Representative democracy"
+      ],
+      "currency_used": "S\u00e3o Tom\u00e9 and Pr\u00edncipe dobra",
+      "population": 163000,
+      "gdp_nominal": 160000000.0,
+      "area": 964.0,
+      "date_founded": "1975-07-12"
+    },
+    "/en/denmark": {
+      "name": "Denmark",
+      "official_language": "Danish Language",
+      "form_of_government": [
+        "Constitutional monarchy",
+        "Parliamentary system",
+        "Monarchy"
+      ],
+      "currency_used": "Danish krone",
+      "population": 5511451,
+      "gdp_nominal": 369600000000.0,
+      "area": 43094.0
+    },
+    "/en/kyrgyzstan": {
+      "name": "Kyrgyzstan",
+      "official_language": "Russian Language",
+      "form_of_government": [
+        "Republic",
+        "Presidential system"
+      ],
+      "currency_used": "Kyrgyzstani som",
+      "population": 5482000,
+      "gdp_nominal": 5050000000.0,
+      "area": 199900.0,
+      "date_founded": "1991-08-31"
+    },
+    "/en/peru": {
+      "name": "Peru",
+      "official_language": "Aymara language",
+      "form_of_government": [
+        "Republic",
+        "Presidential system"
+      ],
+      "currency_used": "Peruvian libra",
+      "population": 29165000,
+      "gdp_nominal": 131400000000.0,
+      "area": 1285220.0,
+      "date_founded": "1821-07-28"
+    },
+    "/en/nepal": {
+      "name": "Nepal",
+      "official_language": "Nepali Language",
+      "form_of_government": [
+        "Republic",
+        "Federal republic"
+      ],
+      "currency_used": "Nepalese rupee",
+      "population": 29331000,
+      "gdp_nominal": 12640000000.0,
+      "area": 147181.0,
+      "date_founded": "2007-12-28"
+    },
+    "/en/ethiopia": {
+      "name": "Ethiopia",
+      "official_language": "Amharic Language",
+      "form_of_government": [
+        "Federal republic",
+        "Parliamentary republic",
+        "Dictatorship"
+      ],
+      "currency_used": "Ethiopian birr",
+      "population": 79221000,
+      "gdp_nominal": 25080000000.0,
+      "area": 1104300.0,
+      "date_founded": "-0979"
+    },
+    "/en/kenya": {
+      "name": "Kenya",
+      "official_language": "Swahili Language",
+      "form_of_government": [
+        "Republic",
+        "Semi-presidential system"
+      ],
+      "currency_used": "Kenya Shilling",
+      "population": 39802000,
+      "gdp_nominal": 31420000000.0,
+      "area": 580367.0,
+      "date_founded": "1963-12-12"
+    },
+    "/en/turkmenistan": {
+      "name": "Turkmenistan",
+      "official_language": "Turkmen Language",
+      "form_of_government": [
+        "Parliamentary republic",
+        "Presidential system",
+        "Dictatorship",
+        "Single-party state"
+      ],
+      "currency_used": "Turkmenistani manat",
+      "population": 5110000,
+      "gdp_nominal": 28820000000.0,
+      "area": 488100.0,
+      "date_founded": "1991-10-27"
+    },
+    "/en/vietnam": {
+      "name": "Vietnam",
+      "official_language": "Vietnamese Language",
+      "form_of_government": [
+        "Communist state",
+        "Dictatorship",
+        "Single-party state",
+        "Socialist state"
+      ],
+      "currency_used": "Vietnamese dong",
+      "population": 88069000,
+      "gdp_nominal": 90880000000.0,
+      "area": 331690.0,
+      "date_founded": "1945-09-02"
+    },
+    "/en/solomon_islands": {
+      "name": "Solomon Islands",
+      "official_language": "English Language",
+      "form_of_government": [
+        "Constitutional monarchy"
+      ],
+      "currency_used": "Solomon Islands dollar",
+      "population": 523000,
+      "gdp_nominal": 460000000.0,
+      "area": 28896.0,
+      "date_founded": "1978-07-07"
+    },
+    "/en/cambodia": {
+      "name": "Cambodia",
+      "official_language": "Khmer language",
+      "form_of_government": [
+        "Constitutional monarchy",
+        "Monarchy",
+        "Parliamentary system",
+        "Representative democracy"
+      ],
+      "currency_used": "Cambodian riel",
+      "population": 13388910,
+      "gdp_nominal": 10820000000.0,
+      "area": 181035.0,
+      "date_founded": "1953-11-09"
+    },
+    "/en/saudi_arabia": {
+      "name": "Saudi Arabia",
+      "official_language": "Arabic language",
+      "form_of_government": [
+        "Absolute monarchy"
+      ],
+      "currency_used": "Saudi riyal",
+      "population": 25721000,
+      "gdp_nominal": 528300000000.0,
+      "area": 2149690.0,
+      "date_founded": "1926-01-08"
+    },
+    "/en/yemen": {
+      "name": "Yemen",
+      "official_language": "Arabic language",
+      "form_of_government": [
+        "Republic",
+        "Presidential system"
+      ],
+      "currency_used": "Yemeni rial",
+      "population": 23580000,
+      "gdp_nominal": 27560000000.0,
+      "area": 527968.0,
+      "date_founded": "1990-05-22"
+    },
+    "/en/turkey": {
+      "name": "Turkey",
+      "official_language": "Turkish Language",
+      "form_of_government": [
+        "Parliamentary republic"
+      ],
+      "currency_used": "Turkish new lira",
+      "population": 71517100,
+      "gdp_nominal": 798900000000.0,
+      "area": 783562.0,
+      "date_founded": "1923-04-23"
+    },
+    "/en/bhutan": {
+      "name": "Bhutan",
+      "official_language": "Dzongkha Language",
+      "form_of_government": [
+        "Constitutional monarchy",
+        "Democracy",
+        "Monarchy",
+        "Parliamentary system"
+      ],
+      "currency_used": "Bhutanese ngultrum",
+      "population": 697000,
+      "gdp_nominal": 1368000000.0,
+      "area": 47000.0,
+      "date_founded": "1907-12-17"
+    },
+    "/en/united_states": {
+      "name": "United States of America",
+      "official_language": "English Language",
+      "form_of_government": [
+        "Federal republic",
+        "Constitution",
+        "Democracy",
+        "Republic",
+        "Presidential system",
+        "Constitutional republic"
+      ],
+      "currency_used": "US$",
+      "population": 306108000,
+      "gdp_nominal": 14330000000000.0,
+      "area": 9826675.0,
+      "date_founded": "1776-07-04"
+    },
+    "/en/trinidad_and_tobago": {
+      "name": "Trinidad and Tobago",
+      "official_language": "Spanish Language",
+      "form_of_government": [
+        "Parliamentary republic"
+      ],
+      "currency_used": "Trinidad and Tobago dollar",
+      "population": 1339000,
+      "gdp_nominal": 24610000000.0,
+      "area": 5128.0,
+      "date_founded": "1962-08-31"
+    },
+    "/en/malaysia": {
+      "name": "Malaysia",
+      "official_language": "Malay Language",
+      "form_of_government": [
+        "Parliamentary system",
+        "Constitutional monarchy",
+        "Monarchy",
+        "Federation"
+      ],
+      "currency_used": "Malaysian ringgit",
+      "population": 28067000,
+      "gdp_nominal": 214700000000.0,
+      "area": 329847.0,
+      "date_founded": "1957-08-31"
+    },
+    "/en/mexico": {
+      "name": "Mexico",
+      "official_language": "Spanish Language",
+      "form_of_government": [
+        "Federal republic",
+        "Constitution",
+        "Democracy",
+        "Presidential system"
+      ],
+      "currency_used": "MX",
+      "population": 109610000,
+      "gdp_nominal": 1143000000000.0,
+      "area": 1972550.0,
+      "date_founded": "1810-09-16"
+    },
+    "/en/australia": {
+      "name": "Australia",
+      "official_language": "English Language",
+      "form_of_government": [
+        "Parliamentary system",
+        "Constitutional monarchy"
+      ],
+      "currency_used": "Australian dollar",
+      "population": 21707964,
+      "gdp_nominal": 1069000000000.0,
+      "area": 7741220.0,
+      "date_founded": "1901-01-01"
+    },
+    "/en/new_zealand": {
+      "name": "New Zealand",
+      "official_language": "Maori Language",
+      "form_of_government": [
+        "Mixed member proportional representation",
+        "Parliamentary system",
+        "Constitutional monarchy"
+      ],
+      "currency_used": "New Zealand dollar",
+      "population": 4302010,
+      "gdp_nominal": 135700000000.0,
+      "area": 268680.0,
+      "date_founded": "1840-02-06"
+    },
+    "/en/cuba": {
+      "name": "Cuba",
+      "official_language": "Spanish Language",
+      "form_of_government": [
+        "Communist state",
+        "Dictatorship",
+        "Single-party state",
+        "Socialist state"
+      ],
+      "currency_used": "Cuban peso",
+      "population": 11204000,
+      "gdp_nominal": 55180000000.0,
+      "area": 110861.0,
+      "date_founded": "1868-10-10"
+    },
+    "/en/iraq": {
+      "name": "Iraq",
+      "official_language": "Kurdish language",
+      "form_of_government": [
+        "Parliamentary republic"
+      ],
+      "currency_used": "Iraqi dinar",
+      "population": 30747000,
+      "gdp_nominal": 93800000000.0,
+      "area": 438317.0,
+      "date_founded": "1919-10-01"
+    },
+    "/en/china": {
+      "name": "China",
+      "official_language": "Chinese language",
+      "form_of_government": [
+        "Communist state",
+        "Dictatorship",
+        "Single-party state"
+      ],
+      "currency_used": "Renminbi",
+      "population": 1335962133,
+      "gdp_nominal": 4222000000000.0,
+      "area": 9598086.0,
+      "date_founded": "1949-10-01"
+    },
+    "/en/canada": {
+      "name": "Canada",
+      "official_language": "English Language",
+      "form_of_government": [
+        "Parliamentary system",
+        "Constitutional monarchy"
+      ],
+      "currency_used": "Canadian dollar",
+      "population": 33598000,
+      "gdp_nominal": 1564000000000.0,
+      "area": 9984670.0,
+      "date_founded": "1867-07-01"
+    },
+    "/en/sweden": {
+      "name": "Sweden",
+      "official_language": "Swedish Language",
+      "form_of_government": [
+        "Parliamentary system",
+        "Constitutional monarchy",
+        "Monarchy"
+      ],
+      "currency_used": "Swedish krona",
+      "population": 9259828,
+      "gdp_nominal": 512900000000.0,
+      "area": 449964.0,
+      "date_founded": "1397"
+    },
+    "/en/france": {
+      "name": "France",
+      "official_language": "French Language",
+      "form_of_government": [
+        "Republic",
+        "Semi-presidential system"
+      ],
+      "currency_used": "Euro",
+      "population": 65073482,
+      "gdp_nominal": 2987000000000.0,
+      "area": 674843.0,
+      "date_founded": "1792"
+    }
+  },
+  "properties": {
+    "name": {
+      "name": "Country Name",
+      "type": "string",
+      "property_key": "name",
+      "value_key": "name",
+      "unique": true
+    },
+    "official_language": {
+      "name": "Official language",
+      "type": "string",
+      "property_key": "official_language",
+      "value_key": "name",
+      "unique": true
+    },
+    "form_of_government": {
+      "name": "Form of governmennt",
+      "type": "string",
+      "property_key": "form_of_government",
+      "value_key": "name",
+      "unique": false
+    },
+    "currency_used": {
+      "name": "Currency used",
+      "type": "string",
+      "property_key": "currency_used",
+      "value_key": "name",
+      "unique": true
+    },
+    "population": {
+      "name": "Population",
+      "type": "number",
+      "property_key": "/location/statistical_region/population",
+      "value_key": "number",
+      "unique": true
+    },
+    "gdp_nominal": {
+      "name": "GDP nominal",
+      "type": "number",
+      "property_key": "/location/statistical_region/gdp_nominal",
+      "value_key": "amount",
+      "unique": true
+    },
+    "area": {
+      "name": "Area",
+      "type": "number",
+      "property_key": "/location/location/area",
+      "unique": true
+    },
+    "date_founded": {
+      "name": "Date founded",
+      "property_key": "/location/dated_location/date_founded",
+      "type": "date",
+      "unqiue": true
+    }
+  }
+}
