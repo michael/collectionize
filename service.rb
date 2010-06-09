@@ -34,7 +34,13 @@ get '/' do
     <li><a href="/countries">Countries</a></li>
     <li><a href="/playlists">Playlists from Last.fm</a> (<a href="/seed_artists.txt">Seed Artists used</a>)</li>
     <li><a href="/github_ecosystems">Github Ecosystems</a> (not ready)</li>
-  </ul>'
+  </ul>
+  
+  <h3>Fixtures (for testing)</h3>
+  <ul>
+    <li><a href="/artists">Artist Similarities</a></li>
+  </ul>  
+  '
 end
 
 get '/update_countries' do
@@ -94,6 +100,11 @@ end
 
 # fetch ecosystems from github
 get '/github_ecosystems' do
+  # TODO: translate ;-)
+  JSON.pretty_generate({})
+end
+
+get '/artists' do
   # TODO: translate ;-)
   JSON.pretty_generate({})
 end

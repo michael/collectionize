@@ -2,6 +2,7 @@ PLAYLIST_PROPERTIES = {
   "name" => {:name => "Playlist Name", :type => "string", :unique => true},
   "artists" => {:name => "Artists", :type => "string", :unique => false},
   "songs" => {:name => "Songs", :type => "string", :unique => false},
+  "genres" => {:name => "Genre", :type => "string", :unique => false},
   "song_count" => {:name => "Song count", :type => "number", :unique => false}
 }
 
@@ -13,17 +14,19 @@ class PlayList
     :api_key => "b25b959554ed76058ac220b7b2e0a026",
     :format => "json"
   }
-  
-  def initialize(options, seed_artists)
+
+  def initialize(options, artist_genres)
     @title = options["title"]
     @date = options["date"]
     
     @artists = []
     @songs = []
+    @genres = []
     options["trackList"]["track"].each do |t|
-      if seed_artists.include?(t["creator"])
+      if artist_genres.has_key?(t["creator"])
         @artists << t["creator"]
         @songs << "#{t["creator"]} - #{t["title"]}"
+        @genres << artist_genres[t["creator"]]
       end
     end
 
@@ -35,21 +38,24 @@ class PlayList
       :name => @title,
       :artists => @artists,
       :songs => @songs,
+      :genres => @genres,
       :song_count => @song_count
     }
   end
   
-  def self.get(playlist_id, seed_artists = [])
+  def self.get(playlist_id, artist_genres = {})
     response = http_request(SERVICE_URI, PARAMS.merge(:method => "playlist.fetch", :playlistURL => "lastfm://playlist/#{playlist_id.to_s}"))
     
     return nil unless JSON.parse(response)["playlist"]
     playlist = JSON.parse(response)["playlist"]
     
     if playlist["trackList"]["track"].kind_of?(Array)
-      pl = PlayList.new(playlist, seed_artists)
+      pl = PlayList.new(playlist, artist_genres)
       return pl.song_count == 0 ? nil : pl
     end
     nil
+  rescue
+    return nil
   end
   
   def self.group_users(group_name)
@@ -62,7 +68,14 @@ class PlayList
     params = PARAMS.merge(:method => "artist.gettopfans", :artist => artist_name)
     
     response = http_request(SERVICE_URI, params)
-    json = JSON.parse(response)
+    
+    begin
+      json = JSON.parse(response)
+    rescue
+      puts response
+      return []
+    end
+    
     users = json["topfans"]["user"].map {|u| u["name"]}
   end
   
@@ -100,19 +113,32 @@ class PlayList
     end
     
     # get seed artists
-    puts "[1] loading seed artists..."
+    puts "[1] loading seed artists and genremappings..."
     seed_artists = []
 
     f = File.open("public/seed_artists.txt", "r")
     f.each_line do |line|
       seed_artists << line.gsub("\n", "")
     end
+    
+    # get seed genres
+    seed_genres = []
+    f = File.open("public/seed_genres.txt", "r")
+    f.each_line do |line|
+      seed_genres << line.gsub("\n", "")
+    end
+    
+    # create artist->genre mapping
+    artist_genres = {}
+    seed_artists.each_with_index do |a, i|
+      artist_genres[a] = seed_genres[i]
+    end
 
     # collect top fans of seed artists
     puts "[2] collecting top fans of seed artists..."
     users = []
     seed_artists.each do |a|
-      users.concat(PlayList.artist_fans(a)[0..5]) # pick top 5 fans
+      users.concat(PlayList.artist_fans(a)[0..3]) # pick top 5 fans
     end
 
     # get playlists of fans
@@ -127,7 +153,7 @@ class PlayList
 
     puts "[3] retrieving tracks for #{playlists.length} playlists"
     playlists.each do |p|
-      pl = PlayList.get(p, seed_artists)
+      pl = PlayList.get(p, artist_genres)
       # only use playlists with at least two songs
       result[:items][p.to_s] = pl.to_hash if pl
       print "."

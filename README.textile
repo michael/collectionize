@@ -15,6 +15,10 @@ h2. Currently available Collections
 * Countries fetched from Freebase.com (_/countries_)
 * Last.fm Playlists (_/playlists_)
 
+Last.fm Playlists are fetched used the following approach:
+
+!http://ma.zive.at/last_fm_data_aggregation.png(Last.fm data aggregation)!
+
 
 h2. Format
 
@@ -84,3 +88,5 @@ Collections have the following format:
 }
 </code>
 </pre>
+
+ 
