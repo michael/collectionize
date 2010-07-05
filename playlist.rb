@@ -20,8 +20,9 @@ class PlayList
     @date = options["date"]
     
     @artists = []
-    @songs = []
-    @genres = []
+    @songs   = []
+    @genres  = []
+    
     options["trackList"]["track"].each do |t|
       if artist_genres.has_key?(t["creator"])
         @artists << t["creator"]
@@ -138,7 +139,7 @@ class PlayList
     puts "[2] collecting top fans of seed artists..."
     users = []
     seed_artists.each do |a|
-      users.concat(PlayList.artist_fans(a)[0..3]) # pick top 5 fans
+      users.concat(PlayList.artist_fans(a)[0..30]) # pick top 5 fans
     end
 
     # get playlists of fans
